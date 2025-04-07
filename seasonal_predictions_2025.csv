@@ -1,61 +1,61 @@
 Season,Commodity,Market,Avg_Predicted_Price
-Spring,Beans,Ammapet(Uzhavar Sandhai ),61.66
-Spring,Beans,Athur(Uzhavar Sandhai ),65.13
-Spring,Beans,Attayampatti(Uzhavar Sandhai ),62.13
-Spring,Bottle gourd,Ammapet(Uzhavar Sandhai ),17.99
-Spring,Bottle gourd,Athur(Uzhavar Sandhai ),14.96
-Spring,Bottle gourd,Attayampatti(Uzhavar Sandhai ),18.43
-Spring,Coconut,Ammapet(Uzhavar Sandhai ),70.67
-Spring,Coconut,Athur(Uzhavar Sandhai ),65.9
-Spring,Coconut,Attayampatti(Uzhavar Sandhai ),70.54
-Spring,Banana - Green,Ammapet(Uzhavar Sandhai ),22.89
-Spring,Banana - Green,Athur(Uzhavar Sandhai ),25.82
-Spring,Banana - Green,Attayampatti(Uzhavar Sandhai ),22.47
-Spring,Pumpkin,Ammapet(Uzhavar Sandhai ),17.72
-Spring,Pumpkin,Athur(Uzhavar Sandhai ),18.43
-Spring,Pumpkin,Attayampatti(Uzhavar Sandhai ),17.21
-Summer,Beans,Ammapet(Uzhavar Sandhai ),61.66
-Summer,Beans,Athur(Uzhavar Sandhai ),65.13
-Summer,Beans,Attayampatti(Uzhavar Sandhai ),62.13
-Summer,Bottle gourd,Ammapet(Uzhavar Sandhai ),17.99
-Summer,Bottle gourd,Athur(Uzhavar Sandhai ),14.96
-Summer,Bottle gourd,Attayampatti(Uzhavar Sandhai ),18.43
-Summer,Coconut,Ammapet(Uzhavar Sandhai ),70.67
-Summer,Coconut,Athur(Uzhavar Sandhai ),65.9
-Summer,Coconut,Attayampatti(Uzhavar Sandhai ),70.54
-Summer,Banana - Green,Ammapet(Uzhavar Sandhai ),22.89
-Summer,Banana - Green,Athur(Uzhavar Sandhai ),25.82
-Summer,Banana - Green,Attayampatti(Uzhavar Sandhai ),22.47
-Summer,Pumpkin,Ammapet(Uzhavar Sandhai ),17.72
-Summer,Pumpkin,Athur(Uzhavar Sandhai ),18.43
-Summer,Pumpkin,Attayampatti(Uzhavar Sandhai ),17.21
-Monsoon,Beans,Ammapet(Uzhavar Sandhai ),61.64
-Monsoon,Beans,Athur(Uzhavar Sandhai ),65.2
-Monsoon,Beans,Attayampatti(Uzhavar Sandhai ),62.08
-Monsoon,Bottle gourd,Ammapet(Uzhavar Sandhai ),18.05
-Monsoon,Bottle gourd,Athur(Uzhavar Sandhai ),14.99
-Monsoon,Bottle gourd,Attayampatti(Uzhavar Sandhai ),18.49
-Monsoon,Coconut,Ammapet(Uzhavar Sandhai ),70.69
-Monsoon,Coconut,Athur(Uzhavar Sandhai ),65.92
-Monsoon,Coconut,Attayampatti(Uzhavar Sandhai ),70.55
-Monsoon,Banana - Green,Ammapet(Uzhavar Sandhai ),22.88
-Monsoon,Banana - Green,Athur(Uzhavar Sandhai ),25.83
-Monsoon,Banana - Green,Attayampatti(Uzhavar Sandhai ),22.48
-Monsoon,Pumpkin,Ammapet(Uzhavar Sandhai ),17.73
-Monsoon,Pumpkin,Athur(Uzhavar Sandhai ),18.42
-Monsoon,Pumpkin,Attayampatti(Uzhavar Sandhai ),17.18
-Winter,Beans,Ammapet(Uzhavar Sandhai ),61.62
-Winter,Beans,Athur(Uzhavar Sandhai ),65.22
-Winter,Beans,Attayampatti(Uzhavar Sandhai ),62.13
-Winter,Bottle gourd,Ammapet(Uzhavar Sandhai ),18.07
-Winter,Bottle gourd,Athur(Uzhavar Sandhai ),14.98
-Winter,Bottle gourd,Attayampatti(Uzhavar Sandhai ),18.48
-Winter,Coconut,Ammapet(Uzhavar Sandhai ),70.73
-Winter,Coconut,Athur(Uzhavar Sandhai ),65.91
-Winter,Coconut,Attayampatti(Uzhavar Sandhai ),70.56
-Winter,Banana - Green,Ammapet(Uzhavar Sandhai ),22.87
-Winter,Banana - Green,Athur(Uzhavar Sandhai ),25.88
-Winter,Banana - Green,Attayampatti(Uzhavar Sandhai ),22.45
-Winter,Pumpkin,Ammapet(Uzhavar Sandhai ),17.74
-Winter,Pumpkin,Athur(Uzhavar Sandhai ),18.42
-Winter,Pumpkin,Attayampatti(Uzhavar Sandhai ),17.13
+Spring,Bottle gourd,Ammapet(Uzhavar Sandhai ),17.98
+Spring,Bottle gourd,Athur(Uzhavar Sandhai ),16.46
+Spring,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.56
+Spring,Banana - Green,Ammapet(Uzhavar Sandhai ),22.17
+Spring,Banana - Green,Athur(Uzhavar Sandhai ),24.29
+Spring,Banana - Green,Attayampatti(Uzhavar Sandhai ),21.29
+Spring,Coconut,Ammapet(Uzhavar Sandhai ),70.79
+Spring,Coconut,Athur(Uzhavar Sandhai ),65.61
+Spring,Coconut,Attayampatti(Uzhavar Sandhai ),70.65
+Spring,Potato,Ammapet(Uzhavar Sandhai ),43.1
+Spring,Potato,Athur(Uzhavar Sandhai ),44.64
+Spring,Potato,Attayampatti(Uzhavar Sandhai ),41.1
+Spring,Carrot,Ammapet(Uzhavar Sandhai ),73.95
+Spring,Carrot,Athur(Uzhavar Sandhai ),75.54
+Spring,Carrot,Attayampatti(Uzhavar Sandhai ),70.88
+Summer,Bottle gourd,Ammapet(Uzhavar Sandhai ),17.98
+Summer,Bottle gourd,Athur(Uzhavar Sandhai ),16.46
+Summer,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.56
+Summer,Banana - Green,Ammapet(Uzhavar Sandhai ),22.17
+Summer,Banana - Green,Athur(Uzhavar Sandhai ),24.29
+Summer,Banana - Green,Attayampatti(Uzhavar Sandhai ),21.29
+Summer,Coconut,Ammapet(Uzhavar Sandhai ),70.79
+Summer,Coconut,Athur(Uzhavar Sandhai ),65.61
+Summer,Coconut,Attayampatti(Uzhavar Sandhai ),70.65
+Summer,Potato,Ammapet(Uzhavar Sandhai ),43.1
+Summer,Potato,Athur(Uzhavar Sandhai ),44.64
+Summer,Potato,Attayampatti(Uzhavar Sandhai ),41.1
+Summer,Carrot,Ammapet(Uzhavar Sandhai ),73.95
+Summer,Carrot,Athur(Uzhavar Sandhai ),75.54
+Summer,Carrot,Attayampatti(Uzhavar Sandhai ),70.88
+Monsoon,Bottle gourd,Ammapet(Uzhavar Sandhai ),17.98
+Monsoon,Bottle gourd,Athur(Uzhavar Sandhai ),16.44
+Monsoon,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.56
+Monsoon,Banana - Green,Ammapet(Uzhavar Sandhai ),22.18
+Monsoon,Banana - Green,Athur(Uzhavar Sandhai ),24.28
+Monsoon,Banana - Green,Attayampatti(Uzhavar Sandhai ),21.27
+Monsoon,Coconut,Ammapet(Uzhavar Sandhai ),70.78
+Monsoon,Coconut,Athur(Uzhavar Sandhai ),65.61
+Monsoon,Coconut,Attayampatti(Uzhavar Sandhai ),70.66
+Monsoon,Potato,Ammapet(Uzhavar Sandhai ),43.14
+Monsoon,Potato,Athur(Uzhavar Sandhai ),44.63
+Monsoon,Potato,Attayampatti(Uzhavar Sandhai ),41.11
+Monsoon,Carrot,Ammapet(Uzhavar Sandhai ),73.88
+Monsoon,Carrot,Athur(Uzhavar Sandhai ),75.45
+Monsoon,Carrot,Attayampatti(Uzhavar Sandhai ),70.91
+Winter,Bottle gourd,Ammapet(Uzhavar Sandhai ),17.98
+Winter,Bottle gourd,Athur(Uzhavar Sandhai ),16.44
+Winter,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.56
+Winter,Banana - Green,Ammapet(Uzhavar Sandhai ),22.18
+Winter,Banana - Green,Athur(Uzhavar Sandhai ),24.28
+Winter,Banana - Green,Attayampatti(Uzhavar Sandhai ),21.27
+Winter,Coconut,Ammapet(Uzhavar Sandhai ),70.78
+Winter,Coconut,Athur(Uzhavar Sandhai ),65.61
+Winter,Coconut,Attayampatti(Uzhavar Sandhai ),70.66
+Winter,Potato,Ammapet(Uzhavar Sandhai ),43.14
+Winter,Potato,Athur(Uzhavar Sandhai ),44.63
+Winter,Potato,Attayampatti(Uzhavar Sandhai ),41.11
+Winter,Carrot,Ammapet(Uzhavar Sandhai ),73.88
+Winter,Carrot,Athur(Uzhavar Sandhai ),75.45
+Winter,Carrot,Attayampatti(Uzhavar Sandhai ),70.91
