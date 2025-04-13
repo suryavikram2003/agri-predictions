@@ -1,0 +1,57 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Groundnut,Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-08,Saturday,Groundnut,Ammapet(Uzhavar Sandhai ),60.12,0.19
+2025-03-09,Sunday,Groundnut,Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-10,Monday,Groundnut,Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-11,Tuesday,Groundnut,Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-12,Wednesday,Groundnut,Ammapet(Uzhavar Sandhai ),60.12,0.2
+2025-03-13,Thursday,Groundnut,Ammapet(Uzhavar Sandhai ),60.12,0.2
+2025-03-07,Friday,Groundnut,Athur(Uzhavar Sandhai ),60.38,0.64
+2025-03-08,Saturday,Groundnut,Athur(Uzhavar Sandhai ),60.39,0.64
+2025-03-09,Sunday,Groundnut,Athur(Uzhavar Sandhai ),60.38,0.64
+2025-03-10,Monday,Groundnut,Athur(Uzhavar Sandhai ),60.38,0.63
+2025-03-11,Tuesday,Groundnut,Athur(Uzhavar Sandhai ),60.38,0.64
+2025-03-12,Wednesday,Groundnut,Athur(Uzhavar Sandhai ),60.38,0.64
+2025-03-13,Thursday,Groundnut,Athur(Uzhavar Sandhai ),60.39,0.64
+2025-03-07,Friday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.5,0.9
+2025-03-08,Saturday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.5,0.9
+2025-03-09,Sunday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.5,0.9
+2025-03-10,Monday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.49,0.89
+2025-03-11,Tuesday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.49,0.89
+2025-03-12,Wednesday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.5,0.9
+2025-03-13,Thursday,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.5,0.9
+2025-03-07,Friday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.77
+2025-03-08,Saturday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.77
+2025-03-09,Sunday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.77
+2025-03-10,Monday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.76
+2025-03-11,Tuesday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.77
+2025-03-12,Wednesday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.77
+2025-03-13,Thursday,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46,0.77
+2025-03-07,Friday,Groundnut,Mettur(Uzhavar Sandhai ),55.9,1.63
+2025-03-08,Saturday,Groundnut,Mettur(Uzhavar Sandhai ),55.9,1.63
+2025-03-09,Sunday,Groundnut,Mettur(Uzhavar Sandhai ),55.9,1.63
+2025-03-10,Monday,Groundnut,Mettur(Uzhavar Sandhai ),55.89,1.62
+2025-03-11,Tuesday,Groundnut,Mettur(Uzhavar Sandhai ),55.89,1.62
+2025-03-12,Wednesday,Groundnut,Mettur(Uzhavar Sandhai ),55.9,1.63
+2025-03-13,Thursday,Groundnut,Mettur(Uzhavar Sandhai ),55.9,1.63
+2025-03-07,Friday,Groundnut,Elampillai(Uzhavar Sandhai ),60.32,0.54
+2025-03-08,Saturday,Groundnut,Elampillai(Uzhavar Sandhai ),60.33,0.55
+2025-03-09,Sunday,Groundnut,Elampillai(Uzhavar Sandhai ),60.33,0.54
+2025-03-10,Monday,Groundnut,Elampillai(Uzhavar Sandhai ),60.32,0.53
+2025-03-11,Tuesday,Groundnut,Elampillai(Uzhavar Sandhai ),60.33,0.54
+2025-03-12,Wednesday,Groundnut,Elampillai(Uzhavar Sandhai ),60.33,0.54
+2025-03-13,Thursday,Groundnut,Elampillai(Uzhavar Sandhai ),60.33,0.54
+2025-03-07,Friday,Groundnut,Kolathur,64.12,-3.58
+2025-03-08,Saturday,Groundnut,Kolathur,64.12,-3.58
+2025-03-09,Sunday,Groundnut,Kolathur,64.12,-3.58
+2025-03-10,Monday,Groundnut,Kolathur,64.12,-3.59
+2025-03-11,Tuesday,Groundnut,Kolathur,64.12,-3.58
+2025-03-12,Wednesday,Groundnut,Kolathur,64.13,-3.57
+2025-03-13,Thursday,Groundnut,Kolathur,64.13,-3.57
+2025-03-07,Friday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.56,-0.74
+2025-03-08,Saturday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.56,-0.74
+2025-03-09,Sunday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.56,-0.74
+2025-03-10,Monday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.55,-0.75
+2025-03-11,Tuesday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.56,-0.74
+2025-03-12,Wednesday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.56,-0.74
+2025-03-13,Thursday,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.56,-0.74

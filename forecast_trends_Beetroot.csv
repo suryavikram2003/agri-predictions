@@ -1,22 +1,78 @@
 Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
-2025-03-07,Friday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.72
-2025-03-08,Saturday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.73
-2025-03-09,Sunday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.73
-2025-03-10,Monday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.73
-2025-03-11,Tuesday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.72
-2025-03-12,Wednesday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.72
-2025-03-13,Thursday,Beetroot,Ammapet(Uzhavar Sandhai ),51.86,3.72
-2025-03-07,Friday,Beetroot,Athur(Uzhavar Sandhai ),38.12,8.9
-2025-03-08,Saturday,Beetroot,Athur(Uzhavar Sandhai ),38.12,8.9
-2025-03-09,Sunday,Beetroot,Athur(Uzhavar Sandhai ),38.12,8.91
-2025-03-10,Monday,Beetroot,Athur(Uzhavar Sandhai ),38.12,8.9
-2025-03-11,Tuesday,Beetroot,Athur(Uzhavar Sandhai ),38.12,8.9
-2025-03-12,Wednesday,Beetroot,Athur(Uzhavar Sandhai ),38.11,8.89
-2025-03-13,Thursday,Beetroot,Athur(Uzhavar Sandhai ),38.11,8.88
-2025-03-07,Friday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.55
-2025-03-08,Saturday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.55
-2025-03-09,Sunday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.55
-2025-03-10,Monday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.55
-2025-03-11,Tuesday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.56
-2025-03-12,Wednesday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.55
-2025-03-13,Thursday,Beetroot,Attayampatti(Uzhavar Sandhai ),40.16,11.55
+2025-03-07,Friday,Beetroot,Ammapet(Uzhavar Sandhai ),49.93,-0.14
+2025-03-08,Saturday,Beetroot,Ammapet(Uzhavar Sandhai ),49.93,-0.14
+2025-03-09,Sunday,Beetroot,Ammapet(Uzhavar Sandhai ),49.93,-0.14
+2025-03-10,Monday,Beetroot,Ammapet(Uzhavar Sandhai ),49.92,-0.15
+2025-03-11,Tuesday,Beetroot,Ammapet(Uzhavar Sandhai ),49.93,-0.15
+2025-03-12,Wednesday,Beetroot,Ammapet(Uzhavar Sandhai ),49.93,-0.15
+2025-03-13,Thursday,Beetroot,Ammapet(Uzhavar Sandhai ),49.93,-0.15
+2025-03-07,Friday,Beetroot,Athur(Uzhavar Sandhai ),36.05,3.01
+2025-03-08,Saturday,Beetroot,Athur(Uzhavar Sandhai ),36.05,2.99
+2025-03-09,Sunday,Beetroot,Athur(Uzhavar Sandhai ),36.05,2.99
+2025-03-10,Monday,Beetroot,Athur(Uzhavar Sandhai ),36.04,2.98
+2025-03-11,Tuesday,Beetroot,Athur(Uzhavar Sandhai ),36.04,2.98
+2025-03-12,Wednesday,Beetroot,Athur(Uzhavar Sandhai ),36.05,2.99
+2025-03-13,Thursday,Beetroot,Athur(Uzhavar Sandhai ),36.05,2.99
+2025-03-07,Friday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.19,3.31
+2025-03-08,Saturday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.19,3.3
+2025-03-09,Sunday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.19,3.3
+2025-03-10,Monday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.18,3.29
+2025-03-11,Tuesday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.19,3.29
+2025-03-12,Wednesday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.19,3.29
+2025-03-13,Thursday,Beetroot,Attayampatti(Uzhavar Sandhai ),37.19,3.29
+2025-03-07,Friday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.19
+2025-03-08,Saturday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.19
+2025-03-09,Sunday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.19
+2025-03-10,Monday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.18
+2025-03-11,Tuesday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.19
+2025-03-12,Wednesday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.19
+2025-03-13,Thursday,Beetroot,Edapadi (Uzhavar Sandhai ),70.13,0.19
+2025-03-07,Friday,Beetroot,Elampillai(Uzhavar Sandhai ),50.38,0.76
+2025-03-08,Saturday,Beetroot,Elampillai(Uzhavar Sandhai ),50.38,0.75
+2025-03-09,Sunday,Beetroot,Elampillai(Uzhavar Sandhai ),50.38,0.75
+2025-03-10,Monday,Beetroot,Elampillai(Uzhavar Sandhai ),50.37,0.74
+2025-03-11,Tuesday,Beetroot,Elampillai(Uzhavar Sandhai ),50.38,0.75
+2025-03-12,Wednesday,Beetroot,Elampillai(Uzhavar Sandhai ),50.38,0.75
+2025-03-13,Thursday,Beetroot,Elampillai(Uzhavar Sandhai ),50.38,0.75
+2025-03-07,Friday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-08,Saturday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-09,Sunday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-10,Monday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-11,Tuesday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-12,Wednesday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-13,Thursday,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15,0.21
+2025-03-07,Friday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.91,3.03
+2025-03-08,Saturday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.9,3.01
+2025-03-09,Sunday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.91,3.02
+2025-03-10,Monday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.9,2.99
+2025-03-11,Tuesday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.91,3.02
+2025-03-12,Wednesday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.91,3.02
+2025-03-13,Thursday,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.91,3.03
+2025-03-07,Friday,Beetroot,Mettur(Uzhavar Sandhai ),41.04,2.6
+2025-03-08,Saturday,Beetroot,Mettur(Uzhavar Sandhai ),41.04,2.59
+2025-03-09,Sunday,Beetroot,Mettur(Uzhavar Sandhai ),41.04,2.59
+2025-03-10,Monday,Beetroot,Mettur(Uzhavar Sandhai ),41.03,2.58
+2025-03-11,Tuesday,Beetroot,Mettur(Uzhavar Sandhai ),41.04,2.59
+2025-03-12,Wednesday,Beetroot,Mettur(Uzhavar Sandhai ),41.04,2.6
+2025-03-13,Thursday,Beetroot,Mettur(Uzhavar Sandhai ),41.04,2.6
+2025-03-07,Friday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.07,0.09
+2025-03-08,Saturday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.06,0.09
+2025-03-09,Sunday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.06,0.09
+2025-03-10,Monday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.06,0.09
+2025-03-11,Tuesday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.06,0.09
+2025-03-12,Wednesday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.07,0.09
+2025-03-13,Thursday,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.07,0.09
+2025-03-07,Friday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.48,1.19
+2025-03-08,Saturday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.47,1.18
+2025-03-09,Sunday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.48,1.19
+2025-03-10,Monday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.47,1.17
+2025-03-11,Tuesday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.47,1.19
+2025-03-12,Wednesday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.47,1.19
+2025-03-13,Thursday,Beetroot,Thammampatti (Uzhavar Sandhai ),40.47,1.19
+2025-03-07,Friday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.42
+2025-03-08,Saturday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.42
+2025-03-09,Sunday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.42
+2025-03-10,Monday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.41
+2025-03-11,Tuesday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.42
+2025-03-12,Wednesday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.42
+2025-03-13,Thursday,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.29,0.42

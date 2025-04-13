@@ -1,0 +1,64 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.07,0.07
+2025-03-08,Saturday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.07,0.07
+2025-03-09,Sunday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.06,0.06
+2025-03-10,Monday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.06,0.06
+2025-03-11,Tuesday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.06,0.06
+2025-03-12,Wednesday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.06,0.06
+2025-03-13,Thursday,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.06,0.06
+2025-03-07,Friday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.1,0.1
+2025-03-08,Saturday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.1,0.1
+2025-03-09,Sunday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.1,0.1
+2025-03-10,Monday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.1,0.1
+2025-03-11,Tuesday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09,0.09
+2025-03-12,Wednesday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09,0.09
+2025-03-13,Thursday,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09,0.09
+2025-03-07,Friday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-08,Saturday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-09,Sunday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-10,Monday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-11,Tuesday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-12,Wednesday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-13,Thursday,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.0,-0.0
+2025-03-07,Friday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.0
+2025-03-08,Saturday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.0
+2025-03-09,Sunday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.0
+2025-03-10,Monday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.01
+2025-03-11,Tuesday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.0
+2025-03-12,Wednesday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.0
+2025-03-13,Thursday,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0,0.0
+2025-03-07,Friday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.09,0.09
+2025-03-08,Saturday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.09,0.09
+2025-03-09,Sunday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08,0.08
+2025-03-10,Monday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08,0.08
+2025-03-11,Tuesday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08,0.08
+2025-03-12,Wednesday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08,0.08
+2025-03-13,Thursday,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08,0.08
+2025-03-07,Friday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-08,Saturday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-09,Sunday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-10,Monday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-11,Tuesday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-12,Wednesday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-13,Thursday,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09,0.09
+2025-03-07,Friday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.27
+2025-03-08,Saturday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.27
+2025-03-09,Sunday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.27
+2025-03-10,Monday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.28
+2025-03-11,Tuesday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.27
+2025-03-12,Wednesday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.27
+2025-03-13,Thursday,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22,0.27
+2025-03-07,Friday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.31,0.31
+2025-03-08,Saturday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3,0.3
+2025-03-09,Sunday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.31,0.31
+2025-03-10,Monday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3,0.3
+2025-03-11,Tuesday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3,0.3
+2025-03-12,Wednesday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3,0.3
+2025-03-13,Thursday,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3,0.3
+2025-03-07,Friday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43
+2025-03-08,Saturday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43
+2025-03-09,Sunday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43
+2025-03-10,Monday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43
+2025-03-11,Tuesday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43
+2025-03-12,Wednesday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43
+2025-03-13,Thursday,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57,-0.43

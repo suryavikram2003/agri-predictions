@@ -1,61 +1,2521 @@
 Season,Commodity,Market,Avg_Predicted_Price
-Spring,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),34.38
-Spring,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),25.73
-Spring,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),33.58
-Summer,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),34.38
-Summer,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),25.73
-Summer,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),33.58
-Monsoon,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),34.38
-Monsoon,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),25.73
-Monsoon,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),33.58
-Winter,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),34.38
-Winter,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),25.72
-Winter,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),33.58
-Spring,Bitter gourd,Ammapet(Uzhavar Sandhai ),34.71
-Spring,Bitter gourd,Athur(Uzhavar Sandhai ),29.66
-Spring,Bitter gourd,Attayampatti(Uzhavar Sandhai ),33.26
-Summer,Bitter gourd,Ammapet(Uzhavar Sandhai ),34.71
-Summer,Bitter gourd,Athur(Uzhavar Sandhai ),29.66
-Summer,Bitter gourd,Attayampatti(Uzhavar Sandhai ),33.26
-Monsoon,Bitter gourd,Ammapet(Uzhavar Sandhai ),34.71
-Monsoon,Bitter gourd,Athur(Uzhavar Sandhai ),29.66
-Monsoon,Bitter gourd,Attayampatti(Uzhavar Sandhai ),33.25
-Winter,Bitter gourd,Ammapet(Uzhavar Sandhai ),34.71
-Winter,Bitter gourd,Athur(Uzhavar Sandhai ),29.66
-Winter,Bitter gourd,Attayampatti(Uzhavar Sandhai ),33.26
-Spring,Beetroot,Ammapet(Uzhavar Sandhai ),51.84
-Spring,Beetroot,Athur(Uzhavar Sandhai ),38.02
-Spring,Beetroot,Attayampatti(Uzhavar Sandhai ),40.18
-Summer,Beetroot,Ammapet(Uzhavar Sandhai ),51.84
-Summer,Beetroot,Athur(Uzhavar Sandhai ),38.02
-Summer,Beetroot,Attayampatti(Uzhavar Sandhai ),40.18
-Monsoon,Beetroot,Ammapet(Uzhavar Sandhai ),51.84
-Monsoon,Beetroot,Athur(Uzhavar Sandhai ),38.02
-Monsoon,Beetroot,Attayampatti(Uzhavar Sandhai ),40.17
-Winter,Beetroot,Ammapet(Uzhavar Sandhai ),51.84
-Winter,Beetroot,Athur(Uzhavar Sandhai ),38.02
-Winter,Beetroot,Attayampatti(Uzhavar Sandhai ),40.17
-Spring,Banana - Green,Ammapet(Uzhavar Sandhai ),27.48
-Spring,Banana - Green,Athur(Uzhavar Sandhai ),32.57
-Spring,Banana - Green,Attayampatti(Uzhavar Sandhai ),29.84
-Summer,Banana - Green,Ammapet(Uzhavar Sandhai ),27.48
-Summer,Banana - Green,Athur(Uzhavar Sandhai ),32.57
-Summer,Banana - Green,Attayampatti(Uzhavar Sandhai ),29.84
-Monsoon,Banana - Green,Ammapet(Uzhavar Sandhai ),27.48
-Monsoon,Banana - Green,Athur(Uzhavar Sandhai ),32.57
-Monsoon,Banana - Green,Attayampatti(Uzhavar Sandhai ),29.83
-Winter,Banana - Green,Ammapet(Uzhavar Sandhai ),27.48
-Winter,Banana - Green,Athur(Uzhavar Sandhai ),32.57
-Winter,Banana - Green,Attayampatti(Uzhavar Sandhai ),29.83
-Spring,Potato,Ammapet(Uzhavar Sandhai ),46.39
-Spring,Potato,Athur(Uzhavar Sandhai ),46.19
-Spring,Potato,Attayampatti(Uzhavar Sandhai ),44.58
-Summer,Potato,Ammapet(Uzhavar Sandhai ),46.39
-Summer,Potato,Athur(Uzhavar Sandhai ),46.19
-Summer,Potato,Attayampatti(Uzhavar Sandhai ),44.58
-Monsoon,Potato,Ammapet(Uzhavar Sandhai ),46.39
-Monsoon,Potato,Athur(Uzhavar Sandhai ),46.19
-Monsoon,Potato,Attayampatti(Uzhavar Sandhai ),44.58
-Winter,Potato,Ammapet(Uzhavar Sandhai ),46.39
-Winter,Potato,Athur(Uzhavar Sandhai ),46.19
-Winter,Potato,Attayampatti(Uzhavar Sandhai ),44.58
+Spring,Cluster beans,Ammapet(Uzhavar Sandhai ),33.0
+Spring,Cluster beans,Athur(Uzhavar Sandhai ),36.65
+Spring,Cluster beans,Attayampatti(Uzhavar Sandhai ),34.06
+Spring,Cluster beans,Edapadi (Uzhavar Sandhai ),34.66
+Spring,Cluster beans,Elampillai(Uzhavar Sandhai ),36.64
+Spring,Cluster beans,Hasthampatti(Uzhavar Sandhai ),36.25
+Spring,Cluster beans,Jalagandapuram(Uzhavar Sandhai ),34.13
+Spring,Cluster beans,Mettur(Uzhavar Sandhai ),32.0
+Spring,Cluster beans,Sooramangalam(Uzhavar Sandhai ),33.27
+Spring,Cluster beans,Thammampatti (Uzhavar Sandhai ),34.19
+Spring,Cluster beans,Thathakapatti(Uzhavar Sandhai ),31.52
+Summer,Cluster beans,Ammapet(Uzhavar Sandhai ),33.0
+Summer,Cluster beans,Athur(Uzhavar Sandhai ),36.65
+Summer,Cluster beans,Attayampatti(Uzhavar Sandhai ),34.06
+Summer,Cluster beans,Edapadi (Uzhavar Sandhai ),34.66
+Summer,Cluster beans,Elampillai(Uzhavar Sandhai ),36.64
+Summer,Cluster beans,Hasthampatti(Uzhavar Sandhai ),36.25
+Summer,Cluster beans,Jalagandapuram(Uzhavar Sandhai ),34.13
+Summer,Cluster beans,Mettur(Uzhavar Sandhai ),32.0
+Summer,Cluster beans,Sooramangalam(Uzhavar Sandhai ),33.27
+Summer,Cluster beans,Thammampatti (Uzhavar Sandhai ),34.19
+Summer,Cluster beans,Thathakapatti(Uzhavar Sandhai ),31.52
+Monsoon,Cluster beans,Ammapet(Uzhavar Sandhai ),33.0
+Monsoon,Cluster beans,Athur(Uzhavar Sandhai ),36.64
+Monsoon,Cluster beans,Attayampatti(Uzhavar Sandhai ),34.06
+Monsoon,Cluster beans,Edapadi (Uzhavar Sandhai ),34.66
+Monsoon,Cluster beans,Elampillai(Uzhavar Sandhai ),36.64
+Monsoon,Cluster beans,Hasthampatti(Uzhavar Sandhai ),36.25
+Monsoon,Cluster beans,Jalagandapuram(Uzhavar Sandhai ),34.12
+Monsoon,Cluster beans,Mettur(Uzhavar Sandhai ),32.0
+Monsoon,Cluster beans,Sooramangalam(Uzhavar Sandhai ),33.27
+Monsoon,Cluster beans,Thammampatti (Uzhavar Sandhai ),34.19
+Monsoon,Cluster beans,Thathakapatti(Uzhavar Sandhai ),31.52
+Winter,Cluster beans,Ammapet(Uzhavar Sandhai ),33.0
+Winter,Cluster beans,Athur(Uzhavar Sandhai ),36.65
+Winter,Cluster beans,Attayampatti(Uzhavar Sandhai ),34.06
+Winter,Cluster beans,Edapadi (Uzhavar Sandhai ),34.66
+Winter,Cluster beans,Elampillai(Uzhavar Sandhai ),36.64
+Winter,Cluster beans,Hasthampatti(Uzhavar Sandhai ),36.25
+Winter,Cluster beans,Jalagandapuram(Uzhavar Sandhai ),34.13
+Winter,Cluster beans,Mettur(Uzhavar Sandhai ),32.0
+Winter,Cluster beans,Sooramangalam(Uzhavar Sandhai ),33.27
+Winter,Cluster beans,Thammampatti (Uzhavar Sandhai ),34.19
+Winter,Cluster beans,Thathakapatti(Uzhavar Sandhai ),31.52
+Spring,Beans,Ammapet(Uzhavar Sandhai ),60.31
+Spring,Beans,Athur(Uzhavar Sandhai ),61.01
+Spring,Beans,Attayampatti(Uzhavar Sandhai ),70.55
+Spring,Beans,Edapadi (Uzhavar Sandhai ),65.93
+Spring,Beans,Elampillai(Uzhavar Sandhai ),70.51
+Spring,Beans,Hasthampatti(Uzhavar Sandhai ),70.15
+Spring,Beans,Mettur(Uzhavar Sandhai ),61.12
+Spring,Beans,Thammampatti (Uzhavar Sandhai ),60.9
+Spring,Beans,Jalagandapuram(Uzhavar Sandhai ),60.78
+Spring,Beans,Thathakapatti(Uzhavar Sandhai ),70.35
+Spring,Beans,Sooramangalam(Uzhavar Sandhai ),69.93
+Summer,Beans,Ammapet(Uzhavar Sandhai ),60.32
+Summer,Beans,Athur(Uzhavar Sandhai ),61.01
+Summer,Beans,Attayampatti(Uzhavar Sandhai ),70.55
+Summer,Beans,Edapadi (Uzhavar Sandhai ),65.93
+Summer,Beans,Elampillai(Uzhavar Sandhai ),70.51
+Summer,Beans,Hasthampatti(Uzhavar Sandhai ),70.14
+Summer,Beans,Mettur(Uzhavar Sandhai ),61.12
+Summer,Beans,Thammampatti (Uzhavar Sandhai ),60.9
+Summer,Beans,Jalagandapuram(Uzhavar Sandhai ),60.78
+Summer,Beans,Thathakapatti(Uzhavar Sandhai ),70.35
+Summer,Beans,Sooramangalam(Uzhavar Sandhai ),69.93
+Monsoon,Beans,Ammapet(Uzhavar Sandhai ),60.31
+Monsoon,Beans,Athur(Uzhavar Sandhai ),61.01
+Monsoon,Beans,Attayampatti(Uzhavar Sandhai ),70.55
+Monsoon,Beans,Edapadi (Uzhavar Sandhai ),65.93
+Monsoon,Beans,Elampillai(Uzhavar Sandhai ),70.51
+Monsoon,Beans,Hasthampatti(Uzhavar Sandhai ),70.15
+Monsoon,Beans,Mettur(Uzhavar Sandhai ),61.12
+Monsoon,Beans,Thammampatti (Uzhavar Sandhai ),60.9
+Monsoon,Beans,Jalagandapuram(Uzhavar Sandhai ),60.78
+Monsoon,Beans,Thathakapatti(Uzhavar Sandhai ),70.35
+Monsoon,Beans,Sooramangalam(Uzhavar Sandhai ),69.93
+Winter,Beans,Ammapet(Uzhavar Sandhai ),60.31
+Winter,Beans,Athur(Uzhavar Sandhai ),61.01
+Winter,Beans,Attayampatti(Uzhavar Sandhai ),70.54
+Winter,Beans,Edapadi (Uzhavar Sandhai ),65.93
+Winter,Beans,Elampillai(Uzhavar Sandhai ),70.51
+Winter,Beans,Hasthampatti(Uzhavar Sandhai ),70.15
+Winter,Beans,Mettur(Uzhavar Sandhai ),61.12
+Winter,Beans,Thammampatti (Uzhavar Sandhai ),60.9
+Winter,Beans,Jalagandapuram(Uzhavar Sandhai ),60.78
+Winter,Beans,Thathakapatti(Uzhavar Sandhai ),70.35
+Winter,Beans,Sooramangalam(Uzhavar Sandhai ),69.93
+Spring,Tapioca,Ammapet(Uzhavar Sandhai ),31.53
+Spring,Tapioca,Athur(Uzhavar Sandhai ),22.4
+Spring,Tapioca,Attayampatti(Uzhavar Sandhai ),31.94
+Spring,Tapioca,Edapadi (Uzhavar Sandhai ),32.04
+Spring,Tapioca,Elampillai(Uzhavar Sandhai ),31.99
+Spring,Tapioca,Hasthampatti(Uzhavar Sandhai ),31.58
+Spring,Tapioca,Jalagandapuram(Uzhavar Sandhai ),32.11
+Spring,Tapioca,Mettur(Uzhavar Sandhai ),36.91
+Spring,Tapioca,Sooramangalam(Uzhavar Sandhai ),31.51
+Spring,Tapioca,Thammampatti (Uzhavar Sandhai ),27.12
+Spring,Tapioca,Thathakapatti(Uzhavar Sandhai ),31.66
+Summer,Tapioca,Ammapet(Uzhavar Sandhai ),31.53
+Summer,Tapioca,Athur(Uzhavar Sandhai ),22.4
+Summer,Tapioca,Attayampatti(Uzhavar Sandhai ),31.94
+Summer,Tapioca,Edapadi (Uzhavar Sandhai ),32.04
+Summer,Tapioca,Elampillai(Uzhavar Sandhai ),31.99
+Summer,Tapioca,Hasthampatti(Uzhavar Sandhai ),31.58
+Summer,Tapioca,Jalagandapuram(Uzhavar Sandhai ),32.11
+Summer,Tapioca,Mettur(Uzhavar Sandhai ),36.91
+Summer,Tapioca,Sooramangalam(Uzhavar Sandhai ),31.51
+Summer,Tapioca,Thammampatti (Uzhavar Sandhai ),27.12
+Summer,Tapioca,Thathakapatti(Uzhavar Sandhai ),31.66
+Monsoon,Tapioca,Ammapet(Uzhavar Sandhai ),31.53
+Monsoon,Tapioca,Athur(Uzhavar Sandhai ),22.4
+Monsoon,Tapioca,Attayampatti(Uzhavar Sandhai ),31.94
+Monsoon,Tapioca,Edapadi (Uzhavar Sandhai ),32.04
+Monsoon,Tapioca,Elampillai(Uzhavar Sandhai ),31.99
+Monsoon,Tapioca,Hasthampatti(Uzhavar Sandhai ),31.57
+Monsoon,Tapioca,Jalagandapuram(Uzhavar Sandhai ),32.11
+Monsoon,Tapioca,Mettur(Uzhavar Sandhai ),36.91
+Monsoon,Tapioca,Sooramangalam(Uzhavar Sandhai ),31.51
+Monsoon,Tapioca,Thammampatti (Uzhavar Sandhai ),27.12
+Monsoon,Tapioca,Thathakapatti(Uzhavar Sandhai ),31.66
+Winter,Tapioca,Ammapet(Uzhavar Sandhai ),31.53
+Winter,Tapioca,Athur(Uzhavar Sandhai ),22.4
+Winter,Tapioca,Attayampatti(Uzhavar Sandhai ),31.94
+Winter,Tapioca,Edapadi (Uzhavar Sandhai ),32.04
+Winter,Tapioca,Elampillai(Uzhavar Sandhai ),31.99
+Winter,Tapioca,Hasthampatti(Uzhavar Sandhai ),31.57
+Winter,Tapioca,Jalagandapuram(Uzhavar Sandhai ),32.11
+Winter,Tapioca,Mettur(Uzhavar Sandhai ),36.91
+Winter,Tapioca,Sooramangalam(Uzhavar Sandhai ),31.51
+Winter,Tapioca,Thammampatti (Uzhavar Sandhai ),27.12
+Winter,Tapioca,Thathakapatti(Uzhavar Sandhai ),31.66
+Spring,Brinjal,Ammapet(Uzhavar Sandhai ),22.26
+Spring,Brinjal,Athur(Uzhavar Sandhai ),22.54
+Spring,Brinjal,Attayampatti(Uzhavar Sandhai ),22.38
+Spring,Brinjal,Edapadi (Uzhavar Sandhai ),22.54
+Spring,Brinjal,Elampillai(Uzhavar Sandhai ),22.51
+Spring,Brinjal,Hasthampatti(Uzhavar Sandhai ),25.97
+Spring,Brinjal,Jalagandapuram(Uzhavar Sandhai ),24.16
+Spring,Brinjal,Mettur(Uzhavar Sandhai ),18.75
+Spring,Brinjal,Sooramangalam(Uzhavar Sandhai ),22.14
+Spring,Brinjal,Thammampatti (Uzhavar Sandhai ),26.41
+Spring,Brinjal,Thathakapatti(Uzhavar Sandhai ),22.38
+Summer,Brinjal,Ammapet(Uzhavar Sandhai ),22.26
+Summer,Brinjal,Athur(Uzhavar Sandhai ),22.54
+Summer,Brinjal,Attayampatti(Uzhavar Sandhai ),22.38
+Summer,Brinjal,Edapadi (Uzhavar Sandhai ),22.54
+Summer,Brinjal,Elampillai(Uzhavar Sandhai ),22.51
+Summer,Brinjal,Hasthampatti(Uzhavar Sandhai ),25.97
+Summer,Brinjal,Jalagandapuram(Uzhavar Sandhai ),24.16
+Summer,Brinjal,Mettur(Uzhavar Sandhai ),18.75
+Summer,Brinjal,Sooramangalam(Uzhavar Sandhai ),22.14
+Summer,Brinjal,Thammampatti (Uzhavar Sandhai ),26.41
+Summer,Brinjal,Thathakapatti(Uzhavar Sandhai ),22.38
+Monsoon,Brinjal,Ammapet(Uzhavar Sandhai ),22.26
+Monsoon,Brinjal,Athur(Uzhavar Sandhai ),22.54
+Monsoon,Brinjal,Attayampatti(Uzhavar Sandhai ),22.38
+Monsoon,Brinjal,Edapadi (Uzhavar Sandhai ),22.54
+Monsoon,Brinjal,Elampillai(Uzhavar Sandhai ),22.51
+Monsoon,Brinjal,Hasthampatti(Uzhavar Sandhai ),25.97
+Monsoon,Brinjal,Jalagandapuram(Uzhavar Sandhai ),24.15
+Monsoon,Brinjal,Mettur(Uzhavar Sandhai ),18.75
+Monsoon,Brinjal,Sooramangalam(Uzhavar Sandhai ),22.14
+Monsoon,Brinjal,Thammampatti (Uzhavar Sandhai ),26.41
+Monsoon,Brinjal,Thathakapatti(Uzhavar Sandhai ),22.38
+Winter,Brinjal,Ammapet(Uzhavar Sandhai ),22.26
+Winter,Brinjal,Athur(Uzhavar Sandhai ),22.54
+Winter,Brinjal,Attayampatti(Uzhavar Sandhai ),22.38
+Winter,Brinjal,Edapadi (Uzhavar Sandhai ),22.54
+Winter,Brinjal,Elampillai(Uzhavar Sandhai ),22.51
+Winter,Brinjal,Hasthampatti(Uzhavar Sandhai ),25.97
+Winter,Brinjal,Jalagandapuram(Uzhavar Sandhai ),24.15
+Winter,Brinjal,Mettur(Uzhavar Sandhai ),18.75
+Winter,Brinjal,Sooramangalam(Uzhavar Sandhai ),22.14
+Winter,Brinjal,Thammampatti (Uzhavar Sandhai ),26.41
+Winter,Brinjal,Thathakapatti(Uzhavar Sandhai ),22.38
+Spring,Bottle gourd,Ammapet(Uzhavar Sandhai ),18.27
+Spring,Bottle gourd,Athur(Uzhavar Sandhai ),14.3
+Spring,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.78
+Spring,Bottle gourd,Edapadi (Uzhavar Sandhai ),16.44
+Spring,Bottle gourd,Elampillai(Uzhavar Sandhai ),18.42
+Spring,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),18.35
+Spring,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),14.01
+Spring,Bottle gourd,Mettur(Uzhavar Sandhai ),15.67
+Spring,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),18.27
+Spring,Bottle gourd,Thammampatti (Uzhavar Sandhai ),14.23
+Spring,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),18.52
+Summer,Bottle gourd,Ammapet(Uzhavar Sandhai ),18.27
+Summer,Bottle gourd,Athur(Uzhavar Sandhai ),14.3
+Summer,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.78
+Summer,Bottle gourd,Edapadi (Uzhavar Sandhai ),16.43
+Summer,Bottle gourd,Elampillai(Uzhavar Sandhai ),18.42
+Summer,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),18.35
+Summer,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),14.01
+Summer,Bottle gourd,Mettur(Uzhavar Sandhai ),15.67
+Summer,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),18.27
+Summer,Bottle gourd,Thammampatti (Uzhavar Sandhai ),14.23
+Summer,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),18.52
+Monsoon,Bottle gourd,Ammapet(Uzhavar Sandhai ),18.27
+Monsoon,Bottle gourd,Athur(Uzhavar Sandhai ),14.3
+Monsoon,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.77
+Monsoon,Bottle gourd,Edapadi (Uzhavar Sandhai ),16.43
+Monsoon,Bottle gourd,Elampillai(Uzhavar Sandhai ),18.42
+Monsoon,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),18.35
+Monsoon,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),14.01
+Monsoon,Bottle gourd,Mettur(Uzhavar Sandhai ),15.67
+Monsoon,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),18.27
+Monsoon,Bottle gourd,Thammampatti (Uzhavar Sandhai ),14.22
+Monsoon,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),18.52
+Winter,Bottle gourd,Ammapet(Uzhavar Sandhai ),18.27
+Winter,Bottle gourd,Athur(Uzhavar Sandhai ),14.3
+Winter,Bottle gourd,Attayampatti(Uzhavar Sandhai ),17.78
+Winter,Bottle gourd,Edapadi (Uzhavar Sandhai ),16.43
+Winter,Bottle gourd,Elampillai(Uzhavar Sandhai ),18.42
+Winter,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),18.35
+Winter,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),14.01
+Winter,Bottle gourd,Mettur(Uzhavar Sandhai ),15.67
+Winter,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),18.27
+Winter,Bottle gourd,Thammampatti (Uzhavar Sandhai ),14.22
+Winter,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),18.52
+Spring,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.08
+Spring,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09
+Spring,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.01
+Spring,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0
+Spring,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08
+Spring,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09
+Spring,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22
+Spring,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.29
+Spring,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.56
+Summer,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.08
+Summer,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09
+Summer,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.01
+Summer,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0
+Summer,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08
+Summer,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09
+Summer,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22
+Summer,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3
+Summer,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57
+Monsoon,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.08
+Monsoon,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09
+Monsoon,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.01
+Monsoon,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0
+Monsoon,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08
+Monsoon,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09
+Monsoon,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22
+Monsoon,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.3
+Monsoon,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.57
+Winter,Mango (Raw-Ripe),Ammapet(Uzhavar Sandhai ),100.08
+Winter,Mango (Raw-Ripe),Sooramangalam(Uzhavar Sandhai ),100.09
+Winter,Mango (Raw-Ripe),Thathakapatti(Uzhavar Sandhai ),100.01
+Winter,Mango (Raw-Ripe),Athur(Uzhavar Sandhai ),80.0
+Winter,Mango (Raw-Ripe),Thammampatti (Uzhavar Sandhai ),100.08
+Winter,Mango (Raw-Ripe),Hasthampatti(Uzhavar Sandhai ),100.09
+Winter,Mango (Raw-Ripe),Mettur(Uzhavar Sandhai ),80.22
+Winter,Mango (Raw-Ripe),Edapadi (Uzhavar Sandhai ),100.29
+Winter,Mango (Raw-Ripe),Attayampatti(Uzhavar Sandhai ),99.56
+Spring,Chow Chow,Ammapet(Uzhavar Sandhai ),31.39
+Spring,Chow Chow,Athur(Uzhavar Sandhai ),27.16
+Spring,Chow Chow,Attayampatti(Uzhavar Sandhai ),38.2
+Spring,Chow Chow,Edapadi (Uzhavar Sandhai ),31.89
+Spring,Chow Chow,Elampillai(Uzhavar Sandhai ),31.83
+Spring,Chow Chow,Hasthampatti(Uzhavar Sandhai ),31.57
+Spring,Chow Chow,Mettur(Uzhavar Sandhai ),32.04
+Spring,Chow Chow,Sooramangalam(Uzhavar Sandhai ),31.51
+Spring,Chow Chow,Thammampatti (Uzhavar Sandhai ),26.97
+Spring,Chow Chow,Thathakapatti(Uzhavar Sandhai ),31.55
+Spring,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),31.94
+Summer,Chow Chow,Ammapet(Uzhavar Sandhai ),31.39
+Summer,Chow Chow,Athur(Uzhavar Sandhai ),27.16
+Summer,Chow Chow,Attayampatti(Uzhavar Sandhai ),38.2
+Summer,Chow Chow,Edapadi (Uzhavar Sandhai ),31.89
+Summer,Chow Chow,Elampillai(Uzhavar Sandhai ),31.83
+Summer,Chow Chow,Hasthampatti(Uzhavar Sandhai ),31.57
+Summer,Chow Chow,Mettur(Uzhavar Sandhai ),32.04
+Summer,Chow Chow,Sooramangalam(Uzhavar Sandhai ),31.51
+Summer,Chow Chow,Thammampatti (Uzhavar Sandhai ),26.97
+Summer,Chow Chow,Thathakapatti(Uzhavar Sandhai ),31.55
+Summer,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),31.94
+Monsoon,Chow Chow,Ammapet(Uzhavar Sandhai ),31.39
+Monsoon,Chow Chow,Athur(Uzhavar Sandhai ),27.16
+Monsoon,Chow Chow,Attayampatti(Uzhavar Sandhai ),38.2
+Monsoon,Chow Chow,Edapadi (Uzhavar Sandhai ),31.89
+Monsoon,Chow Chow,Elampillai(Uzhavar Sandhai ),31.82
+Monsoon,Chow Chow,Hasthampatti(Uzhavar Sandhai ),31.57
+Monsoon,Chow Chow,Mettur(Uzhavar Sandhai ),32.04
+Monsoon,Chow Chow,Sooramangalam(Uzhavar Sandhai ),31.51
+Monsoon,Chow Chow,Thammampatti (Uzhavar Sandhai ),26.97
+Monsoon,Chow Chow,Thathakapatti(Uzhavar Sandhai ),31.55
+Monsoon,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),31.94
+Winter,Chow Chow,Ammapet(Uzhavar Sandhai ),31.39
+Winter,Chow Chow,Athur(Uzhavar Sandhai ),27.16
+Winter,Chow Chow,Attayampatti(Uzhavar Sandhai ),38.2
+Winter,Chow Chow,Edapadi (Uzhavar Sandhai ),31.89
+Winter,Chow Chow,Elampillai(Uzhavar Sandhai ),31.83
+Winter,Chow Chow,Hasthampatti(Uzhavar Sandhai ),31.57
+Winter,Chow Chow,Mettur(Uzhavar Sandhai ),32.04
+Winter,Chow Chow,Sooramangalam(Uzhavar Sandhai ),31.51
+Winter,Chow Chow,Thammampatti (Uzhavar Sandhai ),26.97
+Winter,Chow Chow,Thathakapatti(Uzhavar Sandhai ),31.55
+Winter,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),31.94
+Spring,Capsicum,Ammapet(Uzhavar Sandhai ),50.28
+Spring,Capsicum,Athur(Uzhavar Sandhai ),51.2
+Spring,Capsicum,Attayampatti(Uzhavar Sandhai ),57.32
+Spring,Capsicum,Edapadi (Uzhavar Sandhai ),51.22
+Spring,Capsicum,Elampillai(Uzhavar Sandhai ),51.14
+Spring,Capsicum,Hasthampatti(Uzhavar Sandhai ),50.14
+Spring,Capsicum,Sooramangalam(Uzhavar Sandhai ),49.96
+Spring,Capsicum,Thammampatti (Uzhavar Sandhai ),55.93
+Spring,Capsicum,Thathakapatti(Uzhavar Sandhai ),50.13
+Spring,Capsicum,Mettur(Uzhavar Sandhai ),51.01
+Spring,Capsicum,Jalagandapuram(Uzhavar Sandhai ),51.18
+Summer,Capsicum,Ammapet(Uzhavar Sandhai ),50.29
+Summer,Capsicum,Athur(Uzhavar Sandhai ),51.2
+Summer,Capsicum,Attayampatti(Uzhavar Sandhai ),57.33
+Summer,Capsicum,Edapadi (Uzhavar Sandhai ),51.22
+Summer,Capsicum,Elampillai(Uzhavar Sandhai ),51.15
+Summer,Capsicum,Hasthampatti(Uzhavar Sandhai ),50.14
+Summer,Capsicum,Sooramangalam(Uzhavar Sandhai ),49.96
+Summer,Capsicum,Thammampatti (Uzhavar Sandhai ),55.93
+Summer,Capsicum,Thathakapatti(Uzhavar Sandhai ),50.13
+Summer,Capsicum,Mettur(Uzhavar Sandhai ),51.01
+Summer,Capsicum,Jalagandapuram(Uzhavar Sandhai ),51.18
+Monsoon,Capsicum,Ammapet(Uzhavar Sandhai ),50.28
+Monsoon,Capsicum,Athur(Uzhavar Sandhai ),51.2
+Monsoon,Capsicum,Attayampatti(Uzhavar Sandhai ),57.32
+Monsoon,Capsicum,Edapadi (Uzhavar Sandhai ),51.22
+Monsoon,Capsicum,Elampillai(Uzhavar Sandhai ),51.13
+Monsoon,Capsicum,Hasthampatti(Uzhavar Sandhai ),50.14
+Monsoon,Capsicum,Sooramangalam(Uzhavar Sandhai ),49.96
+Monsoon,Capsicum,Thammampatti (Uzhavar Sandhai ),55.93
+Monsoon,Capsicum,Thathakapatti(Uzhavar Sandhai ),50.13
+Monsoon,Capsicum,Mettur(Uzhavar Sandhai ),51.01
+Monsoon,Capsicum,Jalagandapuram(Uzhavar Sandhai ),51.18
+Winter,Capsicum,Ammapet(Uzhavar Sandhai ),50.28
+Winter,Capsicum,Athur(Uzhavar Sandhai ),51.2
+Winter,Capsicum,Attayampatti(Uzhavar Sandhai ),57.32
+Winter,Capsicum,Edapadi (Uzhavar Sandhai ),51.22
+Winter,Capsicum,Elampillai(Uzhavar Sandhai ),51.13
+Winter,Capsicum,Hasthampatti(Uzhavar Sandhai ),50.14
+Winter,Capsicum,Sooramangalam(Uzhavar Sandhai ),49.96
+Winter,Capsicum,Thammampatti (Uzhavar Sandhai ),55.93
+Winter,Capsicum,Thathakapatti(Uzhavar Sandhai ),50.13
+Winter,Capsicum,Mettur(Uzhavar Sandhai ),51.01
+Winter,Capsicum,Jalagandapuram(Uzhavar Sandhai ),51.18
+Spring,Mashrooms,Ammapet(Uzhavar Sandhai ),31.64
+Spring,Mashrooms,Hasthampatti(Uzhavar Sandhai ),36.36
+Spring,Mashrooms,Mettur(Uzhavar Sandhai ),32.3
+Spring,Mashrooms,Sooramangalam(Uzhavar Sandhai ),31.56
+Spring,Mashrooms,Thathakapatti(Uzhavar Sandhai ),31.59
+Spring,Mashrooms,Athur(Uzhavar Sandhai ),32.05
+Spring,Mashrooms,Elampillai(Uzhavar Sandhai ),41.55
+Spring,Mashrooms,Edapadi (Uzhavar Sandhai ),37.01
+Summer,Mashrooms,Ammapet(Uzhavar Sandhai ),31.64
+Summer,Mashrooms,Hasthampatti(Uzhavar Sandhai ),36.36
+Summer,Mashrooms,Mettur(Uzhavar Sandhai ),32.3
+Summer,Mashrooms,Sooramangalam(Uzhavar Sandhai ),31.56
+Summer,Mashrooms,Thathakapatti(Uzhavar Sandhai ),31.59
+Summer,Mashrooms,Athur(Uzhavar Sandhai ),32.05
+Summer,Mashrooms,Elampillai(Uzhavar Sandhai ),41.55
+Summer,Mashrooms,Edapadi (Uzhavar Sandhai ),37.01
+Monsoon,Mashrooms,Ammapet(Uzhavar Sandhai ),31.64
+Monsoon,Mashrooms,Hasthampatti(Uzhavar Sandhai ),36.36
+Monsoon,Mashrooms,Mettur(Uzhavar Sandhai ),32.3
+Monsoon,Mashrooms,Sooramangalam(Uzhavar Sandhai ),31.56
+Monsoon,Mashrooms,Thathakapatti(Uzhavar Sandhai ),31.59
+Monsoon,Mashrooms,Athur(Uzhavar Sandhai ),32.05
+Monsoon,Mashrooms,Elampillai(Uzhavar Sandhai ),41.55
+Monsoon,Mashrooms,Edapadi (Uzhavar Sandhai ),37.01
+Winter,Mashrooms,Ammapet(Uzhavar Sandhai ),31.64
+Winter,Mashrooms,Hasthampatti(Uzhavar Sandhai ),36.36
+Winter,Mashrooms,Mettur(Uzhavar Sandhai ),32.3
+Winter,Mashrooms,Sooramangalam(Uzhavar Sandhai ),31.56
+Winter,Mashrooms,Thathakapatti(Uzhavar Sandhai ),31.58
+Winter,Mashrooms,Athur(Uzhavar Sandhai ),32.05
+Winter,Mashrooms,Elampillai(Uzhavar Sandhai ),41.55
+Winter,Mashrooms,Edapadi (Uzhavar Sandhai ),37.01
+Spring,Raddish,Ammapet(Uzhavar Sandhai ),20.62
+Spring,Raddish,Athur(Uzhavar Sandhai ),17.76
+Spring,Raddish,Attayampatti(Uzhavar Sandhai ),22.25
+Spring,Raddish,Edapadi (Uzhavar Sandhai ),22.23
+Spring,Raddish,Elampillai(Uzhavar Sandhai ),22.69
+Spring,Raddish,Hasthampatti(Uzhavar Sandhai ),20.24
+Spring,Raddish,Jalagandapuram(Uzhavar Sandhai ),22.24
+Spring,Raddish,Mettur(Uzhavar Sandhai ),22.62
+Spring,Raddish,Sooramangalam(Uzhavar Sandhai ),20.27
+Spring,Raddish,Thammampatti (Uzhavar Sandhai ),22.31
+Spring,Raddish,Thathakapatti(Uzhavar Sandhai ),20.54
+Summer,Raddish,Ammapet(Uzhavar Sandhai ),20.62
+Summer,Raddish,Athur(Uzhavar Sandhai ),17.76
+Summer,Raddish,Attayampatti(Uzhavar Sandhai ),22.25
+Summer,Raddish,Edapadi (Uzhavar Sandhai ),22.22
+Summer,Raddish,Elampillai(Uzhavar Sandhai ),22.69
+Summer,Raddish,Hasthampatti(Uzhavar Sandhai ),20.24
+Summer,Raddish,Jalagandapuram(Uzhavar Sandhai ),22.24
+Summer,Raddish,Mettur(Uzhavar Sandhai ),22.62
+Summer,Raddish,Sooramangalam(Uzhavar Sandhai ),20.27
+Summer,Raddish,Thammampatti (Uzhavar Sandhai ),22.31
+Summer,Raddish,Thathakapatti(Uzhavar Sandhai ),20.54
+Monsoon,Raddish,Ammapet(Uzhavar Sandhai ),20.62
+Monsoon,Raddish,Athur(Uzhavar Sandhai ),17.76
+Monsoon,Raddish,Attayampatti(Uzhavar Sandhai ),22.25
+Monsoon,Raddish,Edapadi (Uzhavar Sandhai ),22.22
+Monsoon,Raddish,Elampillai(Uzhavar Sandhai ),22.69
+Monsoon,Raddish,Hasthampatti(Uzhavar Sandhai ),20.23
+Monsoon,Raddish,Jalagandapuram(Uzhavar Sandhai ),22.24
+Monsoon,Raddish,Mettur(Uzhavar Sandhai ),22.62
+Monsoon,Raddish,Sooramangalam(Uzhavar Sandhai ),20.27
+Monsoon,Raddish,Thammampatti (Uzhavar Sandhai ),22.31
+Monsoon,Raddish,Thathakapatti(Uzhavar Sandhai ),20.54
+Winter,Raddish,Ammapet(Uzhavar Sandhai ),20.62
+Winter,Raddish,Athur(Uzhavar Sandhai ),17.76
+Winter,Raddish,Attayampatti(Uzhavar Sandhai ),22.25
+Winter,Raddish,Edapadi (Uzhavar Sandhai ),22.22
+Winter,Raddish,Elampillai(Uzhavar Sandhai ),22.69
+Winter,Raddish,Hasthampatti(Uzhavar Sandhai ),20.24
+Winter,Raddish,Jalagandapuram(Uzhavar Sandhai ),22.24
+Winter,Raddish,Mettur(Uzhavar Sandhai ),22.62
+Winter,Raddish,Sooramangalam(Uzhavar Sandhai ),20.27
+Winter,Raddish,Thammampatti (Uzhavar Sandhai ),22.31
+Winter,Raddish,Thathakapatti(Uzhavar Sandhai ),20.54
+Spring,Tender Coconut,Ammapet(Uzhavar Sandhai ),31.57
+Spring,Tender Coconut,Athur(Uzhavar Sandhai ),27.29
+Spring,Tender Coconut,Jalagandapuram(Uzhavar Sandhai ),32.18
+Spring,Tender Coconut,Sooramangalam(Uzhavar Sandhai ),31.61
+Spring,Tender Coconut,Thammampatti (Uzhavar Sandhai ),32.04
+Spring,Tender Coconut,Thathakapatti(Uzhavar Sandhai ),27.08
+Spring,Tender Coconut,Mettur(Uzhavar Sandhai ),32.19
+Summer,Tender Coconut,Ammapet(Uzhavar Sandhai ),31.57
+Summer,Tender Coconut,Athur(Uzhavar Sandhai ),27.29
+Summer,Tender Coconut,Jalagandapuram(Uzhavar Sandhai ),32.18
+Summer,Tender Coconut,Sooramangalam(Uzhavar Sandhai ),31.61
+Summer,Tender Coconut,Thammampatti (Uzhavar Sandhai ),32.04
+Summer,Tender Coconut,Thathakapatti(Uzhavar Sandhai ),27.08
+Summer,Tender Coconut,Mettur(Uzhavar Sandhai ),32.19
+Monsoon,Tender Coconut,Ammapet(Uzhavar Sandhai ),31.56
+Monsoon,Tender Coconut,Athur(Uzhavar Sandhai ),27.29
+Monsoon,Tender Coconut,Jalagandapuram(Uzhavar Sandhai ),32.18
+Monsoon,Tender Coconut,Sooramangalam(Uzhavar Sandhai ),31.61
+Monsoon,Tender Coconut,Thammampatti (Uzhavar Sandhai ),32.04
+Monsoon,Tender Coconut,Thathakapatti(Uzhavar Sandhai ),27.08
+Monsoon,Tender Coconut,Mettur(Uzhavar Sandhai ),32.19
+Winter,Tender Coconut,Ammapet(Uzhavar Sandhai ),31.56
+Winter,Tender Coconut,Athur(Uzhavar Sandhai ),27.29
+Winter,Tender Coconut,Jalagandapuram(Uzhavar Sandhai ),32.18
+Winter,Tender Coconut,Sooramangalam(Uzhavar Sandhai ),31.61
+Winter,Tender Coconut,Thammampatti (Uzhavar Sandhai ),32.04
+Winter,Tender Coconut,Thathakapatti(Uzhavar Sandhai ),27.08
+Winter,Tender Coconut,Mettur(Uzhavar Sandhai ),32.19
+Spring,Coconut,Ammapet(Uzhavar Sandhai ),70.2
+Spring,Coconut,Athur(Uzhavar Sandhai ),65.47
+Spring,Coconut,Attayampatti(Uzhavar Sandhai ),69.93
+Spring,Coconut,Edapadi (Uzhavar Sandhai ),70.09
+Spring,Coconut,Elampillai(Uzhavar Sandhai ),70.08
+Spring,Coconut,Hasthampatti(Uzhavar Sandhai ),69.89
+Spring,Coconut,Jalagandapuram(Uzhavar Sandhai ),65.32
+Spring,Coconut,Mettur(Uzhavar Sandhai ),70.22
+Spring,Coconut,Sooramangalam(Uzhavar Sandhai ),69.86
+Spring,Coconut,Thammampatti (Uzhavar Sandhai ),70.15
+Spring,Coconut,Thathakapatti(Uzhavar Sandhai ),70.22
+Summer,Coconut,Ammapet(Uzhavar Sandhai ),70.2
+Summer,Coconut,Athur(Uzhavar Sandhai ),65.47
+Summer,Coconut,Attayampatti(Uzhavar Sandhai ),69.93
+Summer,Coconut,Edapadi (Uzhavar Sandhai ),70.09
+Summer,Coconut,Elampillai(Uzhavar Sandhai ),70.08
+Summer,Coconut,Hasthampatti(Uzhavar Sandhai ),69.89
+Summer,Coconut,Jalagandapuram(Uzhavar Sandhai ),65.32
+Summer,Coconut,Mettur(Uzhavar Sandhai ),70.22
+Summer,Coconut,Sooramangalam(Uzhavar Sandhai ),69.86
+Summer,Coconut,Thammampatti (Uzhavar Sandhai ),70.15
+Summer,Coconut,Thathakapatti(Uzhavar Sandhai ),70.22
+Monsoon,Coconut,Ammapet(Uzhavar Sandhai ),70.2
+Monsoon,Coconut,Athur(Uzhavar Sandhai ),65.47
+Monsoon,Coconut,Attayampatti(Uzhavar Sandhai ),69.93
+Monsoon,Coconut,Edapadi (Uzhavar Sandhai ),70.09
+Monsoon,Coconut,Elampillai(Uzhavar Sandhai ),70.08
+Monsoon,Coconut,Hasthampatti(Uzhavar Sandhai ),69.89
+Monsoon,Coconut,Jalagandapuram(Uzhavar Sandhai ),65.32
+Monsoon,Coconut,Mettur(Uzhavar Sandhai ),70.22
+Monsoon,Coconut,Sooramangalam(Uzhavar Sandhai ),69.86
+Monsoon,Coconut,Thammampatti (Uzhavar Sandhai ),70.15
+Monsoon,Coconut,Thathakapatti(Uzhavar Sandhai ),70.22
+Winter,Coconut,Ammapet(Uzhavar Sandhai ),70.2
+Winter,Coconut,Athur(Uzhavar Sandhai ),65.47
+Winter,Coconut,Attayampatti(Uzhavar Sandhai ),69.93
+Winter,Coconut,Edapadi (Uzhavar Sandhai ),70.09
+Winter,Coconut,Elampillai(Uzhavar Sandhai ),70.08
+Winter,Coconut,Hasthampatti(Uzhavar Sandhai ),69.89
+Winter,Coconut,Jalagandapuram(Uzhavar Sandhai ),65.32
+Winter,Coconut,Mettur(Uzhavar Sandhai ),70.22
+Winter,Coconut,Sooramangalam(Uzhavar Sandhai ),69.86
+Winter,Coconut,Thammampatti (Uzhavar Sandhai ),70.15
+Winter,Coconut,Thathakapatti(Uzhavar Sandhai ),70.22
+Spring,Arhar (Tur/Red Gram)(Whole),Ammapet(Uzhavar Sandhai ),50.57
+Spring,Arhar (Tur/Red Gram)(Whole),Jalagandapuram(Uzhavar Sandhai ),70.91
+Spring,Arhar (Tur/Red Gram)(Whole),Thathakapatti(Uzhavar Sandhai ),60.35
+Spring,Arhar (Tur/Red Gram)(Whole),Sooramangalam(Uzhavar Sandhai ),49.93
+Spring,Arhar (Tur/Red Gram)(Whole),Mettur(Uzhavar Sandhai ),80.48
+Summer,Arhar (Tur/Red Gram)(Whole),Ammapet(Uzhavar Sandhai ),50.57
+Summer,Arhar (Tur/Red Gram)(Whole),Jalagandapuram(Uzhavar Sandhai ),70.91
+Summer,Arhar (Tur/Red Gram)(Whole),Thathakapatti(Uzhavar Sandhai ),60.35
+Summer,Arhar (Tur/Red Gram)(Whole),Sooramangalam(Uzhavar Sandhai ),49.93
+Summer,Arhar (Tur/Red Gram)(Whole),Mettur(Uzhavar Sandhai ),80.48
+Monsoon,Arhar (Tur/Red Gram)(Whole),Ammapet(Uzhavar Sandhai ),50.57
+Monsoon,Arhar (Tur/Red Gram)(Whole),Jalagandapuram(Uzhavar Sandhai ),70.91
+Monsoon,Arhar (Tur/Red Gram)(Whole),Thathakapatti(Uzhavar Sandhai ),60.35
+Monsoon,Arhar (Tur/Red Gram)(Whole),Sooramangalam(Uzhavar Sandhai ),49.93
+Monsoon,Arhar (Tur/Red Gram)(Whole),Mettur(Uzhavar Sandhai ),80.48
+Winter,Arhar (Tur/Red Gram)(Whole),Ammapet(Uzhavar Sandhai ),50.57
+Winter,Arhar (Tur/Red Gram)(Whole),Jalagandapuram(Uzhavar Sandhai ),70.91
+Winter,Arhar (Tur/Red Gram)(Whole),Thathakapatti(Uzhavar Sandhai ),60.35
+Winter,Arhar (Tur/Red Gram)(Whole),Sooramangalam(Uzhavar Sandhai ),49.93
+Winter,Arhar (Tur/Red Gram)(Whole),Mettur(Uzhavar Sandhai ),80.48
+Spring,Banana - Green,Ammapet(Uzhavar Sandhai ),22.24
+Spring,Banana - Green,Athur(Uzhavar Sandhai ),26.61
+Spring,Banana - Green,Attayampatti(Uzhavar Sandhai ),26.53
+Spring,Banana - Green,Edapadi (Uzhavar Sandhai ),22.56
+Spring,Banana - Green,Elampillai(Uzhavar Sandhai ),32.0
+Spring,Banana - Green,Hasthampatti(Uzhavar Sandhai ),26.03
+Spring,Banana - Green,Jalagandapuram(Uzhavar Sandhai ),26.55
+Spring,Banana - Green,Mettur(Uzhavar Sandhai ),27.33
+Spring,Banana - Green,Sooramangalam(Uzhavar Sandhai ),25.94
+Spring,Banana - Green,Thammampatti (Uzhavar Sandhai ),27.07
+Spring,Banana - Green,Thathakapatti(Uzhavar Sandhai ),22.42
+Summer,Banana - Green,Ammapet(Uzhavar Sandhai ),22.24
+Summer,Banana - Green,Athur(Uzhavar Sandhai ),26.61
+Summer,Banana - Green,Attayampatti(Uzhavar Sandhai ),26.53
+Summer,Banana - Green,Edapadi (Uzhavar Sandhai ),22.56
+Summer,Banana - Green,Elampillai(Uzhavar Sandhai ),32.0
+Summer,Banana - Green,Hasthampatti(Uzhavar Sandhai ),26.03
+Summer,Banana - Green,Jalagandapuram(Uzhavar Sandhai ),26.55
+Summer,Banana - Green,Mettur(Uzhavar Sandhai ),27.33
+Summer,Banana - Green,Sooramangalam(Uzhavar Sandhai ),25.94
+Summer,Banana - Green,Thammampatti (Uzhavar Sandhai ),27.07
+Summer,Banana - Green,Thathakapatti(Uzhavar Sandhai ),22.42
+Monsoon,Banana - Green,Ammapet(Uzhavar Sandhai ),22.24
+Monsoon,Banana - Green,Athur(Uzhavar Sandhai ),26.61
+Monsoon,Banana - Green,Attayampatti(Uzhavar Sandhai ),26.53
+Monsoon,Banana - Green,Edapadi (Uzhavar Sandhai ),22.55
+Monsoon,Banana - Green,Elampillai(Uzhavar Sandhai ),32.0
+Monsoon,Banana - Green,Hasthampatti(Uzhavar Sandhai ),26.03
+Monsoon,Banana - Green,Jalagandapuram(Uzhavar Sandhai ),26.55
+Monsoon,Banana - Green,Mettur(Uzhavar Sandhai ),27.33
+Monsoon,Banana - Green,Sooramangalam(Uzhavar Sandhai ),25.94
+Monsoon,Banana - Green,Thammampatti (Uzhavar Sandhai ),27.07
+Monsoon,Banana - Green,Thathakapatti(Uzhavar Sandhai ),22.42
+Winter,Banana - Green,Ammapet(Uzhavar Sandhai ),22.24
+Winter,Banana - Green,Athur(Uzhavar Sandhai ),26.61
+Winter,Banana - Green,Attayampatti(Uzhavar Sandhai ),26.53
+Winter,Banana - Green,Edapadi (Uzhavar Sandhai ),22.56
+Winter,Banana - Green,Elampillai(Uzhavar Sandhai ),32.0
+Winter,Banana - Green,Hasthampatti(Uzhavar Sandhai ),26.03
+Winter,Banana - Green,Jalagandapuram(Uzhavar Sandhai ),26.55
+Winter,Banana - Green,Mettur(Uzhavar Sandhai ),27.33
+Winter,Banana - Green,Sooramangalam(Uzhavar Sandhai ),25.94
+Winter,Banana - Green,Thammampatti (Uzhavar Sandhai ),27.07
+Winter,Banana - Green,Thathakapatti(Uzhavar Sandhai ),22.42
+Spring,Amaranthus,Ammapet(Uzhavar Sandhai ),22.46
+Spring,Amaranthus,Athur(Uzhavar Sandhai ),26.71
+Spring,Amaranthus,Attayampatti(Uzhavar Sandhai ),22.42
+Spring,Amaranthus,Edapadi (Uzhavar Sandhai ),22.54
+Spring,Amaranthus,Elampillai(Uzhavar Sandhai ),27.14
+Spring,Amaranthus,Hasthampatti(Uzhavar Sandhai ),25.99
+Spring,Amaranthus,Jalagandapuram(Uzhavar Sandhai ),24.05
+Spring,Amaranthus,Mettur(Uzhavar Sandhai ),22.96
+Spring,Amaranthus,Sooramangalam(Uzhavar Sandhai ),22.3
+Spring,Amaranthus,Thammampatti (Uzhavar Sandhai ),27.08
+Spring,Amaranthus,Thathakapatti(Uzhavar Sandhai ),22.62
+Summer,Amaranthus,Ammapet(Uzhavar Sandhai ),22.46
+Summer,Amaranthus,Athur(Uzhavar Sandhai ),26.71
+Summer,Amaranthus,Attayampatti(Uzhavar Sandhai ),22.42
+Summer,Amaranthus,Edapadi (Uzhavar Sandhai ),22.54
+Summer,Amaranthus,Elampillai(Uzhavar Sandhai ),27.14
+Summer,Amaranthus,Hasthampatti(Uzhavar Sandhai ),25.99
+Summer,Amaranthus,Jalagandapuram(Uzhavar Sandhai ),24.05
+Summer,Amaranthus,Mettur(Uzhavar Sandhai ),22.96
+Summer,Amaranthus,Sooramangalam(Uzhavar Sandhai ),22.3
+Summer,Amaranthus,Thammampatti (Uzhavar Sandhai ),27.08
+Summer,Amaranthus,Thathakapatti(Uzhavar Sandhai ),22.62
+Monsoon,Amaranthus,Ammapet(Uzhavar Sandhai ),22.45
+Monsoon,Amaranthus,Athur(Uzhavar Sandhai ),26.71
+Monsoon,Amaranthus,Attayampatti(Uzhavar Sandhai ),22.42
+Monsoon,Amaranthus,Edapadi (Uzhavar Sandhai ),22.54
+Monsoon,Amaranthus,Elampillai(Uzhavar Sandhai ),27.13
+Monsoon,Amaranthus,Hasthampatti(Uzhavar Sandhai ),25.99
+Monsoon,Amaranthus,Jalagandapuram(Uzhavar Sandhai ),24.05
+Monsoon,Amaranthus,Mettur(Uzhavar Sandhai ),22.96
+Monsoon,Amaranthus,Sooramangalam(Uzhavar Sandhai ),22.3
+Monsoon,Amaranthus,Thammampatti (Uzhavar Sandhai ),27.07
+Monsoon,Amaranthus,Thathakapatti(Uzhavar Sandhai ),22.62
+Winter,Amaranthus,Ammapet(Uzhavar Sandhai ),22.45
+Winter,Amaranthus,Athur(Uzhavar Sandhai ),26.71
+Winter,Amaranthus,Attayampatti(Uzhavar Sandhai ),22.42
+Winter,Amaranthus,Edapadi (Uzhavar Sandhai ),22.54
+Winter,Amaranthus,Elampillai(Uzhavar Sandhai ),27.13
+Winter,Amaranthus,Hasthampatti(Uzhavar Sandhai ),25.99
+Winter,Amaranthus,Jalagandapuram(Uzhavar Sandhai ),24.05
+Winter,Amaranthus,Mettur(Uzhavar Sandhai ),22.96
+Winter,Amaranthus,Sooramangalam(Uzhavar Sandhai ),22.3
+Winter,Amaranthus,Thammampatti (Uzhavar Sandhai ),27.07
+Winter,Amaranthus,Thathakapatti(Uzhavar Sandhai ),22.62
+Spring,Knool Khol,Ammapet(Uzhavar Sandhai ),36.07
+Spring,Knool Khol,Athur(Uzhavar Sandhai ),36.98
+Spring,Knool Khol,Attayampatti(Uzhavar Sandhai ),41.09
+Spring,Knool Khol,Elampillai(Uzhavar Sandhai ),41.46
+Spring,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.7
+Spring,Knool Khol,Mettur(Uzhavar Sandhai ),41.74
+Spring,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.93
+Spring,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.61
+Spring,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.95
+Summer,Knool Khol,Ammapet(Uzhavar Sandhai ),36.07
+Summer,Knool Khol,Athur(Uzhavar Sandhai ),36.98
+Summer,Knool Khol,Attayampatti(Uzhavar Sandhai ),41.09
+Summer,Knool Khol,Elampillai(Uzhavar Sandhai ),41.46
+Summer,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.7
+Summer,Knool Khol,Mettur(Uzhavar Sandhai ),41.74
+Summer,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.93
+Summer,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.61
+Summer,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.95
+Monsoon,Knool Khol,Ammapet(Uzhavar Sandhai ),36.07
+Monsoon,Knool Khol,Athur(Uzhavar Sandhai ),36.98
+Monsoon,Knool Khol,Attayampatti(Uzhavar Sandhai ),41.09
+Monsoon,Knool Khol,Elampillai(Uzhavar Sandhai ),41.46
+Monsoon,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.7
+Monsoon,Knool Khol,Mettur(Uzhavar Sandhai ),41.75
+Monsoon,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.94
+Monsoon,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.61
+Monsoon,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.95
+Winter,Knool Khol,Ammapet(Uzhavar Sandhai ),36.07
+Winter,Knool Khol,Athur(Uzhavar Sandhai ),36.98
+Winter,Knool Khol,Attayampatti(Uzhavar Sandhai ),41.09
+Winter,Knool Khol,Elampillai(Uzhavar Sandhai ),41.46
+Winter,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.7
+Winter,Knool Khol,Mettur(Uzhavar Sandhai ),41.74
+Winter,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.94
+Winter,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.61
+Winter,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.95
+Spring,Amla(Nelli Kai),Ammapet(Uzhavar Sandhai ),64.05
+Spring,Amla(Nelli Kai),Athur(Uzhavar Sandhai ),79.97
+Spring,Amla(Nelli Kai),Edapadi (Uzhavar Sandhai ),60.84
+Spring,Amla(Nelli Kai),Hasthampatti(Uzhavar Sandhai ),80.07
+Spring,Amla(Nelli Kai),Sooramangalam(Uzhavar Sandhai ),60.42
+Spring,Amla(Nelli Kai),Thathakapatti(Uzhavar Sandhai ),60.32
+Spring,Amla(Nelli Kai),Jalagandapuram(Uzhavar Sandhai ),70.52
+Spring,Amla(Nelli Kai),Mettur(Uzhavar Sandhai ),80.04
+Spring,Amla(Nelli Kai),Elampillai(Uzhavar Sandhai ),60.82
+Spring,Amla(Nelli Kai),Thammampatti (Uzhavar Sandhai ),60.82
+Summer,Amla(Nelli Kai),Ammapet(Uzhavar Sandhai ),64.05
+Summer,Amla(Nelli Kai),Athur(Uzhavar Sandhai ),79.97
+Summer,Amla(Nelli Kai),Edapadi (Uzhavar Sandhai ),60.84
+Summer,Amla(Nelli Kai),Hasthampatti(Uzhavar Sandhai ),80.07
+Summer,Amla(Nelli Kai),Sooramangalam(Uzhavar Sandhai ),60.42
+Summer,Amla(Nelli Kai),Thathakapatti(Uzhavar Sandhai ),60.32
+Summer,Amla(Nelli Kai),Jalagandapuram(Uzhavar Sandhai ),70.52
+Summer,Amla(Nelli Kai),Mettur(Uzhavar Sandhai ),80.04
+Summer,Amla(Nelli Kai),Elampillai(Uzhavar Sandhai ),60.82
+Summer,Amla(Nelli Kai),Thammampatti (Uzhavar Sandhai ),60.83
+Monsoon,Amla(Nelli Kai),Ammapet(Uzhavar Sandhai ),64.05
+Monsoon,Amla(Nelli Kai),Athur(Uzhavar Sandhai ),79.97
+Monsoon,Amla(Nelli Kai),Edapadi (Uzhavar Sandhai ),60.84
+Monsoon,Amla(Nelli Kai),Hasthampatti(Uzhavar Sandhai ),80.07
+Monsoon,Amla(Nelli Kai),Sooramangalam(Uzhavar Sandhai ),60.42
+Monsoon,Amla(Nelli Kai),Thathakapatti(Uzhavar Sandhai ),60.32
+Monsoon,Amla(Nelli Kai),Jalagandapuram(Uzhavar Sandhai ),70.52
+Monsoon,Amla(Nelli Kai),Mettur(Uzhavar Sandhai ),80.04
+Monsoon,Amla(Nelli Kai),Elampillai(Uzhavar Sandhai ),60.82
+Monsoon,Amla(Nelli Kai),Thammampatti (Uzhavar Sandhai ),60.82
+Winter,Amla(Nelli Kai),Ammapet(Uzhavar Sandhai ),64.05
+Winter,Amla(Nelli Kai),Athur(Uzhavar Sandhai ),79.97
+Winter,Amla(Nelli Kai),Edapadi (Uzhavar Sandhai ),60.84
+Winter,Amla(Nelli Kai),Hasthampatti(Uzhavar Sandhai ),80.07
+Winter,Amla(Nelli Kai),Sooramangalam(Uzhavar Sandhai ),60.42
+Winter,Amla(Nelli Kai),Thathakapatti(Uzhavar Sandhai ),60.32
+Winter,Amla(Nelli Kai),Jalagandapuram(Uzhavar Sandhai ),70.52
+Winter,Amla(Nelli Kai),Mettur(Uzhavar Sandhai ),80.04
+Winter,Amla(Nelli Kai),Elampillai(Uzhavar Sandhai ),60.81
+Winter,Amla(Nelli Kai),Thammampatti (Uzhavar Sandhai ),60.82
+Spring,Lemon,Ammapet(Uzhavar Sandhai ),59.52
+Spring,Lemon,Athur(Uzhavar Sandhai ),50.19
+Spring,Lemon,Attayampatti(Uzhavar Sandhai ),98.2
+Spring,Lemon,Edapadi (Uzhavar Sandhai ),60.05
+Spring,Lemon,Elampillai(Uzhavar Sandhai ),40.46
+Spring,Lemon,Hasthampatti(Uzhavar Sandhai ),90.14
+Spring,Lemon,Jalagandapuram(Uzhavar Sandhai ),59.68
+Spring,Lemon,Mettur(Uzhavar Sandhai ),40.92
+Spring,Lemon,Sooramangalam(Uzhavar Sandhai ),70.01
+Spring,Lemon,Thammampatti (Uzhavar Sandhai ),59.81
+Spring,Lemon,Thathakapatti(Uzhavar Sandhai ),99.52
+Summer,Lemon,Ammapet(Uzhavar Sandhai ),59.52
+Summer,Lemon,Athur(Uzhavar Sandhai ),50.19
+Summer,Lemon,Attayampatti(Uzhavar Sandhai ),98.2
+Summer,Lemon,Edapadi (Uzhavar Sandhai ),60.05
+Summer,Lemon,Elampillai(Uzhavar Sandhai ),40.46
+Summer,Lemon,Hasthampatti(Uzhavar Sandhai ),90.14
+Summer,Lemon,Jalagandapuram(Uzhavar Sandhai ),59.68
+Summer,Lemon,Mettur(Uzhavar Sandhai ),40.92
+Summer,Lemon,Sooramangalam(Uzhavar Sandhai ),70.01
+Summer,Lemon,Thammampatti (Uzhavar Sandhai ),59.81
+Summer,Lemon,Thathakapatti(Uzhavar Sandhai ),99.52
+Monsoon,Lemon,Ammapet(Uzhavar Sandhai ),59.51
+Monsoon,Lemon,Athur(Uzhavar Sandhai ),50.19
+Monsoon,Lemon,Attayampatti(Uzhavar Sandhai ),98.2
+Monsoon,Lemon,Edapadi (Uzhavar Sandhai ),60.05
+Monsoon,Lemon,Elampillai(Uzhavar Sandhai ),40.46
+Monsoon,Lemon,Hasthampatti(Uzhavar Sandhai ),90.14
+Monsoon,Lemon,Jalagandapuram(Uzhavar Sandhai ),59.68
+Monsoon,Lemon,Mettur(Uzhavar Sandhai ),40.92
+Monsoon,Lemon,Sooramangalam(Uzhavar Sandhai ),70.01
+Monsoon,Lemon,Thammampatti (Uzhavar Sandhai ),59.81
+Monsoon,Lemon,Thathakapatti(Uzhavar Sandhai ),99.52
+Winter,Lemon,Ammapet(Uzhavar Sandhai ),59.51
+Winter,Lemon,Athur(Uzhavar Sandhai ),50.19
+Winter,Lemon,Attayampatti(Uzhavar Sandhai ),98.2
+Winter,Lemon,Edapadi (Uzhavar Sandhai ),60.05
+Winter,Lemon,Elampillai(Uzhavar Sandhai ),40.46
+Winter,Lemon,Hasthampatti(Uzhavar Sandhai ),90.14
+Winter,Lemon,Jalagandapuram(Uzhavar Sandhai ),59.68
+Winter,Lemon,Mettur(Uzhavar Sandhai ),40.92
+Winter,Lemon,Sooramangalam(Uzhavar Sandhai ),70.01
+Winter,Lemon,Thammampatti (Uzhavar Sandhai ),59.81
+Winter,Lemon,Thathakapatti(Uzhavar Sandhai ),99.52
+Spring,Ashgourd,Ammapet(Uzhavar Sandhai ),19.19
+Spring,Ashgourd,Athur(Uzhavar Sandhai ),19.73
+Spring,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.38
+Spring,Ashgourd,Edapadi (Uzhavar Sandhai ),19.44
+Spring,Ashgourd,Elampillai(Uzhavar Sandhai ),14.24
+Spring,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.42
+Spring,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.26
+Spring,Ashgourd,Mettur(Uzhavar Sandhai ),18.76
+Spring,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.33
+Spring,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.29
+Spring,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.29
+Summer,Ashgourd,Ammapet(Uzhavar Sandhai ),19.19
+Summer,Ashgourd,Athur(Uzhavar Sandhai ),19.73
+Summer,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.37
+Summer,Ashgourd,Edapadi (Uzhavar Sandhai ),19.44
+Summer,Ashgourd,Elampillai(Uzhavar Sandhai ),14.24
+Summer,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.41
+Summer,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.26
+Summer,Ashgourd,Mettur(Uzhavar Sandhai ),18.76
+Summer,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.33
+Summer,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.29
+Summer,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.29
+Monsoon,Ashgourd,Ammapet(Uzhavar Sandhai ),19.19
+Monsoon,Ashgourd,Athur(Uzhavar Sandhai ),19.73
+Monsoon,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.38
+Monsoon,Ashgourd,Edapadi (Uzhavar Sandhai ),19.44
+Monsoon,Ashgourd,Elampillai(Uzhavar Sandhai ),14.24
+Monsoon,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.42
+Monsoon,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.26
+Monsoon,Ashgourd,Mettur(Uzhavar Sandhai ),18.76
+Monsoon,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.33
+Monsoon,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.29
+Monsoon,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.29
+Winter,Ashgourd,Ammapet(Uzhavar Sandhai ),19.19
+Winter,Ashgourd,Athur(Uzhavar Sandhai ),19.73
+Winter,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.37
+Winter,Ashgourd,Edapadi (Uzhavar Sandhai ),19.44
+Winter,Ashgourd,Elampillai(Uzhavar Sandhai ),14.24
+Winter,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.41
+Winter,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.26
+Winter,Ashgourd,Mettur(Uzhavar Sandhai ),18.76
+Winter,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.33
+Winter,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.29
+Winter,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.29
+Spring,Green Peas,Ammapet(Uzhavar Sandhai ),70.48
+Spring,Green Peas,Athur(Uzhavar Sandhai ),70.59
+Spring,Green Peas,Hasthampatti(Uzhavar Sandhai ),67.67
+Spring,Green Peas,Jalagandapuram(Uzhavar Sandhai ),66.16
+Spring,Green Peas,Sooramangalam(Uzhavar Sandhai ),67.84
+Spring,Green Peas,Thathakapatti(Uzhavar Sandhai ),67.35
+Spring,Green Peas,Elampillai(Uzhavar Sandhai ),66.16
+Spring,Green Peas,Thammampatti (Uzhavar Sandhai ),70.76
+Spring,Green Peas,Attayampatti(Uzhavar Sandhai ),61.01
+Spring,Green Peas,Mettur(Uzhavar Sandhai ),66.29
+Spring,Green Peas,Edapadi (Uzhavar Sandhai ),61.15
+Summer,Green Peas,Ammapet(Uzhavar Sandhai ),70.48
+Summer,Green Peas,Athur(Uzhavar Sandhai ),70.59
+Summer,Green Peas,Hasthampatti(Uzhavar Sandhai ),67.67
+Summer,Green Peas,Jalagandapuram(Uzhavar Sandhai ),66.16
+Summer,Green Peas,Sooramangalam(Uzhavar Sandhai ),67.84
+Summer,Green Peas,Thathakapatti(Uzhavar Sandhai ),67.35
+Summer,Green Peas,Elampillai(Uzhavar Sandhai ),66.16
+Summer,Green Peas,Thammampatti (Uzhavar Sandhai ),70.76
+Summer,Green Peas,Attayampatti(Uzhavar Sandhai ),61.01
+Summer,Green Peas,Mettur(Uzhavar Sandhai ),66.29
+Summer,Green Peas,Edapadi (Uzhavar Sandhai ),61.15
+Monsoon,Green Peas,Ammapet(Uzhavar Sandhai ),70.48
+Monsoon,Green Peas,Athur(Uzhavar Sandhai ),70.59
+Monsoon,Green Peas,Hasthampatti(Uzhavar Sandhai ),67.67
+Monsoon,Green Peas,Jalagandapuram(Uzhavar Sandhai ),66.17
+Monsoon,Green Peas,Sooramangalam(Uzhavar Sandhai ),67.84
+Monsoon,Green Peas,Thathakapatti(Uzhavar Sandhai ),67.35
+Monsoon,Green Peas,Elampillai(Uzhavar Sandhai ),66.16
+Monsoon,Green Peas,Thammampatti (Uzhavar Sandhai ),70.76
+Monsoon,Green Peas,Attayampatti(Uzhavar Sandhai ),61.01
+Monsoon,Green Peas,Mettur(Uzhavar Sandhai ),66.29
+Monsoon,Green Peas,Edapadi (Uzhavar Sandhai ),61.15
+Winter,Green Peas,Ammapet(Uzhavar Sandhai ),70.47
+Winter,Green Peas,Athur(Uzhavar Sandhai ),70.59
+Winter,Green Peas,Hasthampatti(Uzhavar Sandhai ),67.67
+Winter,Green Peas,Jalagandapuram(Uzhavar Sandhai ),66.16
+Winter,Green Peas,Sooramangalam(Uzhavar Sandhai ),67.84
+Winter,Green Peas,Thathakapatti(Uzhavar Sandhai ),67.35
+Winter,Green Peas,Elampillai(Uzhavar Sandhai ),66.16
+Winter,Green Peas,Thammampatti (Uzhavar Sandhai ),70.75
+Winter,Green Peas,Attayampatti(Uzhavar Sandhai ),61.01
+Winter,Green Peas,Mettur(Uzhavar Sandhai ),66.29
+Winter,Green Peas,Edapadi (Uzhavar Sandhai ),61.15
+Spring,Papaya,Ammapet(Uzhavar Sandhai ),31.46
+Spring,Papaya,Athur(Uzhavar Sandhai ),27.19
+Spring,Papaya,Attayampatti(Uzhavar Sandhai ),31.8
+Spring,Papaya,Edapadi (Uzhavar Sandhai ),31.92
+Spring,Papaya,Elampillai(Uzhavar Sandhai ),31.86
+Spring,Papaya,Hasthampatti(Uzhavar Sandhai ),36.31
+Spring,Papaya,Jalagandapuram(Uzhavar Sandhai ),31.99
+Spring,Papaya,Mettur(Uzhavar Sandhai ),32.07
+Spring,Papaya,Sooramangalam(Uzhavar Sandhai ),36.22
+Spring,Papaya,Thammampatti (Uzhavar Sandhai ),31.85
+Spring,Papaya,Thathakapatti(Uzhavar Sandhai ),36.39
+Summer,Papaya,Ammapet(Uzhavar Sandhai ),31.46
+Summer,Papaya,Athur(Uzhavar Sandhai ),27.19
+Summer,Papaya,Attayampatti(Uzhavar Sandhai ),31.8
+Summer,Papaya,Edapadi (Uzhavar Sandhai ),31.92
+Summer,Papaya,Elampillai(Uzhavar Sandhai ),31.86
+Summer,Papaya,Hasthampatti(Uzhavar Sandhai ),36.31
+Summer,Papaya,Jalagandapuram(Uzhavar Sandhai ),31.99
+Summer,Papaya,Mettur(Uzhavar Sandhai ),32.07
+Summer,Papaya,Sooramangalam(Uzhavar Sandhai ),36.22
+Summer,Papaya,Thammampatti (Uzhavar Sandhai ),31.85
+Summer,Papaya,Thathakapatti(Uzhavar Sandhai ),36.39
+Monsoon,Papaya,Ammapet(Uzhavar Sandhai ),31.46
+Monsoon,Papaya,Athur(Uzhavar Sandhai ),27.19
+Monsoon,Papaya,Attayampatti(Uzhavar Sandhai ),31.8
+Monsoon,Papaya,Edapadi (Uzhavar Sandhai ),31.92
+Monsoon,Papaya,Elampillai(Uzhavar Sandhai ),31.86
+Monsoon,Papaya,Hasthampatti(Uzhavar Sandhai ),36.3
+Monsoon,Papaya,Jalagandapuram(Uzhavar Sandhai ),31.99
+Monsoon,Papaya,Mettur(Uzhavar Sandhai ),32.07
+Monsoon,Papaya,Sooramangalam(Uzhavar Sandhai ),36.22
+Monsoon,Papaya,Thammampatti (Uzhavar Sandhai ),31.85
+Monsoon,Papaya,Thathakapatti(Uzhavar Sandhai ),36.39
+Winter,Papaya,Ammapet(Uzhavar Sandhai ),31.46
+Winter,Papaya,Athur(Uzhavar Sandhai ),27.19
+Winter,Papaya,Attayampatti(Uzhavar Sandhai ),31.8
+Winter,Papaya,Edapadi (Uzhavar Sandhai ),31.92
+Winter,Papaya,Elampillai(Uzhavar Sandhai ),31.86
+Winter,Papaya,Hasthampatti(Uzhavar Sandhai ),36.3
+Winter,Papaya,Jalagandapuram(Uzhavar Sandhai ),31.99
+Winter,Papaya,Mettur(Uzhavar Sandhai ),32.07
+Winter,Papaya,Sooramangalam(Uzhavar Sandhai ),36.22
+Winter,Papaya,Thammampatti (Uzhavar Sandhai ),31.85
+Winter,Papaya,Thathakapatti(Uzhavar Sandhai ),36.39
+Spring,Guava,Ammapet(Uzhavar Sandhai ),60.07
+Spring,Guava,Athur(Uzhavar Sandhai ),50.85
+Spring,Guava,Attayampatti(Uzhavar Sandhai ),50.56
+Spring,Guava,Elampillai(Uzhavar Sandhai ),31.53
+Spring,Guava,Hasthampatti(Uzhavar Sandhai ),50.14
+Spring,Guava,Sooramangalam(Uzhavar Sandhai ),50.01
+Spring,Guava,Thammampatti (Uzhavar Sandhai ),40.81
+Spring,Guava,Thathakapatti(Uzhavar Sandhai ),60.4
+Spring,Guava,Jalagandapuram(Uzhavar Sandhai ),50.72
+Spring,Guava,Edapadi (Uzhavar Sandhai ),50.84
+Spring,Guava,Mettur(Uzhavar Sandhai ),50.89
+Summer,Guava,Ammapet(Uzhavar Sandhai ),60.07
+Summer,Guava,Athur(Uzhavar Sandhai ),50.85
+Summer,Guava,Attayampatti(Uzhavar Sandhai ),50.56
+Summer,Guava,Elampillai(Uzhavar Sandhai ),31.53
+Summer,Guava,Hasthampatti(Uzhavar Sandhai ),50.14
+Summer,Guava,Sooramangalam(Uzhavar Sandhai ),50.01
+Summer,Guava,Thammampatti (Uzhavar Sandhai ),40.81
+Summer,Guava,Thathakapatti(Uzhavar Sandhai ),60.4
+Summer,Guava,Jalagandapuram(Uzhavar Sandhai ),50.72
+Summer,Guava,Edapadi (Uzhavar Sandhai ),50.84
+Summer,Guava,Mettur(Uzhavar Sandhai ),50.89
+Monsoon,Guava,Ammapet(Uzhavar Sandhai ),60.07
+Monsoon,Guava,Athur(Uzhavar Sandhai ),50.85
+Monsoon,Guava,Attayampatti(Uzhavar Sandhai ),50.56
+Monsoon,Guava,Elampillai(Uzhavar Sandhai ),31.53
+Monsoon,Guava,Hasthampatti(Uzhavar Sandhai ),50.14
+Monsoon,Guava,Sooramangalam(Uzhavar Sandhai ),50.01
+Monsoon,Guava,Thammampatti (Uzhavar Sandhai ),40.81
+Monsoon,Guava,Thathakapatti(Uzhavar Sandhai ),60.4
+Monsoon,Guava,Jalagandapuram(Uzhavar Sandhai ),50.71
+Monsoon,Guava,Edapadi (Uzhavar Sandhai ),50.84
+Monsoon,Guava,Mettur(Uzhavar Sandhai ),50.88
+Winter,Guava,Ammapet(Uzhavar Sandhai ),60.07
+Winter,Guava,Athur(Uzhavar Sandhai ),50.85
+Winter,Guava,Attayampatti(Uzhavar Sandhai ),50.56
+Winter,Guava,Elampillai(Uzhavar Sandhai ),31.53
+Winter,Guava,Hasthampatti(Uzhavar Sandhai ),50.14
+Winter,Guava,Sooramangalam(Uzhavar Sandhai ),50.01
+Winter,Guava,Thammampatti (Uzhavar Sandhai ),40.81
+Winter,Guava,Thathakapatti(Uzhavar Sandhai ),60.4
+Winter,Guava,Jalagandapuram(Uzhavar Sandhai ),50.71
+Winter,Guava,Edapadi (Uzhavar Sandhai ),50.84
+Winter,Guava,Mettur(Uzhavar Sandhai ),50.89
+Spring,Green Chilli,Ammapet(Uzhavar Sandhai ),37.83
+Spring,Green Chilli,Athur(Uzhavar Sandhai ),36.8
+Spring,Green Chilli,Attayampatti(Uzhavar Sandhai ),38.14
+Spring,Green Chilli,Edapadi (Uzhavar Sandhai ),37.72
+Spring,Green Chilli,Elampillai(Uzhavar Sandhai ),36.7
+Spring,Green Chilli,Hasthampatti(Uzhavar Sandhai ),39.17
+Spring,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),36.55
+Spring,Green Chilli,Mettur(Uzhavar Sandhai ),37.06
+Spring,Green Chilli,Sooramangalam(Uzhavar Sandhai ),37.19
+Spring,Green Chilli,Thammampatti (Uzhavar Sandhai ),41.14
+Spring,Green Chilli,Thathakapatti(Uzhavar Sandhai ),37.27
+Summer,Green Chilli,Ammapet(Uzhavar Sandhai ),37.83
+Summer,Green Chilli,Athur(Uzhavar Sandhai ),36.8
+Summer,Green Chilli,Attayampatti(Uzhavar Sandhai ),38.14
+Summer,Green Chilli,Edapadi (Uzhavar Sandhai ),37.72
+Summer,Green Chilli,Elampillai(Uzhavar Sandhai ),36.7
+Summer,Green Chilli,Hasthampatti(Uzhavar Sandhai ),39.17
+Summer,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),36.55
+Summer,Green Chilli,Mettur(Uzhavar Sandhai ),37.06
+Summer,Green Chilli,Sooramangalam(Uzhavar Sandhai ),37.19
+Summer,Green Chilli,Thammampatti (Uzhavar Sandhai ),41.14
+Summer,Green Chilli,Thathakapatti(Uzhavar Sandhai ),37.27
+Monsoon,Green Chilli,Ammapet(Uzhavar Sandhai ),37.83
+Monsoon,Green Chilli,Athur(Uzhavar Sandhai ),36.8
+Monsoon,Green Chilli,Attayampatti(Uzhavar Sandhai ),38.14
+Monsoon,Green Chilli,Edapadi (Uzhavar Sandhai ),37.72
+Monsoon,Green Chilli,Elampillai(Uzhavar Sandhai ),36.69
+Monsoon,Green Chilli,Hasthampatti(Uzhavar Sandhai ),39.18
+Monsoon,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),36.55
+Monsoon,Green Chilli,Mettur(Uzhavar Sandhai ),37.06
+Monsoon,Green Chilli,Sooramangalam(Uzhavar Sandhai ),37.19
+Monsoon,Green Chilli,Thammampatti (Uzhavar Sandhai ),41.14
+Monsoon,Green Chilli,Thathakapatti(Uzhavar Sandhai ),37.27
+Winter,Green Chilli,Ammapet(Uzhavar Sandhai ),37.83
+Winter,Green Chilli,Athur(Uzhavar Sandhai ),36.8
+Winter,Green Chilli,Attayampatti(Uzhavar Sandhai ),38.14
+Winter,Green Chilli,Edapadi (Uzhavar Sandhai ),37.72
+Winter,Green Chilli,Elampillai(Uzhavar Sandhai ),36.69
+Winter,Green Chilli,Hasthampatti(Uzhavar Sandhai ),39.17
+Winter,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),36.55
+Winter,Green Chilli,Mettur(Uzhavar Sandhai ),37.06
+Winter,Green Chilli,Sooramangalam(Uzhavar Sandhai ),37.19
+Winter,Green Chilli,Thammampatti (Uzhavar Sandhai ),41.14
+Winter,Green Chilli,Thathakapatti(Uzhavar Sandhai ),37.27
+Spring,Tomato,Ammapet(Uzhavar Sandhai ),15.45
+Spring,Tomato,Athur(Uzhavar Sandhai ),14.19
+Spring,Tomato,Attayampatti(Uzhavar Sandhai ),16.3
+Spring,Tomato,Edapadi (Uzhavar Sandhai ),16.38
+Spring,Tomato,Elampillai(Uzhavar Sandhai ),16.43
+Spring,Tomato,Hasthampatti(Uzhavar Sandhai ),15.45
+Spring,Tomato,Jalagandapuram(Uzhavar Sandhai ),13.94
+Spring,Tomato,Mettur(Uzhavar Sandhai ),15.28
+Spring,Tomato,Sooramangalam(Uzhavar Sandhai ),15.41
+Spring,Tomato,Thammampatti (Uzhavar Sandhai ),14.0
+Spring,Tomato,Thathakapatti(Uzhavar Sandhai ),15.61
+Summer,Tomato,Ammapet(Uzhavar Sandhai ),15.45
+Summer,Tomato,Athur(Uzhavar Sandhai ),14.19
+Summer,Tomato,Attayampatti(Uzhavar Sandhai ),16.3
+Summer,Tomato,Edapadi (Uzhavar Sandhai ),16.38
+Summer,Tomato,Elampillai(Uzhavar Sandhai ),16.43
+Summer,Tomato,Hasthampatti(Uzhavar Sandhai ),15.45
+Summer,Tomato,Jalagandapuram(Uzhavar Sandhai ),13.94
+Summer,Tomato,Mettur(Uzhavar Sandhai ),15.28
+Summer,Tomato,Sooramangalam(Uzhavar Sandhai ),15.41
+Summer,Tomato,Thammampatti (Uzhavar Sandhai ),14.0
+Summer,Tomato,Thathakapatti(Uzhavar Sandhai ),15.61
+Monsoon,Tomato,Ammapet(Uzhavar Sandhai ),15.45
+Monsoon,Tomato,Athur(Uzhavar Sandhai ),14.19
+Monsoon,Tomato,Attayampatti(Uzhavar Sandhai ),16.3
+Monsoon,Tomato,Edapadi (Uzhavar Sandhai ),16.38
+Monsoon,Tomato,Elampillai(Uzhavar Sandhai ),16.43
+Monsoon,Tomato,Hasthampatti(Uzhavar Sandhai ),15.45
+Monsoon,Tomato,Jalagandapuram(Uzhavar Sandhai ),13.94
+Monsoon,Tomato,Mettur(Uzhavar Sandhai ),15.28
+Monsoon,Tomato,Sooramangalam(Uzhavar Sandhai ),15.41
+Monsoon,Tomato,Thammampatti (Uzhavar Sandhai ),14.0
+Monsoon,Tomato,Thathakapatti(Uzhavar Sandhai ),15.61
+Winter,Tomato,Ammapet(Uzhavar Sandhai ),15.45
+Winter,Tomato,Athur(Uzhavar Sandhai ),14.19
+Winter,Tomato,Attayampatti(Uzhavar Sandhai ),16.3
+Winter,Tomato,Edapadi (Uzhavar Sandhai ),16.38
+Winter,Tomato,Elampillai(Uzhavar Sandhai ),16.43
+Winter,Tomato,Hasthampatti(Uzhavar Sandhai ),15.45
+Winter,Tomato,Jalagandapuram(Uzhavar Sandhai ),13.94
+Winter,Tomato,Mettur(Uzhavar Sandhai ),15.28
+Winter,Tomato,Sooramangalam(Uzhavar Sandhai ),15.41
+Winter,Tomato,Thammampatti (Uzhavar Sandhai ),14.0
+Winter,Tomato,Thathakapatti(Uzhavar Sandhai ),15.61
+Spring,Green Avare (W),Ammapet(Uzhavar Sandhai ),31.46
+Spring,Green Avare (W),Athur(Uzhavar Sandhai ),32.02
+Spring,Green Avare (W),Attayampatti(Uzhavar Sandhai ),31.98
+Spring,Green Avare (W),Edapadi (Uzhavar Sandhai ),32.14
+Spring,Green Avare (W),Elampillai(Uzhavar Sandhai ),32.06
+Spring,Green Avare (W),Hasthampatti(Uzhavar Sandhai ),31.67
+Spring,Green Avare (W),Jalagandapuram(Uzhavar Sandhai ),32.17
+Spring,Green Avare (W),Mettur(Uzhavar Sandhai ),32.22
+Spring,Green Avare (W),Sooramangalam(Uzhavar Sandhai ),31.59
+Spring,Green Avare (W),Thammampatti (Uzhavar Sandhai ),36.84
+Spring,Green Avare (W),Thathakapatti(Uzhavar Sandhai ),31.62
+Summer,Green Avare (W),Ammapet(Uzhavar Sandhai ),31.46
+Summer,Green Avare (W),Athur(Uzhavar Sandhai ),32.02
+Summer,Green Avare (W),Attayampatti(Uzhavar Sandhai ),31.98
+Summer,Green Avare (W),Edapadi (Uzhavar Sandhai ),32.14
+Summer,Green Avare (W),Elampillai(Uzhavar Sandhai ),32.06
+Summer,Green Avare (W),Hasthampatti(Uzhavar Sandhai ),31.67
+Summer,Green Avare (W),Jalagandapuram(Uzhavar Sandhai ),32.17
+Summer,Green Avare (W),Mettur(Uzhavar Sandhai ),32.22
+Summer,Green Avare (W),Sooramangalam(Uzhavar Sandhai ),31.59
+Summer,Green Avare (W),Thammampatti (Uzhavar Sandhai ),36.84
+Summer,Green Avare (W),Thathakapatti(Uzhavar Sandhai ),31.62
+Monsoon,Green Avare (W),Ammapet(Uzhavar Sandhai ),31.46
+Monsoon,Green Avare (W),Athur(Uzhavar Sandhai ),32.02
+Monsoon,Green Avare (W),Attayampatti(Uzhavar Sandhai ),31.98
+Monsoon,Green Avare (W),Edapadi (Uzhavar Sandhai ),32.14
+Monsoon,Green Avare (W),Elampillai(Uzhavar Sandhai ),32.06
+Monsoon,Green Avare (W),Hasthampatti(Uzhavar Sandhai ),31.67
+Monsoon,Green Avare (W),Jalagandapuram(Uzhavar Sandhai ),32.17
+Monsoon,Green Avare (W),Mettur(Uzhavar Sandhai ),32.22
+Monsoon,Green Avare (W),Sooramangalam(Uzhavar Sandhai ),31.59
+Monsoon,Green Avare (W),Thammampatti (Uzhavar Sandhai ),36.84
+Monsoon,Green Avare (W),Thathakapatti(Uzhavar Sandhai ),31.62
+Winter,Green Avare (W),Ammapet(Uzhavar Sandhai ),31.46
+Winter,Green Avare (W),Athur(Uzhavar Sandhai ),32.02
+Winter,Green Avare (W),Attayampatti(Uzhavar Sandhai ),31.98
+Winter,Green Avare (W),Edapadi (Uzhavar Sandhai ),32.14
+Winter,Green Avare (W),Elampillai(Uzhavar Sandhai ),32.06
+Winter,Green Avare (W),Hasthampatti(Uzhavar Sandhai ),31.67
+Winter,Green Avare (W),Jalagandapuram(Uzhavar Sandhai ),32.17
+Winter,Green Avare (W),Mettur(Uzhavar Sandhai ),32.22
+Winter,Green Avare (W),Sooramangalam(Uzhavar Sandhai ),31.59
+Winter,Green Avare (W),Thammampatti (Uzhavar Sandhai ),36.84
+Winter,Green Avare (W),Thathakapatti(Uzhavar Sandhai ),31.62
+Spring,Cabbage,Ammapet(Uzhavar Sandhai ),26.9
+Spring,Cabbage,Athur(Uzhavar Sandhai ),31.93
+Spring,Cabbage,Attayampatti(Uzhavar Sandhai ),31.94
+Spring,Cabbage,Edapadi (Uzhavar Sandhai ),36.45
+Spring,Cabbage,Elampillai(Uzhavar Sandhai ),41.51
+Spring,Cabbage,Hasthampatti(Uzhavar Sandhai ),41.11
+Spring,Cabbage,Jalagandapuram(Uzhavar Sandhai ),41.56
+Spring,Cabbage,Mettur(Uzhavar Sandhai ),36.98
+Spring,Cabbage,Sooramangalam(Uzhavar Sandhai ),41.04
+Spring,Cabbage,Thammampatti (Uzhavar Sandhai ),22.69
+Spring,Cabbage,Thathakapatti(Uzhavar Sandhai ),31.49
+Summer,Cabbage,Ammapet(Uzhavar Sandhai ),26.9
+Summer,Cabbage,Athur(Uzhavar Sandhai ),31.93
+Summer,Cabbage,Attayampatti(Uzhavar Sandhai ),31.94
+Summer,Cabbage,Edapadi (Uzhavar Sandhai ),36.45
+Summer,Cabbage,Elampillai(Uzhavar Sandhai ),41.51
+Summer,Cabbage,Hasthampatti(Uzhavar Sandhai ),41.11
+Summer,Cabbage,Jalagandapuram(Uzhavar Sandhai ),41.56
+Summer,Cabbage,Mettur(Uzhavar Sandhai ),36.98
+Summer,Cabbage,Sooramangalam(Uzhavar Sandhai ),41.04
+Summer,Cabbage,Thammampatti (Uzhavar Sandhai ),22.69
+Summer,Cabbage,Thathakapatti(Uzhavar Sandhai ),31.49
+Monsoon,Cabbage,Ammapet(Uzhavar Sandhai ),26.9
+Monsoon,Cabbage,Athur(Uzhavar Sandhai ),31.93
+Monsoon,Cabbage,Attayampatti(Uzhavar Sandhai ),31.94
+Monsoon,Cabbage,Edapadi (Uzhavar Sandhai ),36.45
+Monsoon,Cabbage,Elampillai(Uzhavar Sandhai ),41.51
+Monsoon,Cabbage,Hasthampatti(Uzhavar Sandhai ),41.11
+Monsoon,Cabbage,Jalagandapuram(Uzhavar Sandhai ),41.56
+Monsoon,Cabbage,Mettur(Uzhavar Sandhai ),36.98
+Monsoon,Cabbage,Sooramangalam(Uzhavar Sandhai ),41.04
+Monsoon,Cabbage,Thammampatti (Uzhavar Sandhai ),22.69
+Monsoon,Cabbage,Thathakapatti(Uzhavar Sandhai ),31.49
+Winter,Cabbage,Ammapet(Uzhavar Sandhai ),26.9
+Winter,Cabbage,Athur(Uzhavar Sandhai ),31.93
+Winter,Cabbage,Attayampatti(Uzhavar Sandhai ),31.94
+Winter,Cabbage,Edapadi (Uzhavar Sandhai ),36.45
+Winter,Cabbage,Elampillai(Uzhavar Sandhai ),41.51
+Winter,Cabbage,Hasthampatti(Uzhavar Sandhai ),41.11
+Winter,Cabbage,Jalagandapuram(Uzhavar Sandhai ),41.56
+Winter,Cabbage,Mettur(Uzhavar Sandhai ),36.98
+Winter,Cabbage,Sooramangalam(Uzhavar Sandhai ),41.04
+Winter,Cabbage,Thammampatti (Uzhavar Sandhai ),22.69
+Winter,Cabbage,Thathakapatti(Uzhavar Sandhai ),31.49
+Spring,Onion Green,Ammapet(Uzhavar Sandhai ),46.07
+Spring,Onion Green,Athur(Uzhavar Sandhai ),41.33
+Spring,Onion Green,Attayampatti(Uzhavar Sandhai ),45.96
+Spring,Onion Green,Edapadi (Uzhavar Sandhai ),46.21
+Spring,Onion Green,Elampillai(Uzhavar Sandhai ),50.9
+Spring,Onion Green,Hasthampatti(Uzhavar Sandhai ),45.07
+Spring,Onion Green,Jalagandapuram(Uzhavar Sandhai ),46.05
+Spring,Onion Green,Mettur(Uzhavar Sandhai ),50.77
+Spring,Onion Green,Sooramangalam(Uzhavar Sandhai ),44.98
+Spring,Onion Green,Thammampatti (Uzhavar Sandhai ),47.07
+Spring,Onion Green,Thathakapatti(Uzhavar Sandhai ),44.93
+Summer,Onion Green,Ammapet(Uzhavar Sandhai ),46.07
+Summer,Onion Green,Athur(Uzhavar Sandhai ),41.33
+Summer,Onion Green,Attayampatti(Uzhavar Sandhai ),45.96
+Summer,Onion Green,Edapadi (Uzhavar Sandhai ),46.21
+Summer,Onion Green,Elampillai(Uzhavar Sandhai ),50.9
+Summer,Onion Green,Hasthampatti(Uzhavar Sandhai ),45.07
+Summer,Onion Green,Jalagandapuram(Uzhavar Sandhai ),46.05
+Summer,Onion Green,Mettur(Uzhavar Sandhai ),50.77
+Summer,Onion Green,Sooramangalam(Uzhavar Sandhai ),44.98
+Summer,Onion Green,Thammampatti (Uzhavar Sandhai ),47.07
+Summer,Onion Green,Thathakapatti(Uzhavar Sandhai ),44.93
+Monsoon,Onion Green,Ammapet(Uzhavar Sandhai ),46.07
+Monsoon,Onion Green,Athur(Uzhavar Sandhai ),41.33
+Monsoon,Onion Green,Attayampatti(Uzhavar Sandhai ),45.96
+Monsoon,Onion Green,Edapadi (Uzhavar Sandhai ),46.21
+Monsoon,Onion Green,Elampillai(Uzhavar Sandhai ),50.9
+Monsoon,Onion Green,Hasthampatti(Uzhavar Sandhai ),45.07
+Monsoon,Onion Green,Jalagandapuram(Uzhavar Sandhai ),46.05
+Monsoon,Onion Green,Mettur(Uzhavar Sandhai ),50.77
+Monsoon,Onion Green,Sooramangalam(Uzhavar Sandhai ),44.98
+Monsoon,Onion Green,Thammampatti (Uzhavar Sandhai ),47.07
+Monsoon,Onion Green,Thathakapatti(Uzhavar Sandhai ),44.93
+Winter,Onion Green,Ammapet(Uzhavar Sandhai ),46.07
+Winter,Onion Green,Athur(Uzhavar Sandhai ),41.33
+Winter,Onion Green,Attayampatti(Uzhavar Sandhai ),45.96
+Winter,Onion Green,Edapadi (Uzhavar Sandhai ),46.21
+Winter,Onion Green,Elampillai(Uzhavar Sandhai ),50.9
+Winter,Onion Green,Hasthampatti(Uzhavar Sandhai ),45.07
+Winter,Onion Green,Jalagandapuram(Uzhavar Sandhai ),46.05
+Winter,Onion Green,Mettur(Uzhavar Sandhai ),50.77
+Winter,Onion Green,Sooramangalam(Uzhavar Sandhai ),44.98
+Winter,Onion Green,Thammampatti (Uzhavar Sandhai ),47.07
+Winter,Onion Green,Thathakapatti(Uzhavar Sandhai ),44.93
+Spring,Ginger(Green),Ammapet(Uzhavar Sandhai ),60.38
+Spring,Ginger(Green),Athur(Uzhavar Sandhai ),61.14
+Spring,Ginger(Green),Attayampatti(Uzhavar Sandhai ),61.03
+Spring,Ginger(Green),Edapadi (Uzhavar Sandhai ),61.16
+Spring,Ginger(Green),Elampillai(Uzhavar Sandhai ),61.12
+Spring,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),59.43
+Spring,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),61.17
+Spring,Ginger(Green),Mettur(Uzhavar Sandhai ),66.28
+Spring,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),60.3
+Spring,Ginger(Green),Thammampatti (Uzhavar Sandhai ),61.06
+Spring,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),60.37
+Summer,Ginger(Green),Ammapet(Uzhavar Sandhai ),60.38
+Summer,Ginger(Green),Athur(Uzhavar Sandhai ),61.14
+Summer,Ginger(Green),Attayampatti(Uzhavar Sandhai ),61.03
+Summer,Ginger(Green),Edapadi (Uzhavar Sandhai ),61.16
+Summer,Ginger(Green),Elampillai(Uzhavar Sandhai ),61.12
+Summer,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),59.43
+Summer,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),61.17
+Summer,Ginger(Green),Mettur(Uzhavar Sandhai ),66.28
+Summer,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),60.3
+Summer,Ginger(Green),Thammampatti (Uzhavar Sandhai ),61.06
+Summer,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),60.37
+Monsoon,Ginger(Green),Ammapet(Uzhavar Sandhai ),60.38
+Monsoon,Ginger(Green),Athur(Uzhavar Sandhai ),61.14
+Monsoon,Ginger(Green),Attayampatti(Uzhavar Sandhai ),61.03
+Monsoon,Ginger(Green),Edapadi (Uzhavar Sandhai ),61.16
+Monsoon,Ginger(Green),Elampillai(Uzhavar Sandhai ),61.11
+Monsoon,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),59.43
+Monsoon,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),61.17
+Monsoon,Ginger(Green),Mettur(Uzhavar Sandhai ),66.28
+Monsoon,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),60.3
+Monsoon,Ginger(Green),Thammampatti (Uzhavar Sandhai ),61.06
+Monsoon,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),60.37
+Winter,Ginger(Green),Ammapet(Uzhavar Sandhai ),60.38
+Winter,Ginger(Green),Athur(Uzhavar Sandhai ),61.14
+Winter,Ginger(Green),Attayampatti(Uzhavar Sandhai ),61.03
+Winter,Ginger(Green),Edapadi (Uzhavar Sandhai ),61.16
+Winter,Ginger(Green),Elampillai(Uzhavar Sandhai ),61.11
+Winter,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),59.43
+Winter,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),61.17
+Winter,Ginger(Green),Mettur(Uzhavar Sandhai ),66.28
+Winter,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),60.3
+Winter,Ginger(Green),Thammampatti (Uzhavar Sandhai ),61.06
+Winter,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),60.37
+Spring,Maize,Ammapet(Uzhavar Sandhai ),22.45
+Spring,Maize,Hasthampatti(Uzhavar Sandhai ),26.91
+Spring,Maize,Mettur(Uzhavar Sandhai ),27.38
+Spring,Maize,Sooramangalam(Uzhavar Sandhai ),22.25
+Spring,Maize,Jalagandapuram(Uzhavar Sandhai ),31.91
+Spring,Maize,Thathakapatti(Uzhavar Sandhai ),22.66
+Spring,Maize,Athur(Uzhavar Sandhai ),31.94
+Spring,Maize,Elampillai(Uzhavar Sandhai ),31.99
+Summer,Maize,Ammapet(Uzhavar Sandhai ),22.45
+Summer,Maize,Hasthampatti(Uzhavar Sandhai ),26.91
+Summer,Maize,Mettur(Uzhavar Sandhai ),27.38
+Summer,Maize,Sooramangalam(Uzhavar Sandhai ),22.25
+Summer,Maize,Jalagandapuram(Uzhavar Sandhai ),31.91
+Summer,Maize,Thathakapatti(Uzhavar Sandhai ),22.66
+Summer,Maize,Athur(Uzhavar Sandhai ),31.94
+Summer,Maize,Elampillai(Uzhavar Sandhai ),31.99
+Monsoon,Maize,Ammapet(Uzhavar Sandhai ),22.45
+Monsoon,Maize,Hasthampatti(Uzhavar Sandhai ),26.91
+Monsoon,Maize,Mettur(Uzhavar Sandhai ),27.38
+Monsoon,Maize,Sooramangalam(Uzhavar Sandhai ),22.25
+Monsoon,Maize,Jalagandapuram(Uzhavar Sandhai ),31.91
+Monsoon,Maize,Thathakapatti(Uzhavar Sandhai ),22.66
+Monsoon,Maize,Athur(Uzhavar Sandhai ),31.94
+Monsoon,Maize,Elampillai(Uzhavar Sandhai ),31.99
+Winter,Maize,Ammapet(Uzhavar Sandhai ),22.45
+Winter,Maize,Hasthampatti(Uzhavar Sandhai ),26.9
+Winter,Maize,Mettur(Uzhavar Sandhai ),27.38
+Winter,Maize,Sooramangalam(Uzhavar Sandhai ),22.25
+Winter,Maize,Jalagandapuram(Uzhavar Sandhai ),31.91
+Winter,Maize,Thathakapatti(Uzhavar Sandhai ),22.66
+Winter,Maize,Athur(Uzhavar Sandhai ),31.94
+Winter,Maize,Elampillai(Uzhavar Sandhai ),31.99
+Spring,Grapes,Ammapet(Uzhavar Sandhai ),80.27
+Spring,Grapes,Hasthampatti(Uzhavar Sandhai ),100.05
+Spring,Grapes,Sooramangalam(Uzhavar Sandhai ),80.02
+Spring,Grapes,Mettur(Uzhavar Sandhai ),99.09
+Summer,Grapes,Ammapet(Uzhavar Sandhai ),80.27
+Summer,Grapes,Hasthampatti(Uzhavar Sandhai ),100.05
+Summer,Grapes,Sooramangalam(Uzhavar Sandhai ),80.02
+Summer,Grapes,Mettur(Uzhavar Sandhai ),99.09
+Monsoon,Grapes,Ammapet(Uzhavar Sandhai ),80.27
+Monsoon,Grapes,Hasthampatti(Uzhavar Sandhai ),100.05
+Monsoon,Grapes,Sooramangalam(Uzhavar Sandhai ),80.02
+Monsoon,Grapes,Mettur(Uzhavar Sandhai ),99.09
+Winter,Grapes,Ammapet(Uzhavar Sandhai ),80.27
+Winter,Grapes,Hasthampatti(Uzhavar Sandhai ),100.05
+Winter,Grapes,Sooramangalam(Uzhavar Sandhai ),80.02
+Winter,Grapes,Mettur(Uzhavar Sandhai ),99.09
+Spring,Orange,Ammapet(Uzhavar Sandhai ),80.33
+Spring,Orange,Hasthampatti(Uzhavar Sandhai ),80.0
+Spring,Orange,Mettur(Uzhavar Sandhai ),80.34
+Spring,Orange,Sooramangalam(Uzhavar Sandhai ),80.01
+Spring,Orange,Jalagandapuram(Uzhavar Sandhai ),60.81
+Spring,Orange,Thammampatti (Uzhavar Sandhai ),31.38
+Summer,Orange,Ammapet(Uzhavar Sandhai ),80.33
+Summer,Orange,Hasthampatti(Uzhavar Sandhai ),80.0
+Summer,Orange,Mettur(Uzhavar Sandhai ),80.34
+Summer,Orange,Sooramangalam(Uzhavar Sandhai ),80.01
+Summer,Orange,Jalagandapuram(Uzhavar Sandhai ),60.81
+Summer,Orange,Thammampatti (Uzhavar Sandhai ),31.38
+Monsoon,Orange,Ammapet(Uzhavar Sandhai ),80.33
+Monsoon,Orange,Hasthampatti(Uzhavar Sandhai ),80.0
+Monsoon,Orange,Mettur(Uzhavar Sandhai ),80.34
+Monsoon,Orange,Sooramangalam(Uzhavar Sandhai ),80.01
+Monsoon,Orange,Jalagandapuram(Uzhavar Sandhai ),60.81
+Monsoon,Orange,Thammampatti (Uzhavar Sandhai ),31.38
+Winter,Orange,Ammapet(Uzhavar Sandhai ),80.33
+Winter,Orange,Hasthampatti(Uzhavar Sandhai ),80.0
+Winter,Orange,Mettur(Uzhavar Sandhai ),80.34
+Winter,Orange,Sooramangalam(Uzhavar Sandhai ),80.01
+Winter,Orange,Jalagandapuram(Uzhavar Sandhai ),60.81
+Winter,Orange,Thammampatti (Uzhavar Sandhai ),31.38
+Spring,Snakeguard,Ammapet(Uzhavar Sandhai ),22.62
+Spring,Snakeguard,Athur(Uzhavar Sandhai ),18.57
+Spring,Snakeguard,Attayampatti(Uzhavar Sandhai ),22.5
+Spring,Snakeguard,Edapadi (Uzhavar Sandhai ),22.62
+Spring,Snakeguard,Elampillai(Uzhavar Sandhai ),22.75
+Spring,Snakeguard,Hasthampatti(Uzhavar Sandhai ),26.2
+Spring,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),24.31
+Spring,Snakeguard,Mettur(Uzhavar Sandhai ),22.56
+Spring,Snakeguard,Sooramangalam(Uzhavar Sandhai ),22.36
+Spring,Snakeguard,Thammampatti (Uzhavar Sandhai ),19.64
+Spring,Snakeguard,Thathakapatti(Uzhavar Sandhai ),22.75
+Summer,Snakeguard,Ammapet(Uzhavar Sandhai ),22.62
+Summer,Snakeguard,Athur(Uzhavar Sandhai ),18.57
+Summer,Snakeguard,Attayampatti(Uzhavar Sandhai ),22.5
+Summer,Snakeguard,Edapadi (Uzhavar Sandhai ),22.62
+Summer,Snakeguard,Elampillai(Uzhavar Sandhai ),22.75
+Summer,Snakeguard,Hasthampatti(Uzhavar Sandhai ),26.2
+Summer,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),24.31
+Summer,Snakeguard,Mettur(Uzhavar Sandhai ),22.56
+Summer,Snakeguard,Sooramangalam(Uzhavar Sandhai ),22.36
+Summer,Snakeguard,Thammampatti (Uzhavar Sandhai ),19.64
+Summer,Snakeguard,Thathakapatti(Uzhavar Sandhai ),22.75
+Monsoon,Snakeguard,Ammapet(Uzhavar Sandhai ),22.62
+Monsoon,Snakeguard,Athur(Uzhavar Sandhai ),18.57
+Monsoon,Snakeguard,Attayampatti(Uzhavar Sandhai ),22.49
+Monsoon,Snakeguard,Edapadi (Uzhavar Sandhai ),22.62
+Monsoon,Snakeguard,Elampillai(Uzhavar Sandhai ),22.75
+Monsoon,Snakeguard,Hasthampatti(Uzhavar Sandhai ),26.2
+Monsoon,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),24.31
+Monsoon,Snakeguard,Mettur(Uzhavar Sandhai ),22.56
+Monsoon,Snakeguard,Sooramangalam(Uzhavar Sandhai ),22.36
+Monsoon,Snakeguard,Thammampatti (Uzhavar Sandhai ),19.64
+Monsoon,Snakeguard,Thathakapatti(Uzhavar Sandhai ),22.74
+Winter,Snakeguard,Ammapet(Uzhavar Sandhai ),22.62
+Winter,Snakeguard,Athur(Uzhavar Sandhai ),18.57
+Winter,Snakeguard,Attayampatti(Uzhavar Sandhai ),22.49
+Winter,Snakeguard,Edapadi (Uzhavar Sandhai ),22.62
+Winter,Snakeguard,Elampillai(Uzhavar Sandhai ),22.75
+Winter,Snakeguard,Hasthampatti(Uzhavar Sandhai ),26.2
+Winter,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),24.31
+Winter,Snakeguard,Mettur(Uzhavar Sandhai ),22.56
+Winter,Snakeguard,Sooramangalam(Uzhavar Sandhai ),22.36
+Winter,Snakeguard,Thammampatti (Uzhavar Sandhai ),19.64
+Winter,Snakeguard,Thathakapatti(Uzhavar Sandhai ),22.74
+Spring,Cauliflower,Ammapet(Uzhavar Sandhai ),27.1
+Spring,Cauliflower,Athur(Uzhavar Sandhai ),27.31
+Spring,Cauliflower,Elampillai(Uzhavar Sandhai ),41.41
+Spring,Cauliflower,Hasthampatti(Uzhavar Sandhai ),26.78
+Spring,Cauliflower,Mettur(Uzhavar Sandhai ),32.18
+Spring,Cauliflower,Sooramangalam(Uzhavar Sandhai ),26.74
+Spring,Cauliflower,Thammampatti (Uzhavar Sandhai ),27.11
+Spring,Cauliflower,Thathakapatti(Uzhavar Sandhai ),27.05
+Spring,Cauliflower,Attayampatti(Uzhavar Sandhai ),27.65
+Spring,Cauliflower,Edapadi (Uzhavar Sandhai ),31.16
+Spring,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),28.74
+Summer,Cauliflower,Ammapet(Uzhavar Sandhai ),27.1
+Summer,Cauliflower,Athur(Uzhavar Sandhai ),27.31
+Summer,Cauliflower,Elampillai(Uzhavar Sandhai ),41.41
+Summer,Cauliflower,Hasthampatti(Uzhavar Sandhai ),26.78
+Summer,Cauliflower,Mettur(Uzhavar Sandhai ),32.18
+Summer,Cauliflower,Sooramangalam(Uzhavar Sandhai ),26.74
+Summer,Cauliflower,Thammampatti (Uzhavar Sandhai ),27.11
+Summer,Cauliflower,Thathakapatti(Uzhavar Sandhai ),27.05
+Summer,Cauliflower,Attayampatti(Uzhavar Sandhai ),27.65
+Summer,Cauliflower,Edapadi (Uzhavar Sandhai ),31.16
+Summer,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),28.74
+Monsoon,Cauliflower,Ammapet(Uzhavar Sandhai ),27.1
+Monsoon,Cauliflower,Athur(Uzhavar Sandhai ),27.31
+Monsoon,Cauliflower,Elampillai(Uzhavar Sandhai ),41.41
+Monsoon,Cauliflower,Hasthampatti(Uzhavar Sandhai ),26.78
+Monsoon,Cauliflower,Mettur(Uzhavar Sandhai ),32.18
+Monsoon,Cauliflower,Sooramangalam(Uzhavar Sandhai ),26.74
+Monsoon,Cauliflower,Thammampatti (Uzhavar Sandhai ),27.11
+Monsoon,Cauliflower,Thathakapatti(Uzhavar Sandhai ),27.05
+Monsoon,Cauliflower,Attayampatti(Uzhavar Sandhai ),27.65
+Monsoon,Cauliflower,Edapadi (Uzhavar Sandhai ),31.16
+Monsoon,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),28.74
+Winter,Cauliflower,Ammapet(Uzhavar Sandhai ),27.1
+Winter,Cauliflower,Athur(Uzhavar Sandhai ),27.31
+Winter,Cauliflower,Elampillai(Uzhavar Sandhai ),41.41
+Winter,Cauliflower,Hasthampatti(Uzhavar Sandhai ),26.78
+Winter,Cauliflower,Mettur(Uzhavar Sandhai ),32.18
+Winter,Cauliflower,Sooramangalam(Uzhavar Sandhai ),26.74
+Winter,Cauliflower,Thammampatti (Uzhavar Sandhai ),27.1
+Winter,Cauliflower,Thathakapatti(Uzhavar Sandhai ),27.05
+Winter,Cauliflower,Attayampatti(Uzhavar Sandhai ),27.65
+Winter,Cauliflower,Edapadi (Uzhavar Sandhai ),31.16
+Winter,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),28.74
+Spring,Banana,Ammapet(Uzhavar Sandhai ),90.68
+Spring,Banana,Athur(Uzhavar Sandhai ),50.63
+Spring,Banana,Attayampatti(Uzhavar Sandhai ),50.23
+Spring,Banana,Edapadi (Uzhavar Sandhai ),60.51
+Spring,Banana,Elampillai(Uzhavar Sandhai ),91.11
+Spring,Banana,Hasthampatti(Uzhavar Sandhai ),100.27
+Spring,Banana,Jalagandapuram(Uzhavar Sandhai ),50.39
+Spring,Banana,Mettur(Uzhavar Sandhai ),80.64
+Spring,Banana,Sooramangalam(Uzhavar Sandhai ),89.89
+Spring,Banana,Thammampatti (Uzhavar Sandhai ),45.6
+Spring,Banana,Thathakapatti(Uzhavar Sandhai ),90.61
+Summer,Banana,Ammapet(Uzhavar Sandhai ),90.68
+Summer,Banana,Athur(Uzhavar Sandhai ),50.63
+Summer,Banana,Attayampatti(Uzhavar Sandhai ),50.23
+Summer,Banana,Edapadi (Uzhavar Sandhai ),60.51
+Summer,Banana,Elampillai(Uzhavar Sandhai ),91.11
+Summer,Banana,Hasthampatti(Uzhavar Sandhai ),100.27
+Summer,Banana,Jalagandapuram(Uzhavar Sandhai ),50.39
+Summer,Banana,Mettur(Uzhavar Sandhai ),80.64
+Summer,Banana,Sooramangalam(Uzhavar Sandhai ),89.89
+Summer,Banana,Thammampatti (Uzhavar Sandhai ),45.6
+Summer,Banana,Thathakapatti(Uzhavar Sandhai ),90.61
+Monsoon,Banana,Ammapet(Uzhavar Sandhai ),90.68
+Monsoon,Banana,Athur(Uzhavar Sandhai ),50.63
+Monsoon,Banana,Attayampatti(Uzhavar Sandhai ),50.23
+Monsoon,Banana,Edapadi (Uzhavar Sandhai ),60.51
+Monsoon,Banana,Elampillai(Uzhavar Sandhai ),91.11
+Monsoon,Banana,Hasthampatti(Uzhavar Sandhai ),100.27
+Monsoon,Banana,Jalagandapuram(Uzhavar Sandhai ),50.39
+Monsoon,Banana,Mettur(Uzhavar Sandhai ),80.64
+Monsoon,Banana,Sooramangalam(Uzhavar Sandhai ),89.89
+Monsoon,Banana,Thammampatti (Uzhavar Sandhai ),45.6
+Monsoon,Banana,Thathakapatti(Uzhavar Sandhai ),90.61
+Winter,Banana,Ammapet(Uzhavar Sandhai ),90.68
+Winter,Banana,Athur(Uzhavar Sandhai ),50.63
+Winter,Banana,Attayampatti(Uzhavar Sandhai ),50.23
+Winter,Banana,Edapadi (Uzhavar Sandhai ),60.51
+Winter,Banana,Elampillai(Uzhavar Sandhai ),91.11
+Winter,Banana,Hasthampatti(Uzhavar Sandhai ),100.27
+Winter,Banana,Jalagandapuram(Uzhavar Sandhai ),50.39
+Winter,Banana,Mettur(Uzhavar Sandhai ),80.64
+Winter,Banana,Sooramangalam(Uzhavar Sandhai ),89.89
+Winter,Banana,Thammampatti (Uzhavar Sandhai ),45.6
+Winter,Banana,Thathakapatti(Uzhavar Sandhai ),90.61
+Spring,Chikoos(Sapota),Ammapet(Uzhavar Sandhai ),46.43
+Spring,Chikoos(Sapota),Athur(Uzhavar Sandhai ),41.67
+Spring,Chikoos(Sapota),Edapadi (Uzhavar Sandhai ),41.64
+Spring,Chikoos(Sapota),Hasthampatti(Uzhavar Sandhai ),50.23
+Spring,Chikoos(Sapota),Jalagandapuram(Uzhavar Sandhai ),36.89
+Spring,Chikoos(Sapota),Mettur(Uzhavar Sandhai ),41.83
+Spring,Chikoos(Sapota),Sooramangalam(Uzhavar Sandhai ),50.1
+Spring,Chikoos(Sapota),Thathakapatti(Uzhavar Sandhai ),41.02
+Spring,Chikoos(Sapota),Elampillai(Uzhavar Sandhai ),36.76
+Spring,Chikoos(Sapota),Thammampatti (Uzhavar Sandhai ),41.49
+Spring,Chikoos(Sapota),Attayampatti(Uzhavar Sandhai ),51.19
+Summer,Chikoos(Sapota),Ammapet(Uzhavar Sandhai ),46.43
+Summer,Chikoos(Sapota),Athur(Uzhavar Sandhai ),41.67
+Summer,Chikoos(Sapota),Edapadi (Uzhavar Sandhai ),41.64
+Summer,Chikoos(Sapota),Hasthampatti(Uzhavar Sandhai ),50.23
+Summer,Chikoos(Sapota),Jalagandapuram(Uzhavar Sandhai ),36.89
+Summer,Chikoos(Sapota),Mettur(Uzhavar Sandhai ),41.83
+Summer,Chikoos(Sapota),Sooramangalam(Uzhavar Sandhai ),50.1
+Summer,Chikoos(Sapota),Thathakapatti(Uzhavar Sandhai ),41.02
+Summer,Chikoos(Sapota),Elampillai(Uzhavar Sandhai ),36.76
+Summer,Chikoos(Sapota),Thammampatti (Uzhavar Sandhai ),41.49
+Summer,Chikoos(Sapota),Attayampatti(Uzhavar Sandhai ),51.19
+Monsoon,Chikoos(Sapota),Ammapet(Uzhavar Sandhai ),46.43
+Monsoon,Chikoos(Sapota),Athur(Uzhavar Sandhai ),41.67
+Monsoon,Chikoos(Sapota),Edapadi (Uzhavar Sandhai ),41.64
+Monsoon,Chikoos(Sapota),Hasthampatti(Uzhavar Sandhai ),50.23
+Monsoon,Chikoos(Sapota),Jalagandapuram(Uzhavar Sandhai ),36.89
+Monsoon,Chikoos(Sapota),Mettur(Uzhavar Sandhai ),41.83
+Monsoon,Chikoos(Sapota),Sooramangalam(Uzhavar Sandhai ),50.1
+Monsoon,Chikoos(Sapota),Thathakapatti(Uzhavar Sandhai ),41.02
+Monsoon,Chikoos(Sapota),Elampillai(Uzhavar Sandhai ),36.75
+Monsoon,Chikoos(Sapota),Thammampatti (Uzhavar Sandhai ),41.49
+Monsoon,Chikoos(Sapota),Attayampatti(Uzhavar Sandhai ),51.19
+Winter,Chikoos(Sapota),Ammapet(Uzhavar Sandhai ),46.43
+Winter,Chikoos(Sapota),Athur(Uzhavar Sandhai ),41.67
+Winter,Chikoos(Sapota),Edapadi (Uzhavar Sandhai ),41.64
+Winter,Chikoos(Sapota),Hasthampatti(Uzhavar Sandhai ),50.23
+Winter,Chikoos(Sapota),Jalagandapuram(Uzhavar Sandhai ),36.89
+Winter,Chikoos(Sapota),Mettur(Uzhavar Sandhai ),41.83
+Winter,Chikoos(Sapota),Sooramangalam(Uzhavar Sandhai ),50.1
+Winter,Chikoos(Sapota),Thathakapatti(Uzhavar Sandhai ),41.02
+Winter,Chikoos(Sapota),Elampillai(Uzhavar Sandhai ),36.75
+Winter,Chikoos(Sapota),Thammampatti (Uzhavar Sandhai ),41.49
+Winter,Chikoos(Sapota),Attayampatti(Uzhavar Sandhai ),51.19
+Spring,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),31.31
+Spring,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),22.42
+Spring,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),31.52
+Spring,Bhindi(Ladies Finger),Edapadi (Uzhavar Sandhai ),31.8
+Spring,Bhindi(Ladies Finger),Elampillai(Uzhavar Sandhai ),31.73
+Spring,Bhindi(Ladies Finger),Hasthampatti(Uzhavar Sandhai ),36.85
+Spring,Bhindi(Ladies Finger),Jalagandapuram(Uzhavar Sandhai ),31.68
+Spring,Bhindi(Ladies Finger),Mettur(Uzhavar Sandhai ),26.97
+Spring,Bhindi(Ladies Finger),Sooramangalam(Uzhavar Sandhai ),31.48
+Spring,Bhindi(Ladies Finger),Thammampatti (Uzhavar Sandhai ),31.56
+Spring,Bhindi(Ladies Finger),Thathakapatti(Uzhavar Sandhai ),31.56
+Summer,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),31.31
+Summer,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),22.42
+Summer,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),31.52
+Summer,Bhindi(Ladies Finger),Edapadi (Uzhavar Sandhai ),31.8
+Summer,Bhindi(Ladies Finger),Elampillai(Uzhavar Sandhai ),31.73
+Summer,Bhindi(Ladies Finger),Hasthampatti(Uzhavar Sandhai ),36.85
+Summer,Bhindi(Ladies Finger),Jalagandapuram(Uzhavar Sandhai ),31.68
+Summer,Bhindi(Ladies Finger),Mettur(Uzhavar Sandhai ),26.97
+Summer,Bhindi(Ladies Finger),Sooramangalam(Uzhavar Sandhai ),31.48
+Summer,Bhindi(Ladies Finger),Thammampatti (Uzhavar Sandhai ),31.56
+Summer,Bhindi(Ladies Finger),Thathakapatti(Uzhavar Sandhai ),31.56
+Monsoon,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),31.31
+Monsoon,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),22.42
+Monsoon,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),31.51
+Monsoon,Bhindi(Ladies Finger),Edapadi (Uzhavar Sandhai ),31.79
+Monsoon,Bhindi(Ladies Finger),Elampillai(Uzhavar Sandhai ),31.73
+Monsoon,Bhindi(Ladies Finger),Hasthampatti(Uzhavar Sandhai ),36.85
+Monsoon,Bhindi(Ladies Finger),Jalagandapuram(Uzhavar Sandhai ),31.68
+Monsoon,Bhindi(Ladies Finger),Mettur(Uzhavar Sandhai ),26.97
+Monsoon,Bhindi(Ladies Finger),Sooramangalam(Uzhavar Sandhai ),31.47
+Monsoon,Bhindi(Ladies Finger),Thammampatti (Uzhavar Sandhai ),31.56
+Monsoon,Bhindi(Ladies Finger),Thathakapatti(Uzhavar Sandhai ),31.56
+Winter,Bhindi(Ladies Finger),Ammapet(Uzhavar Sandhai ),31.31
+Winter,Bhindi(Ladies Finger),Athur(Uzhavar Sandhai ),22.42
+Winter,Bhindi(Ladies Finger),Attayampatti(Uzhavar Sandhai ),31.52
+Winter,Bhindi(Ladies Finger),Edapadi (Uzhavar Sandhai ),31.79
+Winter,Bhindi(Ladies Finger),Elampillai(Uzhavar Sandhai ),31.73
+Winter,Bhindi(Ladies Finger),Hasthampatti(Uzhavar Sandhai ),36.85
+Winter,Bhindi(Ladies Finger),Jalagandapuram(Uzhavar Sandhai ),31.68
+Winter,Bhindi(Ladies Finger),Mettur(Uzhavar Sandhai ),26.97
+Winter,Bhindi(Ladies Finger),Sooramangalam(Uzhavar Sandhai ),31.48
+Winter,Bhindi(Ladies Finger),Thammampatti (Uzhavar Sandhai ),31.56
+Winter,Bhindi(Ladies Finger),Thathakapatti(Uzhavar Sandhai ),31.56
+Spring,Potato,Ammapet(Uzhavar Sandhai ),46.52
+Spring,Potato,Athur(Uzhavar Sandhai ),46.08
+Spring,Potato,Attayampatti(Uzhavar Sandhai ),41.31
+Spring,Potato,Edapadi (Uzhavar Sandhai ),37.61
+Spring,Potato,Elampillai(Uzhavar Sandhai ),41.32
+Spring,Potato,Hasthampatti(Uzhavar Sandhai ),44.72
+Spring,Potato,Jalagandapuram(Uzhavar Sandhai ),41.3
+Spring,Potato,Mettur(Uzhavar Sandhai ),41.45
+Spring,Potato,Sooramangalam(Uzhavar Sandhai ),50.19
+Spring,Potato,Thammampatti (Uzhavar Sandhai ),41.2
+Spring,Potato,Thathakapatti(Uzhavar Sandhai ),50.21
+Summer,Potato,Ammapet(Uzhavar Sandhai ),46.52
+Summer,Potato,Athur(Uzhavar Sandhai ),46.08
+Summer,Potato,Attayampatti(Uzhavar Sandhai ),41.31
+Summer,Potato,Edapadi (Uzhavar Sandhai ),37.61
+Summer,Potato,Elampillai(Uzhavar Sandhai ),41.32
+Summer,Potato,Hasthampatti(Uzhavar Sandhai ),44.72
+Summer,Potato,Jalagandapuram(Uzhavar Sandhai ),41.3
+Summer,Potato,Mettur(Uzhavar Sandhai ),41.45
+Summer,Potato,Sooramangalam(Uzhavar Sandhai ),50.19
+Summer,Potato,Thammampatti (Uzhavar Sandhai ),41.2
+Summer,Potato,Thathakapatti(Uzhavar Sandhai ),50.21
+Monsoon,Potato,Ammapet(Uzhavar Sandhai ),46.52
+Monsoon,Potato,Athur(Uzhavar Sandhai ),46.08
+Monsoon,Potato,Attayampatti(Uzhavar Sandhai ),41.31
+Monsoon,Potato,Edapadi (Uzhavar Sandhai ),37.61
+Monsoon,Potato,Elampillai(Uzhavar Sandhai ),41.32
+Monsoon,Potato,Hasthampatti(Uzhavar Sandhai ),44.72
+Monsoon,Potato,Jalagandapuram(Uzhavar Sandhai ),41.3
+Monsoon,Potato,Mettur(Uzhavar Sandhai ),41.45
+Monsoon,Potato,Sooramangalam(Uzhavar Sandhai ),50.19
+Monsoon,Potato,Thammampatti (Uzhavar Sandhai ),41.2
+Monsoon,Potato,Thathakapatti(Uzhavar Sandhai ),50.21
+Winter,Potato,Ammapet(Uzhavar Sandhai ),46.52
+Winter,Potato,Athur(Uzhavar Sandhai ),46.08
+Winter,Potato,Attayampatti(Uzhavar Sandhai ),41.31
+Winter,Potato,Edapadi (Uzhavar Sandhai ),37.61
+Winter,Potato,Elampillai(Uzhavar Sandhai ),41.32
+Winter,Potato,Hasthampatti(Uzhavar Sandhai ),44.72
+Winter,Potato,Jalagandapuram(Uzhavar Sandhai ),41.3
+Winter,Potato,Mettur(Uzhavar Sandhai ),41.45
+Winter,Potato,Sooramangalam(Uzhavar Sandhai ),50.19
+Winter,Potato,Thammampatti (Uzhavar Sandhai ),41.2
+Winter,Potato,Thathakapatti(Uzhavar Sandhai ),50.21
+Spring,Ridgeguard(Tori),Ammapet(Uzhavar Sandhai ),31.42
+Spring,Ridgeguard(Tori),Athur(Uzhavar Sandhai ),27.22
+Spring,Ridgeguard(Tori),Attayampatti(Uzhavar Sandhai ),31.85
+Spring,Ridgeguard(Tori),Edapadi (Uzhavar Sandhai ),31.98
+Spring,Ridgeguard(Tori),Elampillai(Uzhavar Sandhai ),31.93
+Spring,Ridgeguard(Tori),Hasthampatti(Uzhavar Sandhai ),36.34
+Spring,Ridgeguard(Tori),Jalagandapuram(Uzhavar Sandhai ),32.0
+Spring,Ridgeguard(Tori),Mettur(Uzhavar Sandhai ),32.0
+Spring,Ridgeguard(Tori),Sooramangalam(Uzhavar Sandhai ),31.52
+Spring,Ridgeguard(Tori),Thammampatti (Uzhavar Sandhai ),31.9
+Spring,Ridgeguard(Tori),Thathakapatti(Uzhavar Sandhai ),31.6
+Summer,Ridgeguard(Tori),Ammapet(Uzhavar Sandhai ),31.43
+Summer,Ridgeguard(Tori),Athur(Uzhavar Sandhai ),27.22
+Summer,Ridgeguard(Tori),Attayampatti(Uzhavar Sandhai ),31.85
+Summer,Ridgeguard(Tori),Edapadi (Uzhavar Sandhai ),31.98
+Summer,Ridgeguard(Tori),Elampillai(Uzhavar Sandhai ),31.94
+Summer,Ridgeguard(Tori),Hasthampatti(Uzhavar Sandhai ),36.34
+Summer,Ridgeguard(Tori),Jalagandapuram(Uzhavar Sandhai ),32.0
+Summer,Ridgeguard(Tori),Mettur(Uzhavar Sandhai ),32.0
+Summer,Ridgeguard(Tori),Sooramangalam(Uzhavar Sandhai ),31.52
+Summer,Ridgeguard(Tori),Thammampatti (Uzhavar Sandhai ),31.9
+Summer,Ridgeguard(Tori),Thathakapatti(Uzhavar Sandhai ),31.6
+Monsoon,Ridgeguard(Tori),Ammapet(Uzhavar Sandhai ),31.42
+Monsoon,Ridgeguard(Tori),Athur(Uzhavar Sandhai ),27.22
+Monsoon,Ridgeguard(Tori),Attayampatti(Uzhavar Sandhai ),31.85
+Monsoon,Ridgeguard(Tori),Edapadi (Uzhavar Sandhai ),31.98
+Monsoon,Ridgeguard(Tori),Elampillai(Uzhavar Sandhai ),31.93
+Monsoon,Ridgeguard(Tori),Hasthampatti(Uzhavar Sandhai ),36.34
+Monsoon,Ridgeguard(Tori),Jalagandapuram(Uzhavar Sandhai ),32.0
+Monsoon,Ridgeguard(Tori),Mettur(Uzhavar Sandhai ),32.0
+Monsoon,Ridgeguard(Tori),Sooramangalam(Uzhavar Sandhai ),31.52
+Monsoon,Ridgeguard(Tori),Thammampatti (Uzhavar Sandhai ),31.9
+Monsoon,Ridgeguard(Tori),Thathakapatti(Uzhavar Sandhai ),31.6
+Winter,Ridgeguard(Tori),Ammapet(Uzhavar Sandhai ),31.42
+Winter,Ridgeguard(Tori),Athur(Uzhavar Sandhai ),27.22
+Winter,Ridgeguard(Tori),Attayampatti(Uzhavar Sandhai ),31.85
+Winter,Ridgeguard(Tori),Edapadi (Uzhavar Sandhai ),31.98
+Winter,Ridgeguard(Tori),Elampillai(Uzhavar Sandhai ),31.93
+Winter,Ridgeguard(Tori),Hasthampatti(Uzhavar Sandhai ),36.34
+Winter,Ridgeguard(Tori),Jalagandapuram(Uzhavar Sandhai ),32.0
+Winter,Ridgeguard(Tori),Mettur(Uzhavar Sandhai ),32.0
+Winter,Ridgeguard(Tori),Sooramangalam(Uzhavar Sandhai ),31.52
+Winter,Ridgeguard(Tori),Thammampatti (Uzhavar Sandhai ),31.9
+Winter,Ridgeguard(Tori),Thathakapatti(Uzhavar Sandhai ),31.6
+Spring,Beetroot,Ammapet(Uzhavar Sandhai ),49.91
+Spring,Beetroot,Athur(Uzhavar Sandhai ),36.06
+Spring,Beetroot,Attayampatti(Uzhavar Sandhai ),37.54
+Spring,Beetroot,Edapadi (Uzhavar Sandhai ),70.42
+Spring,Beetroot,Elampillai(Uzhavar Sandhai ),50.38
+Spring,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15
+Spring,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.92
+Spring,Beetroot,Mettur(Uzhavar Sandhai ),41.01
+Spring,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.05
+Spring,Beetroot,Thammampatti (Uzhavar Sandhai ),40.82
+Spring,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.31
+Summer,Beetroot,Ammapet(Uzhavar Sandhai ),49.91
+Summer,Beetroot,Athur(Uzhavar Sandhai ),36.06
+Summer,Beetroot,Attayampatti(Uzhavar Sandhai ),37.54
+Summer,Beetroot,Edapadi (Uzhavar Sandhai ),70.42
+Summer,Beetroot,Elampillai(Uzhavar Sandhai ),50.38
+Summer,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15
+Summer,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.92
+Summer,Beetroot,Mettur(Uzhavar Sandhai ),41.01
+Summer,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.05
+Summer,Beetroot,Thammampatti (Uzhavar Sandhai ),40.82
+Summer,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.31
+Monsoon,Beetroot,Ammapet(Uzhavar Sandhai ),49.9
+Monsoon,Beetroot,Athur(Uzhavar Sandhai ),36.06
+Monsoon,Beetroot,Attayampatti(Uzhavar Sandhai ),37.54
+Monsoon,Beetroot,Edapadi (Uzhavar Sandhai ),70.41
+Monsoon,Beetroot,Elampillai(Uzhavar Sandhai ),50.38
+Monsoon,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15
+Monsoon,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.92
+Monsoon,Beetroot,Mettur(Uzhavar Sandhai ),41.01
+Monsoon,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.05
+Monsoon,Beetroot,Thammampatti (Uzhavar Sandhai ),40.82
+Monsoon,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.31
+Winter,Beetroot,Ammapet(Uzhavar Sandhai ),49.91
+Winter,Beetroot,Athur(Uzhavar Sandhai ),36.06
+Winter,Beetroot,Attayampatti(Uzhavar Sandhai ),37.54
+Winter,Beetroot,Edapadi (Uzhavar Sandhai ),70.41
+Winter,Beetroot,Elampillai(Uzhavar Sandhai ),50.38
+Winter,Beetroot,Hasthampatti(Uzhavar Sandhai ),70.15
+Winter,Beetroot,Jalagandapuram(Uzhavar Sandhai ),30.92
+Winter,Beetroot,Mettur(Uzhavar Sandhai ),41.01
+Winter,Beetroot,Sooramangalam(Uzhavar Sandhai ),70.05
+Winter,Beetroot,Thammampatti (Uzhavar Sandhai ),40.82
+Winter,Beetroot,Thathakapatti(Uzhavar Sandhai ),70.31
+Spring,Pumpkin,Ammapet(Uzhavar Sandhai ),19.09
+Spring,Pumpkin,Athur(Uzhavar Sandhai ),19.74
+Spring,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.48
+Spring,Pumpkin,Edapadi (Uzhavar Sandhai ),19.58
+Spring,Pumpkin,Elampillai(Uzhavar Sandhai ),22.7
+Spring,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.32
+Spring,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.24
+Spring,Pumpkin,Mettur(Uzhavar Sandhai ),18.87
+Spring,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95
+Spring,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.46
+Spring,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.25
+Summer,Pumpkin,Ammapet(Uzhavar Sandhai ),19.09
+Summer,Pumpkin,Athur(Uzhavar Sandhai ),19.74
+Summer,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.48
+Summer,Pumpkin,Edapadi (Uzhavar Sandhai ),19.58
+Summer,Pumpkin,Elampillai(Uzhavar Sandhai ),22.7
+Summer,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.32
+Summer,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.24
+Summer,Pumpkin,Mettur(Uzhavar Sandhai ),18.87
+Summer,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95
+Summer,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.46
+Summer,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.25
+Monsoon,Pumpkin,Ammapet(Uzhavar Sandhai ),19.09
+Monsoon,Pumpkin,Athur(Uzhavar Sandhai ),19.74
+Monsoon,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.48
+Monsoon,Pumpkin,Edapadi (Uzhavar Sandhai ),19.58
+Monsoon,Pumpkin,Elampillai(Uzhavar Sandhai ),22.7
+Monsoon,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.32
+Monsoon,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.24
+Monsoon,Pumpkin,Mettur(Uzhavar Sandhai ),18.87
+Monsoon,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95
+Monsoon,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.46
+Monsoon,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.25
+Winter,Pumpkin,Ammapet(Uzhavar Sandhai ),19.09
+Winter,Pumpkin,Athur(Uzhavar Sandhai ),19.74
+Winter,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.48
+Winter,Pumpkin,Edapadi (Uzhavar Sandhai ),19.58
+Winter,Pumpkin,Elampillai(Uzhavar Sandhai ),22.7
+Winter,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.32
+Winter,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.24
+Winter,Pumpkin,Mettur(Uzhavar Sandhai ),18.87
+Winter,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95
+Winter,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.45
+Winter,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.25
+Spring,Mint(Pudina),Ammapet(Uzhavar Sandhai ),26.89
+Spring,Mint(Pudina),Athur(Uzhavar Sandhai ),31.72
+Spring,Mint(Pudina),Attayampatti(Uzhavar Sandhai ),27.56
+Spring,Mint(Pudina),Edapadi (Uzhavar Sandhai ),27.0
+Spring,Mint(Pudina),Elampillai(Uzhavar Sandhai ),41.2
+Spring,Mint(Pudina),Hasthampatti(Uzhavar Sandhai ),26.73
+Spring,Mint(Pudina),Jalagandapuram(Uzhavar Sandhai ),28.7
+Spring,Mint(Pudina),Mettur(Uzhavar Sandhai ),31.89
+Spring,Mint(Pudina),Sooramangalam(Uzhavar Sandhai ),26.69
+Spring,Mint(Pudina),Thammampatti (Uzhavar Sandhai ),36.49
+Spring,Mint(Pudina),Thathakapatti(Uzhavar Sandhai ),26.9
+Summer,Mint(Pudina),Ammapet(Uzhavar Sandhai ),26.89
+Summer,Mint(Pudina),Athur(Uzhavar Sandhai ),31.72
+Summer,Mint(Pudina),Attayampatti(Uzhavar Sandhai ),27.56
+Summer,Mint(Pudina),Edapadi (Uzhavar Sandhai ),27.0
+Summer,Mint(Pudina),Elampillai(Uzhavar Sandhai ),41.2
+Summer,Mint(Pudina),Hasthampatti(Uzhavar Sandhai ),26.73
+Summer,Mint(Pudina),Jalagandapuram(Uzhavar Sandhai ),28.7
+Summer,Mint(Pudina),Mettur(Uzhavar Sandhai ),31.89
+Summer,Mint(Pudina),Sooramangalam(Uzhavar Sandhai ),26.69
+Summer,Mint(Pudina),Thammampatti (Uzhavar Sandhai ),36.49
+Summer,Mint(Pudina),Thathakapatti(Uzhavar Sandhai ),26.9
+Monsoon,Mint(Pudina),Ammapet(Uzhavar Sandhai ),26.89
+Monsoon,Mint(Pudina),Athur(Uzhavar Sandhai ),31.72
+Monsoon,Mint(Pudina),Attayampatti(Uzhavar Sandhai ),27.56
+Monsoon,Mint(Pudina),Edapadi (Uzhavar Sandhai ),27.0
+Monsoon,Mint(Pudina),Elampillai(Uzhavar Sandhai ),41.2
+Monsoon,Mint(Pudina),Hasthampatti(Uzhavar Sandhai ),26.73
+Monsoon,Mint(Pudina),Jalagandapuram(Uzhavar Sandhai ),28.7
+Monsoon,Mint(Pudina),Mettur(Uzhavar Sandhai ),31.89
+Monsoon,Mint(Pudina),Sooramangalam(Uzhavar Sandhai ),26.69
+Monsoon,Mint(Pudina),Thammampatti (Uzhavar Sandhai ),36.49
+Monsoon,Mint(Pudina),Thathakapatti(Uzhavar Sandhai ),26.9
+Winter,Mint(Pudina),Ammapet(Uzhavar Sandhai ),26.89
+Winter,Mint(Pudina),Athur(Uzhavar Sandhai ),31.72
+Winter,Mint(Pudina),Attayampatti(Uzhavar Sandhai ),27.56
+Winter,Mint(Pudina),Edapadi (Uzhavar Sandhai ),27.0
+Winter,Mint(Pudina),Elampillai(Uzhavar Sandhai ),41.2
+Winter,Mint(Pudina),Hasthampatti(Uzhavar Sandhai ),26.73
+Winter,Mint(Pudina),Jalagandapuram(Uzhavar Sandhai ),28.7
+Winter,Mint(Pudina),Mettur(Uzhavar Sandhai ),31.89
+Winter,Mint(Pudina),Sooramangalam(Uzhavar Sandhai ),26.69
+Winter,Mint(Pudina),Thammampatti (Uzhavar Sandhai ),36.49
+Winter,Mint(Pudina),Thathakapatti(Uzhavar Sandhai ),26.89
+Spring,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),55.21
+Spring,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),59.26
+Spring,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),51.06
+Spring,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),56.27
+Spring,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),44.97
+Spring,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),60.24
+Spring,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),46.05
+Spring,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),45.97
+Spring,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),51.01
+Spring,Indian Beans (Seam),Athur(Uzhavar Sandhai ),46.07
+Summer,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),55.21
+Summer,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),59.26
+Summer,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),51.06
+Summer,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),56.27
+Summer,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),44.96
+Summer,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),60.24
+Summer,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),46.05
+Summer,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),45.97
+Summer,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),51.01
+Summer,Indian Beans (Seam),Athur(Uzhavar Sandhai ),46.07
+Monsoon,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),55.21
+Monsoon,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),59.26
+Monsoon,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),51.06
+Monsoon,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),56.27
+Monsoon,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),44.97
+Monsoon,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),60.24
+Monsoon,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),46.04
+Monsoon,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),45.97
+Monsoon,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),51.01
+Monsoon,Indian Beans (Seam),Athur(Uzhavar Sandhai ),46.06
+Winter,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),55.2
+Winter,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),59.26
+Winter,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),51.06
+Winter,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),56.27
+Winter,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),44.96
+Winter,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),60.24
+Winter,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),46.04
+Winter,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),45.97
+Winter,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),51.01
+Winter,Indian Beans (Seam),Athur(Uzhavar Sandhai ),46.06
+Spring,Lime,Ammapet(Uzhavar Sandhai ),31.56
+Spring,Lime,Athur(Uzhavar Sandhai ),32.18
+Spring,Lime,Attayampatti(Uzhavar Sandhai ),32.09
+Spring,Lime,Edapadi (Uzhavar Sandhai ),32.16
+Spring,Lime,Jalagandapuram(Uzhavar Sandhai ),32.25
+Spring,Lime,Mettur(Uzhavar Sandhai ),32.28
+Spring,Lime,Sooramangalam(Uzhavar Sandhai ),31.58
+Spring,Lime,Thathakapatti(Uzhavar Sandhai ),41.27
+Spring,Lime,Hasthampatti(Uzhavar Sandhai ),36.34
+Spring,Lime,Elampillai(Uzhavar Sandhai ),32.19
+Spring,Lime,Thammampatti (Uzhavar Sandhai ),32.11
+Summer,Lime,Ammapet(Uzhavar Sandhai ),31.56
+Summer,Lime,Athur(Uzhavar Sandhai ),32.18
+Summer,Lime,Attayampatti(Uzhavar Sandhai ),32.09
+Summer,Lime,Edapadi (Uzhavar Sandhai ),32.16
+Summer,Lime,Jalagandapuram(Uzhavar Sandhai ),32.25
+Summer,Lime,Mettur(Uzhavar Sandhai ),32.28
+Summer,Lime,Sooramangalam(Uzhavar Sandhai ),31.58
+Summer,Lime,Thathakapatti(Uzhavar Sandhai ),41.27
+Summer,Lime,Hasthampatti(Uzhavar Sandhai ),36.34
+Summer,Lime,Elampillai(Uzhavar Sandhai ),32.19
+Summer,Lime,Thammampatti (Uzhavar Sandhai ),32.11
+Monsoon,Lime,Ammapet(Uzhavar Sandhai ),31.56
+Monsoon,Lime,Athur(Uzhavar Sandhai ),32.18
+Monsoon,Lime,Attayampatti(Uzhavar Sandhai ),32.09
+Monsoon,Lime,Edapadi (Uzhavar Sandhai ),32.16
+Monsoon,Lime,Jalagandapuram(Uzhavar Sandhai ),32.25
+Monsoon,Lime,Mettur(Uzhavar Sandhai ),32.28
+Monsoon,Lime,Sooramangalam(Uzhavar Sandhai ),31.58
+Monsoon,Lime,Thathakapatti(Uzhavar Sandhai ),41.28
+Monsoon,Lime,Hasthampatti(Uzhavar Sandhai ),36.34
+Monsoon,Lime,Elampillai(Uzhavar Sandhai ),32.19
+Monsoon,Lime,Thammampatti (Uzhavar Sandhai ),32.11
+Winter,Lime,Ammapet(Uzhavar Sandhai ),31.56
+Winter,Lime,Athur(Uzhavar Sandhai ),32.18
+Winter,Lime,Attayampatti(Uzhavar Sandhai ),32.09
+Winter,Lime,Edapadi (Uzhavar Sandhai ),32.16
+Winter,Lime,Jalagandapuram(Uzhavar Sandhai ),32.25
+Winter,Lime,Mettur(Uzhavar Sandhai ),32.28
+Winter,Lime,Sooramangalam(Uzhavar Sandhai ),31.58
+Winter,Lime,Thathakapatti(Uzhavar Sandhai ),41.27
+Winter,Lime,Hasthampatti(Uzhavar Sandhai ),36.34
+Winter,Lime,Elampillai(Uzhavar Sandhai ),32.19
+Winter,Lime,Thammampatti (Uzhavar Sandhai ),32.11
+Spring,Custard Apple (Sharifa),Ammapet(Uzhavar Sandhai ),80.32
+Spring,Custard Apple (Sharifa),Athur(Uzhavar Sandhai ),41.8
+Spring,Custard Apple (Sharifa),Mettur(Uzhavar Sandhai ),41.95
+Spring,Custard Apple (Sharifa),Thammampatti (Uzhavar Sandhai ),36.88
+Spring,Custard Apple (Sharifa),Jalagandapuram(Uzhavar Sandhai ),45.83
+Spring,Custard Apple (Sharifa),Sooramangalam(Uzhavar Sandhai ),35.73
+Spring,Custard Apple (Sharifa),Thathakapatti(Uzhavar Sandhai ),50.14
+Spring,Custard Apple (Sharifa),Hasthampatti(Uzhavar Sandhai ),40.63
+Summer,Custard Apple (Sharifa),Ammapet(Uzhavar Sandhai ),80.32
+Summer,Custard Apple (Sharifa),Athur(Uzhavar Sandhai ),41.8
+Summer,Custard Apple (Sharifa),Mettur(Uzhavar Sandhai ),41.95
+Summer,Custard Apple (Sharifa),Thammampatti (Uzhavar Sandhai ),36.88
+Summer,Custard Apple (Sharifa),Jalagandapuram(Uzhavar Sandhai ),45.83
+Summer,Custard Apple (Sharifa),Sooramangalam(Uzhavar Sandhai ),35.73
+Summer,Custard Apple (Sharifa),Thathakapatti(Uzhavar Sandhai ),50.14
+Summer,Custard Apple (Sharifa),Hasthampatti(Uzhavar Sandhai ),40.63
+Monsoon,Custard Apple (Sharifa),Ammapet(Uzhavar Sandhai ),80.32
+Monsoon,Custard Apple (Sharifa),Athur(Uzhavar Sandhai ),41.8
+Monsoon,Custard Apple (Sharifa),Mettur(Uzhavar Sandhai ),41.95
+Monsoon,Custard Apple (Sharifa),Thammampatti (Uzhavar Sandhai ),36.88
+Monsoon,Custard Apple (Sharifa),Jalagandapuram(Uzhavar Sandhai ),45.83
+Monsoon,Custard Apple (Sharifa),Sooramangalam(Uzhavar Sandhai ),35.73
+Monsoon,Custard Apple (Sharifa),Thathakapatti(Uzhavar Sandhai ),50.14
+Monsoon,Custard Apple (Sharifa),Hasthampatti(Uzhavar Sandhai ),40.63
+Winter,Custard Apple (Sharifa),Ammapet(Uzhavar Sandhai ),80.32
+Winter,Custard Apple (Sharifa),Athur(Uzhavar Sandhai ),41.8
+Winter,Custard Apple (Sharifa),Mettur(Uzhavar Sandhai ),41.95
+Winter,Custard Apple (Sharifa),Thammampatti (Uzhavar Sandhai ),36.88
+Winter,Custard Apple (Sharifa),Jalagandapuram(Uzhavar Sandhai ),45.83
+Winter,Custard Apple (Sharifa),Sooramangalam(Uzhavar Sandhai ),35.73
+Winter,Custard Apple (Sharifa),Thathakapatti(Uzhavar Sandhai ),50.13
+Winter,Custard Apple (Sharifa),Hasthampatti(Uzhavar Sandhai ),40.63
+Spring,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.82
+Spring,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.75
+Spring,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.62
+Spring,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5
+Spring,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.34
+Spring,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),41.18
+Spring,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.65
+Spring,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.96
+Spring,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.55
+Summer,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.82
+Summer,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.75
+Summer,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.62
+Summer,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5
+Summer,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.34
+Summer,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),41.18
+Summer,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.65
+Summer,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.96
+Summer,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.55
+Monsoon,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.82
+Monsoon,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.75
+Monsoon,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.62
+Monsoon,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5
+Monsoon,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.34
+Monsoon,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),41.18
+Monsoon,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.65
+Monsoon,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.96
+Monsoon,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.56
+Winter,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.82
+Winter,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.75
+Winter,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.62
+Winter,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5
+Winter,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.34
+Winter,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),41.18
+Winter,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.65
+Winter,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.96
+Winter,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.55
+Spring,Groundnut,Ammapet(Uzhavar Sandhai ),60.11
+Spring,Groundnut,Athur(Uzhavar Sandhai ),60.37
+Spring,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.46
+Spring,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46
+Spring,Groundnut,Mettur(Uzhavar Sandhai ),55.87
+Spring,Groundnut,Elampillai(Uzhavar Sandhai ),60.31
+Spring,Groundnut,Kolathur,64.03
+Spring,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.55
+Summer,Groundnut,Ammapet(Uzhavar Sandhai ),60.12
+Summer,Groundnut,Athur(Uzhavar Sandhai ),60.37
+Summer,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.46
+Summer,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46
+Summer,Groundnut,Mettur(Uzhavar Sandhai ),55.87
+Summer,Groundnut,Elampillai(Uzhavar Sandhai ),60.32
+Summer,Groundnut,Kolathur,64.04
+Summer,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.55
+Monsoon,Groundnut,Ammapet(Uzhavar Sandhai ),60.11
+Monsoon,Groundnut,Athur(Uzhavar Sandhai ),60.37
+Monsoon,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.46
+Monsoon,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46
+Monsoon,Groundnut,Mettur(Uzhavar Sandhai ),55.87
+Monsoon,Groundnut,Elampillai(Uzhavar Sandhai ),60.31
+Monsoon,Groundnut,Kolathur,64.03
+Monsoon,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.55
+Winter,Groundnut,Ammapet(Uzhavar Sandhai ),60.11
+Winter,Groundnut,Athur(Uzhavar Sandhai ),60.37
+Winter,Groundnut,Jalagandapuram(Uzhavar Sandhai ),55.46
+Winter,Groundnut,Thathakapatti(Uzhavar Sandhai ),60.46
+Winter,Groundnut,Mettur(Uzhavar Sandhai ),55.86
+Winter,Groundnut,Elampillai(Uzhavar Sandhai ),60.31
+Winter,Groundnut,Kolathur,64.03
+Winter,Groundnut,Hasthampatti(Uzhavar Sandhai ),59.55
+Spring,Mousambi(Sweet Lime),Ammapet(Uzhavar Sandhai ),31.07
+Spring,Mousambi(Sweet Lime),Athur(Uzhavar Sandhai ),31.67
+Spring,Mousambi(Sweet Lime),Hasthampatti(Uzhavar Sandhai ),80.54
+Spring,Mousambi(Sweet Lime),Sooramangalam(Uzhavar Sandhai ),80.68
+Spring,Mousambi(Sweet Lime),Thammampatti (Uzhavar Sandhai ),31.56
+Spring,Mousambi(Sweet Lime),Thathakapatti(Uzhavar Sandhai ),41.16
+Spring,Mousambi(Sweet Lime),Attayampatti(Uzhavar Sandhai ),30.98
+Summer,Mousambi(Sweet Lime),Ammapet(Uzhavar Sandhai ),31.08
+Summer,Mousambi(Sweet Lime),Athur(Uzhavar Sandhai ),31.67
+Summer,Mousambi(Sweet Lime),Hasthampatti(Uzhavar Sandhai ),80.54
+Summer,Mousambi(Sweet Lime),Sooramangalam(Uzhavar Sandhai ),80.68
+Summer,Mousambi(Sweet Lime),Thammampatti (Uzhavar Sandhai ),31.55
+Summer,Mousambi(Sweet Lime),Thathakapatti(Uzhavar Sandhai ),41.15
+Summer,Mousambi(Sweet Lime),Attayampatti(Uzhavar Sandhai ),30.98
+Monsoon,Mousambi(Sweet Lime),Ammapet(Uzhavar Sandhai ),31.07
+Monsoon,Mousambi(Sweet Lime),Athur(Uzhavar Sandhai ),31.67
+Monsoon,Mousambi(Sweet Lime),Hasthampatti(Uzhavar Sandhai ),80.54
+Monsoon,Mousambi(Sweet Lime),Sooramangalam(Uzhavar Sandhai ),80.68
+Monsoon,Mousambi(Sweet Lime),Thammampatti (Uzhavar Sandhai ),31.55
+Monsoon,Mousambi(Sweet Lime),Thathakapatti(Uzhavar Sandhai ),41.16
+Monsoon,Mousambi(Sweet Lime),Attayampatti(Uzhavar Sandhai ),30.98
+Winter,Mousambi(Sweet Lime),Ammapet(Uzhavar Sandhai ),31.07
+Winter,Mousambi(Sweet Lime),Athur(Uzhavar Sandhai ),31.67
+Winter,Mousambi(Sweet Lime),Hasthampatti(Uzhavar Sandhai ),80.54
+Winter,Mousambi(Sweet Lime),Sooramangalam(Uzhavar Sandhai ),80.68
+Winter,Mousambi(Sweet Lime),Thammampatti (Uzhavar Sandhai ),31.55
+Winter,Mousambi(Sweet Lime),Thathakapatti(Uzhavar Sandhai ),41.15
+Winter,Mousambi(Sweet Lime),Attayampatti(Uzhavar Sandhai ),30.98
+Spring,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.13
+Spring,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.17
+Spring,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.62
+Spring,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.16
+Spring,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.6
+Spring,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.03
+Spring,Sweet Potato,Mettur(Uzhavar Sandhai ),36.83
+Spring,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.44
+Spring,Sweet Potato,Elampillai(Uzhavar Sandhai ),41.34
+Spring,Sweet Potato,Athur(Uzhavar Sandhai ),36.66
+Spring,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.68
+Summer,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.13
+Summer,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.17
+Summer,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.62
+Summer,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.16
+Summer,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.6
+Summer,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.03
+Summer,Sweet Potato,Mettur(Uzhavar Sandhai ),36.83
+Summer,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.44
+Summer,Sweet Potato,Elampillai(Uzhavar Sandhai ),41.34
+Summer,Sweet Potato,Athur(Uzhavar Sandhai ),36.66
+Summer,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.68
+Monsoon,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.13
+Monsoon,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.17
+Monsoon,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.62
+Monsoon,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.16
+Monsoon,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.6
+Monsoon,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.03
+Monsoon,Sweet Potato,Mettur(Uzhavar Sandhai ),36.82
+Monsoon,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.44
+Monsoon,Sweet Potato,Elampillai(Uzhavar Sandhai ),41.33
+Monsoon,Sweet Potato,Athur(Uzhavar Sandhai ),36.66
+Monsoon,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.68
+Winter,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.13
+Winter,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.17
+Winter,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.62
+Winter,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.16
+Winter,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.6
+Winter,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.03
+Winter,Sweet Potato,Mettur(Uzhavar Sandhai ),36.82
+Winter,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.44
+Winter,Sweet Potato,Elampillai(Uzhavar Sandhai ),41.33
+Winter,Sweet Potato,Athur(Uzhavar Sandhai ),36.66
+Winter,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.68
+Spring,Thondekai,Ammapet(Uzhavar Sandhai ),50.24
+Spring,Thondekai,Hasthampatti(Uzhavar Sandhai ),50.05
+Spring,Thondekai,Sooramangalam(Uzhavar Sandhai ),49.92
+Spring,Thondekai,Thathakapatti(Uzhavar Sandhai ),50.18
+Spring,Thondekai,Athur(Uzhavar Sandhai ),50.53
+Spring,Thondekai,Elampillai(Uzhavar Sandhai ),50.46
+Spring,Thondekai,Mettur(Uzhavar Sandhai ),50.5
+Spring,Thondekai,Thammampatti (Uzhavar Sandhai ),40.65
+Summer,Thondekai,Ammapet(Uzhavar Sandhai ),50.24
+Summer,Thondekai,Hasthampatti(Uzhavar Sandhai ),50.05
+Summer,Thondekai,Sooramangalam(Uzhavar Sandhai ),49.92
+Summer,Thondekai,Thathakapatti(Uzhavar Sandhai ),50.18
+Summer,Thondekai,Athur(Uzhavar Sandhai ),50.53
+Summer,Thondekai,Elampillai(Uzhavar Sandhai ),50.46
+Summer,Thondekai,Mettur(Uzhavar Sandhai ),50.5
+Summer,Thondekai,Thammampatti (Uzhavar Sandhai ),40.65
+Monsoon,Thondekai,Ammapet(Uzhavar Sandhai ),50.23
+Monsoon,Thondekai,Hasthampatti(Uzhavar Sandhai ),50.05
+Monsoon,Thondekai,Sooramangalam(Uzhavar Sandhai ),49.92
+Monsoon,Thondekai,Thathakapatti(Uzhavar Sandhai ),50.18
+Monsoon,Thondekai,Athur(Uzhavar Sandhai ),50.53
+Monsoon,Thondekai,Elampillai(Uzhavar Sandhai ),50.45
+Monsoon,Thondekai,Mettur(Uzhavar Sandhai ),50.5
+Monsoon,Thondekai,Thammampatti (Uzhavar Sandhai ),40.65
+Winter,Thondekai,Ammapet(Uzhavar Sandhai ),50.24
+Winter,Thondekai,Hasthampatti(Uzhavar Sandhai ),50.05
+Winter,Thondekai,Sooramangalam(Uzhavar Sandhai ),49.92
+Winter,Thondekai,Thathakapatti(Uzhavar Sandhai ),50.18
+Winter,Thondekai,Athur(Uzhavar Sandhai ),50.53
+Winter,Thondekai,Elampillai(Uzhavar Sandhai ),50.45
+Winter,Thondekai,Mettur(Uzhavar Sandhai ),50.5
+Winter,Thondekai,Thammampatti (Uzhavar Sandhai ),40.65
+Spring,Carrot,Ammapet(Uzhavar Sandhai ),70.14
+Spring,Carrot,Athur(Uzhavar Sandhai ),66.61
+Spring,Carrot,Attayampatti(Uzhavar Sandhai ),60.56
+Spring,Carrot,Edapadi (Uzhavar Sandhai ),66.81
+Spring,Carrot,Elampillai(Uzhavar Sandhai ),65.66
+Spring,Carrot,Hasthampatti(Uzhavar Sandhai ),64.71
+Spring,Carrot,Jalagandapuram(Uzhavar Sandhai ),65.31
+Spring,Carrot,Mettur(Uzhavar Sandhai ),80.04
+Spring,Carrot,Sooramangalam(Uzhavar Sandhai ),67.68
+Spring,Carrot,Thammampatti (Uzhavar Sandhai ),70.48
+Spring,Carrot,Thathakapatti(Uzhavar Sandhai ),65.33
+Summer,Carrot,Ammapet(Uzhavar Sandhai ),70.14
+Summer,Carrot,Athur(Uzhavar Sandhai ),66.61
+Summer,Carrot,Attayampatti(Uzhavar Sandhai ),60.56
+Summer,Carrot,Edapadi (Uzhavar Sandhai ),66.81
+Summer,Carrot,Elampillai(Uzhavar Sandhai ),65.66
+Summer,Carrot,Hasthampatti(Uzhavar Sandhai ),64.71
+Summer,Carrot,Jalagandapuram(Uzhavar Sandhai ),65.31
+Summer,Carrot,Mettur(Uzhavar Sandhai ),80.04
+Summer,Carrot,Sooramangalam(Uzhavar Sandhai ),67.68
+Summer,Carrot,Thammampatti (Uzhavar Sandhai ),70.48
+Summer,Carrot,Thathakapatti(Uzhavar Sandhai ),65.33
+Monsoon,Carrot,Ammapet(Uzhavar Sandhai ),70.14
+Monsoon,Carrot,Athur(Uzhavar Sandhai ),66.61
+Monsoon,Carrot,Attayampatti(Uzhavar Sandhai ),60.56
+Monsoon,Carrot,Edapadi (Uzhavar Sandhai ),66.81
+Monsoon,Carrot,Elampillai(Uzhavar Sandhai ),65.66
+Monsoon,Carrot,Hasthampatti(Uzhavar Sandhai ),64.71
+Monsoon,Carrot,Jalagandapuram(Uzhavar Sandhai ),65.31
+Monsoon,Carrot,Mettur(Uzhavar Sandhai ),80.05
+Monsoon,Carrot,Sooramangalam(Uzhavar Sandhai ),67.68
+Monsoon,Carrot,Thammampatti (Uzhavar Sandhai ),70.48
+Monsoon,Carrot,Thathakapatti(Uzhavar Sandhai ),65.33
+Winter,Carrot,Ammapet(Uzhavar Sandhai ),70.14
+Winter,Carrot,Athur(Uzhavar Sandhai ),66.61
+Winter,Carrot,Attayampatti(Uzhavar Sandhai ),60.56
+Winter,Carrot,Edapadi (Uzhavar Sandhai ),66.81
+Winter,Carrot,Elampillai(Uzhavar Sandhai ),65.66
+Winter,Carrot,Hasthampatti(Uzhavar Sandhai ),64.71
+Winter,Carrot,Jalagandapuram(Uzhavar Sandhai ),65.31
+Winter,Carrot,Mettur(Uzhavar Sandhai ),80.05
+Winter,Carrot,Sooramangalam(Uzhavar Sandhai ),67.68
+Winter,Carrot,Thammampatti (Uzhavar Sandhai ),70.48
+Winter,Carrot,Thathakapatti(Uzhavar Sandhai ),65.33
+Spring,Bitter gourd,Ammapet(Uzhavar Sandhai ),31.3
+Spring,Bitter gourd,Athur(Uzhavar Sandhai ),27.3
+Spring,Bitter gourd,Attayampatti(Uzhavar Sandhai ),30.72
+Spring,Bitter gourd,Edapadi (Uzhavar Sandhai ),31.1
+Spring,Bitter gourd,Elampillai(Uzhavar Sandhai ),36.73
+Spring,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),31.82
+Spring,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),31.89
+Spring,Bitter gourd,Mettur(Uzhavar Sandhai ),36.95
+Spring,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),31.34
+Spring,Bitter gourd,Thammampatti (Uzhavar Sandhai ),34.45
+Spring,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),31.45
+Summer,Bitter gourd,Ammapet(Uzhavar Sandhai ),31.3
+Summer,Bitter gourd,Athur(Uzhavar Sandhai ),27.3
+Summer,Bitter gourd,Attayampatti(Uzhavar Sandhai ),30.72
+Summer,Bitter gourd,Edapadi (Uzhavar Sandhai ),31.1
+Summer,Bitter gourd,Elampillai(Uzhavar Sandhai ),36.73
+Summer,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),31.82
+Summer,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),31.89
+Summer,Bitter gourd,Mettur(Uzhavar Sandhai ),36.95
+Summer,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),31.34
+Summer,Bitter gourd,Thammampatti (Uzhavar Sandhai ),34.45
+Summer,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),31.44
+Monsoon,Bitter gourd,Ammapet(Uzhavar Sandhai ),31.3
+Monsoon,Bitter gourd,Athur(Uzhavar Sandhai ),27.3
+Monsoon,Bitter gourd,Attayampatti(Uzhavar Sandhai ),30.72
+Monsoon,Bitter gourd,Edapadi (Uzhavar Sandhai ),31.09
+Monsoon,Bitter gourd,Elampillai(Uzhavar Sandhai ),36.73
+Monsoon,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),31.82
+Monsoon,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),31.89
+Monsoon,Bitter gourd,Mettur(Uzhavar Sandhai ),36.95
+Monsoon,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),31.34
+Monsoon,Bitter gourd,Thammampatti (Uzhavar Sandhai ),34.44
+Monsoon,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),31.45
+Winter,Bitter gourd,Ammapet(Uzhavar Sandhai ),31.3
+Winter,Bitter gourd,Athur(Uzhavar Sandhai ),27.3
+Winter,Bitter gourd,Attayampatti(Uzhavar Sandhai ),30.72
+Winter,Bitter gourd,Edapadi (Uzhavar Sandhai ),31.09
+Winter,Bitter gourd,Elampillai(Uzhavar Sandhai ),36.73
+Winter,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),31.82
+Winter,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),31.89
+Winter,Bitter gourd,Mettur(Uzhavar Sandhai ),36.95
+Winter,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),31.34
+Winter,Bitter gourd,Thammampatti (Uzhavar Sandhai ),34.44
+Winter,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),31.45
+Spring,Coriander(Leaves),Ammapet(Uzhavar Sandhai ),49.98
+Spring,Coriander(Leaves),Athur(Uzhavar Sandhai ),41.45
+Spring,Coriander(Leaves),Attayampatti(Uzhavar Sandhai ),60.31
+Spring,Coriander(Leaves),Edapadi (Uzhavar Sandhai ),27.03
+Spring,Coriander(Leaves),Elampillai(Uzhavar Sandhai ),41.38
+Spring,Coriander(Leaves),Hasthampatti(Uzhavar Sandhai ),50.3
+Spring,Coriander(Leaves),Jalagandapuram(Uzhavar Sandhai ),25.99
+Spring,Coriander(Leaves),Mettur(Uzhavar Sandhai ),22.72
+Spring,Coriander(Leaves),Sooramangalam(Uzhavar Sandhai ),48.43
+Spring,Coriander(Leaves),Thammampatti (Uzhavar Sandhai ),27.04
+Spring,Coriander(Leaves),Thathakapatti(Uzhavar Sandhai ),50.37
+Summer,Coriander(Leaves),Ammapet(Uzhavar Sandhai ),49.98
+Summer,Coriander(Leaves),Athur(Uzhavar Sandhai ),41.45
+Summer,Coriander(Leaves),Attayampatti(Uzhavar Sandhai ),60.31
+Summer,Coriander(Leaves),Edapadi (Uzhavar Sandhai ),27.03
+Summer,Coriander(Leaves),Elampillai(Uzhavar Sandhai ),41.38
+Summer,Coriander(Leaves),Hasthampatti(Uzhavar Sandhai ),50.3
+Summer,Coriander(Leaves),Jalagandapuram(Uzhavar Sandhai ),25.99
+Summer,Coriander(Leaves),Mettur(Uzhavar Sandhai ),22.72
+Summer,Coriander(Leaves),Sooramangalam(Uzhavar Sandhai ),48.43
+Summer,Coriander(Leaves),Thammampatti (Uzhavar Sandhai ),27.04
+Summer,Coriander(Leaves),Thathakapatti(Uzhavar Sandhai ),50.37
+Monsoon,Coriander(Leaves),Ammapet(Uzhavar Sandhai ),49.98
+Monsoon,Coriander(Leaves),Athur(Uzhavar Sandhai ),41.45
+Monsoon,Coriander(Leaves),Attayampatti(Uzhavar Sandhai ),60.31
+Monsoon,Coriander(Leaves),Edapadi (Uzhavar Sandhai ),27.03
+Monsoon,Coriander(Leaves),Elampillai(Uzhavar Sandhai ),41.38
+Monsoon,Coriander(Leaves),Hasthampatti(Uzhavar Sandhai ),50.3
+Monsoon,Coriander(Leaves),Jalagandapuram(Uzhavar Sandhai ),25.99
+Monsoon,Coriander(Leaves),Mettur(Uzhavar Sandhai ),22.72
+Monsoon,Coriander(Leaves),Sooramangalam(Uzhavar Sandhai ),48.43
+Monsoon,Coriander(Leaves),Thammampatti (Uzhavar Sandhai ),27.04
+Monsoon,Coriander(Leaves),Thathakapatti(Uzhavar Sandhai ),50.37
+Winter,Coriander(Leaves),Ammapet(Uzhavar Sandhai ),49.98
+Winter,Coriander(Leaves),Athur(Uzhavar Sandhai ),41.45
+Winter,Coriander(Leaves),Attayampatti(Uzhavar Sandhai ),60.31
+Winter,Coriander(Leaves),Edapadi (Uzhavar Sandhai ),27.02
+Winter,Coriander(Leaves),Elampillai(Uzhavar Sandhai ),41.38
+Winter,Coriander(Leaves),Hasthampatti(Uzhavar Sandhai ),50.3
+Winter,Coriander(Leaves),Jalagandapuram(Uzhavar Sandhai ),25.99
+Winter,Coriander(Leaves),Mettur(Uzhavar Sandhai ),22.72
+Winter,Coriander(Leaves),Sooramangalam(Uzhavar Sandhai ),48.43
+Winter,Coriander(Leaves),Thammampatti (Uzhavar Sandhai ),27.03
+Winter,Coriander(Leaves),Thathakapatti(Uzhavar Sandhai ),50.37
+Spring,Onion,Ammapet(Uzhavar Sandhai ),50.27
+Spring,Onion,Athur(Uzhavar Sandhai ),51.02
+Spring,Onion,Attayampatti(Uzhavar Sandhai ),50.96
+Spring,Onion,Edapadi (Uzhavar Sandhai ),51.1
+Spring,Onion,Elampillai(Uzhavar Sandhai ),50.97
+Spring,Onion,Hasthampatti(Uzhavar Sandhai ),50.21
+Spring,Onion,Jalagandapuram(Uzhavar Sandhai ),49.21
+Spring,Onion,Mettur(Uzhavar Sandhai ),50.94
+Spring,Onion,Sooramangalam(Uzhavar Sandhai ),50.05
+Spring,Onion,Thammampatti (Uzhavar Sandhai ),50.98
+Spring,Onion,Thathakapatti(Uzhavar Sandhai ),50.16
+Summer,Onion,Ammapet(Uzhavar Sandhai ),50.27
+Summer,Onion,Athur(Uzhavar Sandhai ),51.02
+Summer,Onion,Attayampatti(Uzhavar Sandhai ),50.96
+Summer,Onion,Edapadi (Uzhavar Sandhai ),51.1
+Summer,Onion,Elampillai(Uzhavar Sandhai ),50.97
+Summer,Onion,Hasthampatti(Uzhavar Sandhai ),50.21
+Summer,Onion,Jalagandapuram(Uzhavar Sandhai ),49.21
+Summer,Onion,Mettur(Uzhavar Sandhai ),50.94
+Summer,Onion,Sooramangalam(Uzhavar Sandhai ),50.05
+Summer,Onion,Thammampatti (Uzhavar Sandhai ),50.98
+Summer,Onion,Thathakapatti(Uzhavar Sandhai ),50.16
+Monsoon,Onion,Ammapet(Uzhavar Sandhai ),50.27
+Monsoon,Onion,Athur(Uzhavar Sandhai ),51.02
+Monsoon,Onion,Attayampatti(Uzhavar Sandhai ),50.96
+Monsoon,Onion,Edapadi (Uzhavar Sandhai ),51.1
+Monsoon,Onion,Elampillai(Uzhavar Sandhai ),50.97
+Monsoon,Onion,Hasthampatti(Uzhavar Sandhai ),50.21
+Monsoon,Onion,Jalagandapuram(Uzhavar Sandhai ),49.21
+Monsoon,Onion,Mettur(Uzhavar Sandhai ),50.94
+Monsoon,Onion,Sooramangalam(Uzhavar Sandhai ),50.05
+Monsoon,Onion,Thammampatti (Uzhavar Sandhai ),50.98
+Monsoon,Onion,Thathakapatti(Uzhavar Sandhai ),50.16
+Winter,Onion,Ammapet(Uzhavar Sandhai ),50.27
+Winter,Onion,Athur(Uzhavar Sandhai ),51.02
+Winter,Onion,Attayampatti(Uzhavar Sandhai ),50.96
+Winter,Onion,Edapadi (Uzhavar Sandhai ),51.1
+Winter,Onion,Elampillai(Uzhavar Sandhai ),50.97
+Winter,Onion,Hasthampatti(Uzhavar Sandhai ),50.21
+Winter,Onion,Jalagandapuram(Uzhavar Sandhai ),49.21
+Winter,Onion,Mettur(Uzhavar Sandhai ),50.94
+Winter,Onion,Sooramangalam(Uzhavar Sandhai ),50.05
+Winter,Onion,Thammampatti (Uzhavar Sandhai ),50.98
+Winter,Onion,Thathakapatti(Uzhavar Sandhai ),50.16
+Spring,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.12
+Spring,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.42
+Spring,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.77
+Spring,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.64
+Spring,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.43
+Spring,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.11
+Spring,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.31
+Spring,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.22
+Summer,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.12
+Summer,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.42
+Summer,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.77
+Summer,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.64
+Summer,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.42
+Summer,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.11
+Summer,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.31
+Summer,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.22
+Monsoon,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.12
+Monsoon,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.42
+Monsoon,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.77
+Monsoon,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.64
+Monsoon,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.42
+Monsoon,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.11
+Monsoon,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.31
+Monsoon,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.22
+Winter,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.12
+Winter,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.42
+Winter,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.77
+Winter,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.64
+Winter,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.42
+Winter,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.11
+Winter,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.31
+Winter,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.22
+Spring,Elephant Yam (Suran),Ammapet(Uzhavar Sandhai ),50.12
+Spring,Elephant Yam (Suran),Athur(Uzhavar Sandhai ),50.91
+Spring,Elephant Yam (Suran),Edapadi (Uzhavar Sandhai ),50.9
+Spring,Elephant Yam (Suran),Hasthampatti(Uzhavar Sandhai ),50.03
+Spring,Elephant Yam (Suran),Jalagandapuram(Uzhavar Sandhai ),50.96
+Spring,Elephant Yam (Suran),Mettur(Uzhavar Sandhai ),50.74
+Spring,Elephant Yam (Suran),Sooramangalam(Uzhavar Sandhai ),49.93
+Spring,Elephant Yam (Suran),Thammampatti (Uzhavar Sandhai ),41.02
+Spring,Elephant Yam (Suran),Thathakapatti(Uzhavar Sandhai ),50.02
+Spring,Elephant Yam (Suran),Elampillai(Uzhavar Sandhai ),50.68
+Spring,Elephant Yam (Suran),Attayampatti(Uzhavar Sandhai ),50.8
+Summer,Elephant Yam (Suran),Ammapet(Uzhavar Sandhai ),50.12
+Summer,Elephant Yam (Suran),Athur(Uzhavar Sandhai ),50.91
+Summer,Elephant Yam (Suran),Edapadi (Uzhavar Sandhai ),50.9
+Summer,Elephant Yam (Suran),Hasthampatti(Uzhavar Sandhai ),50.03
+Summer,Elephant Yam (Suran),Jalagandapuram(Uzhavar Sandhai ),50.96
+Summer,Elephant Yam (Suran),Mettur(Uzhavar Sandhai ),50.73
+Summer,Elephant Yam (Suran),Sooramangalam(Uzhavar Sandhai ),49.93
+Summer,Elephant Yam (Suran),Thammampatti (Uzhavar Sandhai ),41.02
+Summer,Elephant Yam (Suran),Thathakapatti(Uzhavar Sandhai ),50.01
+Summer,Elephant Yam (Suran),Elampillai(Uzhavar Sandhai ),50.68
+Summer,Elephant Yam (Suran),Attayampatti(Uzhavar Sandhai ),50.8
+Monsoon,Elephant Yam (Suran),Ammapet(Uzhavar Sandhai ),50.12
+Monsoon,Elephant Yam (Suran),Athur(Uzhavar Sandhai ),50.91
+Monsoon,Elephant Yam (Suran),Edapadi (Uzhavar Sandhai ),50.9
+Monsoon,Elephant Yam (Suran),Hasthampatti(Uzhavar Sandhai ),50.03
+Monsoon,Elephant Yam (Suran),Jalagandapuram(Uzhavar Sandhai ),50.95
+Monsoon,Elephant Yam (Suran),Mettur(Uzhavar Sandhai ),50.73
+Monsoon,Elephant Yam (Suran),Sooramangalam(Uzhavar Sandhai ),49.93
+Monsoon,Elephant Yam (Suran),Thammampatti (Uzhavar Sandhai ),41.01
+Monsoon,Elephant Yam (Suran),Thathakapatti(Uzhavar Sandhai ),50.01
+Monsoon,Elephant Yam (Suran),Elampillai(Uzhavar Sandhai ),50.68
+Monsoon,Elephant Yam (Suran),Attayampatti(Uzhavar Sandhai ),50.8
+Winter,Elephant Yam (Suran),Ammapet(Uzhavar Sandhai ),50.12
+Winter,Elephant Yam (Suran),Athur(Uzhavar Sandhai ),50.91
+Winter,Elephant Yam (Suran),Edapadi (Uzhavar Sandhai ),50.9
+Winter,Elephant Yam (Suran),Hasthampatti(Uzhavar Sandhai ),50.03
+Winter,Elephant Yam (Suran),Jalagandapuram(Uzhavar Sandhai ),50.95
+Winter,Elephant Yam (Suran),Mettur(Uzhavar Sandhai ),50.73
+Winter,Elephant Yam (Suran),Sooramangalam(Uzhavar Sandhai ),49.93
+Winter,Elephant Yam (Suran),Thammampatti (Uzhavar Sandhai ),41.01
+Winter,Elephant Yam (Suran),Thathakapatti(Uzhavar Sandhai ),50.01
+Winter,Elephant Yam (Suran),Elampillai(Uzhavar Sandhai ),50.68
+Winter,Elephant Yam (Suran),Attayampatti(Uzhavar Sandhai ),50.8
+Spring,Cowpea(Veg),Elampillai(Uzhavar Sandhai ),50.88
+Spring,Cowpea(Veg),Hasthampatti(Uzhavar Sandhai ),45.13
+Spring,Cowpea(Veg),Jalagandapuram(Uzhavar Sandhai ),46.15
+Spring,Cowpea(Veg),Mettur(Uzhavar Sandhai ),50.86
+Spring,Cowpea(Veg),Sooramangalam(Uzhavar Sandhai ),45.03
+Spring,Cowpea(Veg),Thammampatti (Uzhavar Sandhai ),50.92
+Spring,Cowpea(Veg),Thathakapatti(Uzhavar Sandhai ),41.06
+Spring,Cowpea(Veg),Ammapet(Uzhavar Sandhai ),46.23
+Summer,Cowpea(Veg),Elampillai(Uzhavar Sandhai ),50.88
+Summer,Cowpea(Veg),Hasthampatti(Uzhavar Sandhai ),45.13
+Summer,Cowpea(Veg),Jalagandapuram(Uzhavar Sandhai ),46.15
+Summer,Cowpea(Veg),Mettur(Uzhavar Sandhai ),50.86
+Summer,Cowpea(Veg),Sooramangalam(Uzhavar Sandhai ),45.03
+Summer,Cowpea(Veg),Thammampatti (Uzhavar Sandhai ),50.92
+Summer,Cowpea(Veg),Thathakapatti(Uzhavar Sandhai ),41.06
+Summer,Cowpea(Veg),Ammapet(Uzhavar Sandhai ),46.23
+Monsoon,Cowpea(Veg),Elampillai(Uzhavar Sandhai ),50.88
+Monsoon,Cowpea(Veg),Hasthampatti(Uzhavar Sandhai ),45.13
+Monsoon,Cowpea(Veg),Jalagandapuram(Uzhavar Sandhai ),46.15
+Monsoon,Cowpea(Veg),Mettur(Uzhavar Sandhai ),50.86
+Monsoon,Cowpea(Veg),Sooramangalam(Uzhavar Sandhai ),45.03
+Monsoon,Cowpea(Veg),Thammampatti (Uzhavar Sandhai ),50.92
+Monsoon,Cowpea(Veg),Thathakapatti(Uzhavar Sandhai ),41.06
+Monsoon,Cowpea(Veg),Ammapet(Uzhavar Sandhai ),46.23
+Winter,Cowpea(Veg),Elampillai(Uzhavar Sandhai ),50.88
+Winter,Cowpea(Veg),Hasthampatti(Uzhavar Sandhai ),45.13
+Winter,Cowpea(Veg),Jalagandapuram(Uzhavar Sandhai ),46.15
+Winter,Cowpea(Veg),Mettur(Uzhavar Sandhai ),50.86
+Winter,Cowpea(Veg),Sooramangalam(Uzhavar Sandhai ),45.03
+Winter,Cowpea(Veg),Thammampatti (Uzhavar Sandhai ),50.92
+Winter,Cowpea(Veg),Thathakapatti(Uzhavar Sandhai ),41.06
+Winter,Cowpea(Veg),Ammapet(Uzhavar Sandhai ),46.23
+Spring,Colacasia,Mettur(Uzhavar Sandhai ),40.95
+Spring,Colacasia,Sooramangalam(Uzhavar Sandhai ),89.79
+Spring,Colacasia,Hasthampatti(Uzhavar Sandhai ),79.99
+Spring,Colacasia,Thathakapatti(Uzhavar Sandhai ),80.2
+Summer,Colacasia,Mettur(Uzhavar Sandhai ),40.95
+Summer,Colacasia,Sooramangalam(Uzhavar Sandhai ),89.79
+Summer,Colacasia,Hasthampatti(Uzhavar Sandhai ),79.99
+Summer,Colacasia,Thathakapatti(Uzhavar Sandhai ),80.2
+Monsoon,Colacasia,Mettur(Uzhavar Sandhai ),40.95
+Monsoon,Colacasia,Sooramangalam(Uzhavar Sandhai ),89.79
+Monsoon,Colacasia,Hasthampatti(Uzhavar Sandhai ),79.99
+Monsoon,Colacasia,Thathakapatti(Uzhavar Sandhai ),80.2
+Winter,Colacasia,Mettur(Uzhavar Sandhai ),40.95
+Winter,Colacasia,Sooramangalam(Uzhavar Sandhai ),89.79
+Winter,Colacasia,Hasthampatti(Uzhavar Sandhai ),79.99
+Winter,Colacasia,Thathakapatti(Uzhavar Sandhai ),80.2
+Spring,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Spring,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Spring,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Spring,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Spring,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Spring,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Summer,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Summer,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Summer,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Summer,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Summer,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Summer,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Monsoon,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Monsoon,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Monsoon,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Monsoon,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Monsoon,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Monsoon,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Winter,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Winter,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Winter,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Winter,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Winter,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Winter,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Spring,Pineapple,Sooramangalam(Uzhavar Sandhai ),49.6
+Summer,Pineapple,Sooramangalam(Uzhavar Sandhai ),49.6
+Monsoon,Pineapple,Sooramangalam(Uzhavar Sandhai ),49.6
+Winter,Pineapple,Sooramangalam(Uzhavar Sandhai ),49.6
+Spring,Mango,Athur(Uzhavar Sandhai ),70.68
+Spring,Mango,Thathakapatti(Uzhavar Sandhai ),100.17
+Spring,Mango,Mettur(Uzhavar Sandhai ),80.06
+Spring,Mango,Sooramangalam(Uzhavar Sandhai ),100.06
+Summer,Mango,Athur(Uzhavar Sandhai ),70.68
+Summer,Mango,Thathakapatti(Uzhavar Sandhai ),100.18
+Summer,Mango,Mettur(Uzhavar Sandhai ),80.06
+Summer,Mango,Sooramangalam(Uzhavar Sandhai ),100.06
+Monsoon,Mango,Athur(Uzhavar Sandhai ),70.68
+Monsoon,Mango,Thathakapatti(Uzhavar Sandhai ),100.17
+Monsoon,Mango,Mettur(Uzhavar Sandhai ),80.06
+Monsoon,Mango,Sooramangalam(Uzhavar Sandhai ),100.06
+Winter,Mango,Athur(Uzhavar Sandhai ),70.68
+Winter,Mango,Thathakapatti(Uzhavar Sandhai ),100.17
+Winter,Mango,Mettur(Uzhavar Sandhai ),80.06
+Winter,Mango,Sooramangalam(Uzhavar Sandhai ),100.06
+Spring,Jack Fruit,Athur(Uzhavar Sandhai ),32.38
+Summer,Jack Fruit,Athur(Uzhavar Sandhai ),32.38
+Monsoon,Jack Fruit,Athur(Uzhavar Sandhai ),32.38
+Winter,Jack Fruit,Athur(Uzhavar Sandhai ),32.38
+Spring,Ragi (Finger Millet),Kolathur,38.36
+Spring,Ragi (Finger Millet),Kadaiyampatti,44.5
+Spring,Ragi (Finger Millet),Thammampati,70.52
+Spring,Ragi (Finger Millet),Thalaivasal,67.22
+Summer,Ragi (Finger Millet),Kolathur,38.36
+Summer,Ragi (Finger Millet),Kadaiyampatti,44.5
+Summer,Ragi (Finger Millet),Thammampati,70.52
+Summer,Ragi (Finger Millet),Thalaivasal,67.22
+Monsoon,Ragi (Finger Millet),Kolathur,38.36
+Monsoon,Ragi (Finger Millet),Kadaiyampatti,44.49
+Monsoon,Ragi (Finger Millet),Thammampati,70.52
+Monsoon,Ragi (Finger Millet),Thalaivasal,67.22
+Winter,Ragi (Finger Millet),Kolathur,38.36
+Winter,Ragi (Finger Millet),Kadaiyampatti,44.49
+Winter,Ragi (Finger Millet),Thammampati,70.52
+Winter,Ragi (Finger Millet),Thalaivasal,67.22
+Spring,Paddy(Dhan)(Common),Thammampati,29.43
+Spring,Paddy(Dhan)(Common),Karumanturai,34.02
+Spring,Paddy(Dhan)(Common),Thalaivasal,17.62
+Summer,Paddy(Dhan)(Common),Thammampati,29.43
+Summer,Paddy(Dhan)(Common),Karumanturai,34.02
+Summer,Paddy(Dhan)(Common),Thalaivasal,17.62
+Monsoon,Paddy(Dhan)(Common),Thammampati,29.43
+Monsoon,Paddy(Dhan)(Common),Karumanturai,34.02
+Monsoon,Paddy(Dhan)(Common),Thalaivasal,17.61
+Winter,Paddy(Dhan)(Common),Thammampati,29.43
+Winter,Paddy(Dhan)(Common),Karumanturai,34.02
+Winter,Paddy(Dhan)(Common),Thalaivasal,17.62
+Spring,Marigold(Calcutta),Ammapet(Uzhavar Sandhai ),60.08
+Spring,Marigold(Calcutta),Sooramangalam(Uzhavar Sandhai ),80.02
+Spring,Marigold(Calcutta),Elampillai(Uzhavar Sandhai ),80.2
+Spring,Marigold(Calcutta),Thathakapatti(Uzhavar Sandhai ),80.04
+Spring,Marigold(Calcutta),Athur(Uzhavar Sandhai ),100.18
+Spring,Marigold(Calcutta),Mettur(Uzhavar Sandhai ),99.76
+Spring,Marigold(Calcutta),Attayampatti(Uzhavar Sandhai ),80.16
+Summer,Marigold(Calcutta),Ammapet(Uzhavar Sandhai ),60.08
+Summer,Marigold(Calcutta),Sooramangalam(Uzhavar Sandhai ),80.02
+Summer,Marigold(Calcutta),Elampillai(Uzhavar Sandhai ),80.2
+Summer,Marigold(Calcutta),Thathakapatti(Uzhavar Sandhai ),80.04
+Summer,Marigold(Calcutta),Athur(Uzhavar Sandhai ),100.18
+Summer,Marigold(Calcutta),Mettur(Uzhavar Sandhai ),99.76
+Summer,Marigold(Calcutta),Attayampatti(Uzhavar Sandhai ),80.16
+Monsoon,Marigold(Calcutta),Ammapet(Uzhavar Sandhai ),60.08
+Monsoon,Marigold(Calcutta),Sooramangalam(Uzhavar Sandhai ),80.03
+Monsoon,Marigold(Calcutta),Elampillai(Uzhavar Sandhai ),80.19
+Monsoon,Marigold(Calcutta),Thathakapatti(Uzhavar Sandhai ),80.04
+Monsoon,Marigold(Calcutta),Athur(Uzhavar Sandhai ),100.18
+Monsoon,Marigold(Calcutta),Mettur(Uzhavar Sandhai ),99.76
+Monsoon,Marigold(Calcutta),Attayampatti(Uzhavar Sandhai ),80.15
+Winter,Marigold(Calcutta),Ammapet(Uzhavar Sandhai ),60.08
+Winter,Marigold(Calcutta),Sooramangalam(Uzhavar Sandhai ),80.02
+Winter,Marigold(Calcutta),Elampillai(Uzhavar Sandhai ),80.19
+Winter,Marigold(Calcutta),Thathakapatti(Uzhavar Sandhai ),80.04
+Winter,Marigold(Calcutta),Athur(Uzhavar Sandhai ),100.18
+Winter,Marigold(Calcutta),Mettur(Uzhavar Sandhai ),99.76
+Winter,Marigold(Calcutta),Attayampatti(Uzhavar Sandhai ),80.15
+Spring,Water Melon,Ammapet(Uzhavar Sandhai ),22.63
+Spring,Water Melon,Athur(Uzhavar Sandhai ),22.94
+Spring,Water Melon,Mettur(Uzhavar Sandhai ),18.51
+Spring,Water Melon,Thathakapatti(Uzhavar Sandhai ),20.71
+Spring,Water Melon,Sooramangalam(Uzhavar Sandhai ),50.36
+Spring,Water Melon,Hasthampatti(Uzhavar Sandhai ),20.37
+Spring,Water Melon,Jalagandapuram(Uzhavar Sandhai ),24.33
+Summer,Water Melon,Ammapet(Uzhavar Sandhai ),22.63
+Summer,Water Melon,Athur(Uzhavar Sandhai ),22.94
+Summer,Water Melon,Mettur(Uzhavar Sandhai ),18.51
+Summer,Water Melon,Thathakapatti(Uzhavar Sandhai ),20.7
+Summer,Water Melon,Sooramangalam(Uzhavar Sandhai ),50.36
+Summer,Water Melon,Hasthampatti(Uzhavar Sandhai ),20.37
+Summer,Water Melon,Jalagandapuram(Uzhavar Sandhai ),24.33
+Monsoon,Water Melon,Ammapet(Uzhavar Sandhai ),22.63
+Monsoon,Water Melon,Athur(Uzhavar Sandhai ),22.94
+Monsoon,Water Melon,Mettur(Uzhavar Sandhai ),18.51
+Monsoon,Water Melon,Thathakapatti(Uzhavar Sandhai ),20.71
+Monsoon,Water Melon,Sooramangalam(Uzhavar Sandhai ),50.36
+Monsoon,Water Melon,Hasthampatti(Uzhavar Sandhai ),20.37
+Monsoon,Water Melon,Jalagandapuram(Uzhavar Sandhai ),24.33
+Winter,Water Melon,Ammapet(Uzhavar Sandhai ),22.63
+Winter,Water Melon,Athur(Uzhavar Sandhai ),22.94
+Winter,Water Melon,Mettur(Uzhavar Sandhai ),18.51
+Winter,Water Melon,Thathakapatti(Uzhavar Sandhai ),20.7
+Winter,Water Melon,Sooramangalam(Uzhavar Sandhai ),50.36
+Winter,Water Melon,Hasthampatti(Uzhavar Sandhai ),20.37
+Winter,Water Melon,Jalagandapuram(Uzhavar Sandhai ),24.33
+Spring,Turnip,Sooramangalam(Uzhavar Sandhai ),99.98
+Spring,Turnip,Athur(Uzhavar Sandhai ),22.28
+Summer,Turnip,Sooramangalam(Uzhavar Sandhai ),99.98
+Summer,Turnip,Athur(Uzhavar Sandhai ),22.28
+Monsoon,Turnip,Sooramangalam(Uzhavar Sandhai ),99.98
+Monsoon,Turnip,Athur(Uzhavar Sandhai ),22.28
+Winter,Turnip,Sooramangalam(Uzhavar Sandhai ),99.98
+Winter,Turnip,Athur(Uzhavar Sandhai ),22.28
+Spring,Tube Rose(Loose),Athur(Uzhavar Sandhai ),99.98
+Spring,Tube Rose(Loose),Thathakapatti(Uzhavar Sandhai ),100.08
+Summer,Tube Rose(Loose),Athur(Uzhavar Sandhai ),99.98
+Summer,Tube Rose(Loose),Thathakapatti(Uzhavar Sandhai ),100.08
+Monsoon,Tube Rose(Loose),Athur(Uzhavar Sandhai ),99.98
+Monsoon,Tube Rose(Loose),Thathakapatti(Uzhavar Sandhai ),100.08
+Winter,Tube Rose(Loose),Athur(Uzhavar Sandhai ),99.98
+Winter,Tube Rose(Loose),Thathakapatti(Uzhavar Sandhai ),100.08
+Spring,Fig(Anjura/Anjeer),Thammampatti (Uzhavar Sandhai ),79.79
+Spring,Fig(Anjura/Anjeer),Athur(Uzhavar Sandhai ),99.99
+Summer,Fig(Anjura/Anjeer),Thammampatti (Uzhavar Sandhai ),79.79
+Summer,Fig(Anjura/Anjeer),Athur(Uzhavar Sandhai ),99.99
+Monsoon,Fig(Anjura/Anjeer),Thammampatti (Uzhavar Sandhai ),79.79
+Monsoon,Fig(Anjura/Anjeer),Athur(Uzhavar Sandhai ),99.99
+Winter,Fig(Anjura/Anjeer),Thammampatti (Uzhavar Sandhai ),79.79
+Winter,Fig(Anjura/Anjeer),Athur(Uzhavar Sandhai ),99.99
+Spring,Betal Leaves,Thathakapatti(Uzhavar Sandhai ),80.05
+Spring,Betal Leaves,Athur(Uzhavar Sandhai ),91.77
+Summer,Betal Leaves,Thathakapatti(Uzhavar Sandhai ),80.05
+Summer,Betal Leaves,Athur(Uzhavar Sandhai ),91.77
+Monsoon,Betal Leaves,Thathakapatti(Uzhavar Sandhai ),80.05
+Monsoon,Betal Leaves,Athur(Uzhavar Sandhai ),91.77
+Winter,Betal Leaves,Thathakapatti(Uzhavar Sandhai ),80.05
+Winter,Betal Leaves,Athur(Uzhavar Sandhai ),91.77
+Spring,Chili Red,Thathakapatti(Uzhavar Sandhai ),100.23
+Summer,Chili Red,Thathakapatti(Uzhavar Sandhai ),100.23
+Monsoon,Chili Red,Thathakapatti(Uzhavar Sandhai ),100.23
+Winter,Chili Red,Thathakapatti(Uzhavar Sandhai ),100.23
+Spring,Tamarind Fruit,Thathakapatti(Uzhavar Sandhai ),80.04
+Spring,Tamarind Fruit,Ammapet(Uzhavar Sandhai ),100.06
+Summer,Tamarind Fruit,Thathakapatti(Uzhavar Sandhai ),80.04
+Summer,Tamarind Fruit,Ammapet(Uzhavar Sandhai ),100.07
+Monsoon,Tamarind Fruit,Thathakapatti(Uzhavar Sandhai ),80.04
+Monsoon,Tamarind Fruit,Ammapet(Uzhavar Sandhai ),100.07
+Winter,Tamarind Fruit,Thathakapatti(Uzhavar Sandhai ),80.04
+Winter,Tamarind Fruit,Ammapet(Uzhavar Sandhai ),100.06
+Spring,Drumstick,Attayampatti(Uzhavar Sandhai ),100.02
+Spring,Drumstick,Ammapet(Uzhavar Sandhai ),99.98
+Spring,Drumstick,Athur(Uzhavar Sandhai ),81.19
+Spring,Drumstick,Edapadi (Uzhavar Sandhai ),100.04
+Spring,Drumstick,Elampillai(Uzhavar Sandhai ),100.03
+Spring,Drumstick,Hasthampatti(Uzhavar Sandhai ),100.04
+Spring,Drumstick,Sooramangalam(Uzhavar Sandhai ),100.01
+Spring,Drumstick,Thathakapatti(Uzhavar Sandhai ),100.01
+Spring,Drumstick,Jalagandapuram(Uzhavar Sandhai ),100.02
+Spring,Drumstick,Mettur(Uzhavar Sandhai ),99.73
+Spring,Drumstick,Thammampatti (Uzhavar Sandhai ),100.02
+Summer,Drumstick,Attayampatti(Uzhavar Sandhai ),100.02
+Summer,Drumstick,Ammapet(Uzhavar Sandhai ),99.98
+Summer,Drumstick,Athur(Uzhavar Sandhai ),81.19
+Summer,Drumstick,Edapadi (Uzhavar Sandhai ),100.04
+Summer,Drumstick,Elampillai(Uzhavar Sandhai ),100.03
+Summer,Drumstick,Hasthampatti(Uzhavar Sandhai ),100.04
+Summer,Drumstick,Sooramangalam(Uzhavar Sandhai ),100.01
+Summer,Drumstick,Thathakapatti(Uzhavar Sandhai ),100.01
+Summer,Drumstick,Jalagandapuram(Uzhavar Sandhai ),100.02
+Summer,Drumstick,Mettur(Uzhavar Sandhai ),99.73
+Summer,Drumstick,Thammampatti (Uzhavar Sandhai ),100.02
+Monsoon,Drumstick,Attayampatti(Uzhavar Sandhai ),100.02
+Monsoon,Drumstick,Ammapet(Uzhavar Sandhai ),99.98
+Monsoon,Drumstick,Athur(Uzhavar Sandhai ),81.19
+Monsoon,Drumstick,Edapadi (Uzhavar Sandhai ),100.04
+Monsoon,Drumstick,Elampillai(Uzhavar Sandhai ),100.03
+Monsoon,Drumstick,Hasthampatti(Uzhavar Sandhai ),100.03
+Monsoon,Drumstick,Sooramangalam(Uzhavar Sandhai ),100.01
+Monsoon,Drumstick,Thathakapatti(Uzhavar Sandhai ),100.01
+Monsoon,Drumstick,Jalagandapuram(Uzhavar Sandhai ),100.02
+Monsoon,Drumstick,Mettur(Uzhavar Sandhai ),99.72
+Monsoon,Drumstick,Thammampatti (Uzhavar Sandhai ),100.02
+Winter,Drumstick,Attayampatti(Uzhavar Sandhai ),100.02
+Winter,Drumstick,Ammapet(Uzhavar Sandhai ),99.98
+Winter,Drumstick,Athur(Uzhavar Sandhai ),81.19
+Winter,Drumstick,Edapadi (Uzhavar Sandhai ),100.04
+Winter,Drumstick,Elampillai(Uzhavar Sandhai ),100.03
+Winter,Drumstick,Hasthampatti(Uzhavar Sandhai ),100.04
+Winter,Drumstick,Sooramangalam(Uzhavar Sandhai ),100.01
+Winter,Drumstick,Thathakapatti(Uzhavar Sandhai ),100.01
+Winter,Drumstick,Jalagandapuram(Uzhavar Sandhai ),100.02
+Winter,Drumstick,Mettur(Uzhavar Sandhai ),99.73
+Winter,Drumstick,Thammampatti (Uzhavar Sandhai ),100.02
+Spring,Karbuja(Musk Melon),Athur(Uzhavar Sandhai ),23.46
+Spring,Karbuja(Musk Melon),Hasthampatti(Uzhavar Sandhai ),20.63
+Spring,Karbuja(Musk Melon),Ammapet(Uzhavar Sandhai ),37.05
+Spring,Karbuja(Musk Melon),Sooramangalam(Uzhavar Sandhai ),45.44
+Spring,Karbuja(Musk Melon),Thathakapatti(Uzhavar Sandhai ),41.59
+Spring,Karbuja(Musk Melon),Edapadi (Uzhavar Sandhai ),32.69
+Summer,Karbuja(Musk Melon),Athur(Uzhavar Sandhai ),23.46
+Summer,Karbuja(Musk Melon),Hasthampatti(Uzhavar Sandhai ),20.62
+Summer,Karbuja(Musk Melon),Ammapet(Uzhavar Sandhai ),37.05
+Summer,Karbuja(Musk Melon),Sooramangalam(Uzhavar Sandhai ),45.43
+Summer,Karbuja(Musk Melon),Thathakapatti(Uzhavar Sandhai ),41.59
+Summer,Karbuja(Musk Melon),Edapadi (Uzhavar Sandhai ),32.69
+Monsoon,Karbuja(Musk Melon),Athur(Uzhavar Sandhai ),23.46
+Monsoon,Karbuja(Musk Melon),Hasthampatti(Uzhavar Sandhai ),20.63
+Monsoon,Karbuja(Musk Melon),Ammapet(Uzhavar Sandhai ),37.05
+Monsoon,Karbuja(Musk Melon),Sooramangalam(Uzhavar Sandhai ),45.44
+Monsoon,Karbuja(Musk Melon),Thathakapatti(Uzhavar Sandhai ),41.59
+Monsoon,Karbuja(Musk Melon),Edapadi (Uzhavar Sandhai ),32.69
+Winter,Karbuja(Musk Melon),Athur(Uzhavar Sandhai ),23.46
+Winter,Karbuja(Musk Melon),Hasthampatti(Uzhavar Sandhai ),20.63
+Winter,Karbuja(Musk Melon),Ammapet(Uzhavar Sandhai ),37.05
+Winter,Karbuja(Musk Melon),Sooramangalam(Uzhavar Sandhai ),45.44
+Winter,Karbuja(Musk Melon),Thathakapatti(Uzhavar Sandhai ),41.59
+Winter,Karbuja(Musk Melon),Edapadi (Uzhavar Sandhai ),32.69
+Spring,Black Gram (Urd Beans)(Whole),Kolathur,72.53
+Summer,Black Gram (Urd Beans)(Whole),Kolathur,72.53
+Monsoon,Black Gram (Urd Beans)(Whole),Kolathur,72.52
+Winter,Black Gram (Urd Beans)(Whole),Kolathur,72.52
+Spring,Garlic,Elampillai(Uzhavar Sandhai ),100.05
+Spring,Garlic,Attayampatti(Uzhavar Sandhai ),99.95
+Summer,Garlic,Elampillai(Uzhavar Sandhai ),100.05
+Summer,Garlic,Attayampatti(Uzhavar Sandhai ),99.95
+Monsoon,Garlic,Elampillai(Uzhavar Sandhai ),100.05
+Monsoon,Garlic,Attayampatti(Uzhavar Sandhai ),99.95
+Winter,Garlic,Elampillai(Uzhavar Sandhai ),100.05
+Winter,Garlic,Attayampatti(Uzhavar Sandhai ),99.95
+Spring,Pomegranate,Athur(Uzhavar Sandhai ),31.76
+Summer,Pomegranate,Athur(Uzhavar Sandhai ),31.76
+Monsoon,Pomegranate,Athur(Uzhavar Sandhai ),31.76
+Winter,Pomegranate,Athur(Uzhavar Sandhai ),31.76

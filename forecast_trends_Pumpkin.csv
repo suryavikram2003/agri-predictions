@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.65
+2025-03-08,Saturday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.63
+2025-03-09,Sunday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.62
+2025-03-10,Monday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.6
+2025-03-11,Tuesday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.62
+2025-03-12,Wednesday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.63
+2025-03-13,Thursday,Pumpkin,Ammapet(Uzhavar Sandhai ),18.98,18.61
+2025-03-07,Friday,Pumpkin,Athur(Uzhavar Sandhai ),19.64,22.73
+2025-03-08,Saturday,Pumpkin,Athur(Uzhavar Sandhai ),19.64,22.73
+2025-03-09,Sunday,Pumpkin,Athur(Uzhavar Sandhai ),19.64,22.73
+2025-03-10,Monday,Pumpkin,Athur(Uzhavar Sandhai ),19.63,22.7
+2025-03-11,Tuesday,Pumpkin,Athur(Uzhavar Sandhai ),19.63,22.72
+2025-03-12,Wednesday,Pumpkin,Athur(Uzhavar Sandhai ),19.63,22.72
+2025-03-13,Thursday,Pumpkin,Athur(Uzhavar Sandhai ),19.64,22.73
+2025-03-07,Friday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.95
+2025-03-08,Saturday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.94
+2025-03-09,Sunday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.94
+2025-03-10,Monday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.91
+2025-03-11,Tuesday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.94
+2025-03-12,Wednesday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.94
+2025-03-13,Thursday,Pumpkin,Attayampatti(Uzhavar Sandhai ),19.51,21.94
+2025-03-07,Friday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.58
+2025-03-08,Saturday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.58
+2025-03-09,Sunday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.58
+2025-03-10,Monday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.54
+2025-03-11,Tuesday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.57
+2025-03-12,Wednesday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.57
+2025-03-13,Thursday,Pumpkin,Edapadi (Uzhavar Sandhai ),19.61,22.58
+2025-03-07,Friday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.9
+2025-03-08,Saturday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.9
+2025-03-09,Sunday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.9
+2025-03-10,Monday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.88
+2025-03-11,Tuesday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.9
+2025-03-12,Wednesday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.9
+2025-03-13,Thursday,Pumpkin,Elampillai(Uzhavar Sandhai ),22.58,12.9
+2025-03-07,Friday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.34,11.69
+2025-03-08,Saturday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.34,11.68
+2025-03-09,Sunday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.34,11.68
+2025-03-10,Monday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.34,11.68
+2025-03-11,Tuesday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.34,11.68
+2025-03-12,Wednesday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.34,11.68
+2025-03-13,Thursday,Pumpkin,Hasthampatti(Uzhavar Sandhai ),22.33,11.67
+2025-03-07,Friday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.28,23.78
+2025-03-08,Saturday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.28,23.77
+2025-03-09,Sunday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.28,23.77
+2025-03-10,Monday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.27,23.73
+2025-03-11,Tuesday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.28,23.76
+2025-03-12,Wednesday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.28,23.76
+2025-03-13,Thursday,Pumpkin,Jalagandapuram(Uzhavar Sandhai ),22.28,23.76
+2025-03-07,Friday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,25.01
+2025-03-08,Saturday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,25.02
+2025-03-09,Sunday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,25.02
+2025-03-10,Monday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,25.0
+2025-03-11,Tuesday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,25.02
+2025-03-12,Wednesday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,25.02
+2025-03-13,Thursday,Pumpkin,Mettur(Uzhavar Sandhai ),18.75,24.99
+2025-03-07,Friday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.96,18.49
+2025-03-08,Saturday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.96,18.47
+2025-03-09,Sunday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.96,18.47
+2025-03-10,Monday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95,18.46
+2025-03-11,Tuesday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95,18.47
+2025-03-12,Wednesday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.96,18.47
+2025-03-13,Thursday,Pumpkin,Sooramangalam(Uzhavar Sandhai ),18.95,18.45
+2025-03-07,Friday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.35,22.32
+2025-03-08,Saturday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.35,22.33
+2025-03-09,Sunday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.35,22.33
+2025-03-10,Monday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.34,22.28
+2025-03-11,Tuesday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.35,22.33
+2025-03-12,Wednesday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.35,22.32
+2025-03-13,Thursday,Pumpkin,Thammampatti (Uzhavar Sandhai ),18.35,22.31
+2025-03-07,Friday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.13,19.56
+2025-03-08,Saturday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.13,19.54
+2025-03-09,Sunday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.13,19.54
+2025-03-10,Monday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.13,19.53
+2025-03-11,Tuesday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.13,19.54
+2025-03-12,Wednesday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.13,19.54
+2025-03-13,Thursday,Pumpkin,Thathakapatti(Uzhavar Sandhai ),19.12,19.52

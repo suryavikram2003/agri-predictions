@@ -1,22 +1,78 @@
 Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
-2025-03-07,Friday,Potato,Ammapet(Uzhavar Sandhai ),46.41,3.14
-2025-03-08,Saturday,Potato,Ammapet(Uzhavar Sandhai ),46.41,3.14
-2025-03-09,Sunday,Potato,Ammapet(Uzhavar Sandhai ),46.41,3.14
-2025-03-10,Monday,Potato,Ammapet(Uzhavar Sandhai ),46.41,3.13
-2025-03-11,Tuesday,Potato,Ammapet(Uzhavar Sandhai ),46.42,3.15
-2025-03-12,Wednesday,Potato,Ammapet(Uzhavar Sandhai ),46.42,3.15
-2025-03-13,Thursday,Potato,Ammapet(Uzhavar Sandhai ),46.42,3.15
-2025-03-07,Friday,Potato,Athur(Uzhavar Sandhai ),46.22,2.7
-2025-03-08,Saturday,Potato,Athur(Uzhavar Sandhai ),46.22,2.71
-2025-03-09,Sunday,Potato,Athur(Uzhavar Sandhai ),46.22,2.7
-2025-03-10,Monday,Potato,Athur(Uzhavar Sandhai ),46.21,2.7
-2025-03-11,Tuesday,Potato,Athur(Uzhavar Sandhai ),46.22,2.71
-2025-03-12,Wednesday,Potato,Athur(Uzhavar Sandhai ),46.22,2.71
-2025-03-13,Thursday,Potato,Athur(Uzhavar Sandhai ),46.22,2.71
-2025-03-07,Friday,Potato,Attayampatti(Uzhavar Sandhai ),44.62,11.55
-2025-03-08,Saturday,Potato,Attayampatti(Uzhavar Sandhai ),44.62,11.56
-2025-03-09,Sunday,Potato,Attayampatti(Uzhavar Sandhai ),44.62,11.56
-2025-03-10,Monday,Potato,Attayampatti(Uzhavar Sandhai ),44.62,11.55
-2025-03-11,Tuesday,Potato,Attayampatti(Uzhavar Sandhai ),44.62,11.56
-2025-03-12,Wednesday,Potato,Attayampatti(Uzhavar Sandhai ),44.63,11.56
-2025-03-13,Thursday,Potato,Attayampatti(Uzhavar Sandhai ),44.63,11.57
+2025-03-07,Friday,Potato,Ammapet(Uzhavar Sandhai ),46.43,3.18
+2025-03-08,Saturday,Potato,Ammapet(Uzhavar Sandhai ),46.43,3.18
+2025-03-09,Sunday,Potato,Ammapet(Uzhavar Sandhai ),46.43,3.17
+2025-03-10,Monday,Potato,Ammapet(Uzhavar Sandhai ),46.42,3.17
+2025-03-11,Tuesday,Potato,Ammapet(Uzhavar Sandhai ),46.43,3.17
+2025-03-12,Wednesday,Potato,Ammapet(Uzhavar Sandhai ),46.43,3.17
+2025-03-13,Thursday,Potato,Ammapet(Uzhavar Sandhai ),46.42,3.17
+2025-03-07,Friday,Potato,Athur(Uzhavar Sandhai ),45.77,1.72
+2025-03-08,Saturday,Potato,Athur(Uzhavar Sandhai ),45.77,1.71
+2025-03-09,Sunday,Potato,Athur(Uzhavar Sandhai ),45.77,1.71
+2025-03-10,Monday,Potato,Athur(Uzhavar Sandhai ),45.77,1.71
+2025-03-11,Tuesday,Potato,Athur(Uzhavar Sandhai ),45.77,1.71
+2025-03-12,Wednesday,Potato,Athur(Uzhavar Sandhai ),45.77,1.71
+2025-03-13,Thursday,Potato,Athur(Uzhavar Sandhai ),45.77,1.71
+2025-03-07,Friday,Potato,Attayampatti(Uzhavar Sandhai ),40.96,2.39
+2025-03-08,Saturday,Potato,Attayampatti(Uzhavar Sandhai ),40.96,2.39
+2025-03-09,Sunday,Potato,Attayampatti(Uzhavar Sandhai ),40.96,2.39
+2025-03-10,Monday,Potato,Attayampatti(Uzhavar Sandhai ),40.95,2.38
+2025-03-11,Tuesday,Potato,Attayampatti(Uzhavar Sandhai ),40.95,2.38
+2025-03-12,Wednesday,Potato,Attayampatti(Uzhavar Sandhai ),40.95,2.39
+2025-03-13,Thursday,Potato,Attayampatti(Uzhavar Sandhai ),40.95,2.39
+2025-03-07,Friday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.5
+2025-03-08,Saturday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.5
+2025-03-09,Sunday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.5
+2025-03-10,Monday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.49
+2025-03-11,Tuesday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.5
+2025-03-12,Wednesday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.5
+2025-03-13,Thursday,Potato,Edapadi (Uzhavar Sandhai ),37.26,3.5
+2025-03-07,Friday,Potato,Elampillai(Uzhavar Sandhai ),41.02,2.55
+2025-03-08,Saturday,Potato,Elampillai(Uzhavar Sandhai ),41.02,2.54
+2025-03-09,Sunday,Potato,Elampillai(Uzhavar Sandhai ),41.02,2.54
+2025-03-10,Monday,Potato,Elampillai(Uzhavar Sandhai ),41.01,2.53
+2025-03-11,Tuesday,Potato,Elampillai(Uzhavar Sandhai ),41.02,2.54
+2025-03-12,Wednesday,Potato,Elampillai(Uzhavar Sandhai ),41.02,2.54
+2025-03-13,Thursday,Potato,Elampillai(Uzhavar Sandhai ),41.02,2.54
+2025-03-07,Friday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.68
+2025-03-08,Saturday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.68
+2025-03-09,Sunday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.68
+2025-03-10,Monday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.69
+2025-03-11,Tuesday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.68
+2025-03-12,Wednesday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.68
+2025-03-13,Thursday,Potato,Hasthampatti(Uzhavar Sandhai ),44.69,-0.69
+2025-03-07,Friday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.32,3.3
+2025-03-08,Saturday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.32,3.29
+2025-03-09,Sunday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.32,3.29
+2025-03-10,Monday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.31,3.28
+2025-03-11,Tuesday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.32,3.29
+2025-03-12,Wednesday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.32,3.29
+2025-03-13,Thursday,Potato,Jalagandapuram(Uzhavar Sandhai ),41.32,3.29
+2025-03-07,Friday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.86
+2025-03-08,Saturday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.85
+2025-03-09,Sunday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.85
+2025-03-10,Monday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.85
+2025-03-11,Tuesday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.85
+2025-03-12,Wednesday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.85
+2025-03-13,Thursday,Potato,Mettur(Uzhavar Sandhai ),41.14,2.85
+2025-03-07,Friday,Potato,Sooramangalam(Uzhavar Sandhai ),50.17,0.33
+2025-03-08,Saturday,Potato,Sooramangalam(Uzhavar Sandhai ),50.16,0.33
+2025-03-09,Sunday,Potato,Sooramangalam(Uzhavar Sandhai ),50.16,0.33
+2025-03-10,Monday,Potato,Sooramangalam(Uzhavar Sandhai ),50.17,0.33
+2025-03-11,Tuesday,Potato,Sooramangalam(Uzhavar Sandhai ),50.16,0.33
+2025-03-12,Wednesday,Potato,Sooramangalam(Uzhavar Sandhai ),50.17,0.33
+2025-03-13,Thursday,Potato,Sooramangalam(Uzhavar Sandhai ),50.17,0.33
+2025-03-07,Friday,Potato,Thammampatti (Uzhavar Sandhai ),40.86,2.14
+2025-03-08,Saturday,Potato,Thammampatti (Uzhavar Sandhai ),40.86,2.14
+2025-03-09,Sunday,Potato,Thammampatti (Uzhavar Sandhai ),40.86,2.14
+2025-03-10,Monday,Potato,Thammampatti (Uzhavar Sandhai ),40.85,2.13
+2025-03-11,Tuesday,Potato,Thammampatti (Uzhavar Sandhai ),40.86,2.14
+2025-03-12,Wednesday,Potato,Thammampatti (Uzhavar Sandhai ),40.86,2.14
+2025-03-13,Thursday,Potato,Thammampatti (Uzhavar Sandhai ),40.86,2.14
+2025-03-07,Friday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.4
+2025-03-08,Saturday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.39
+2025-03-09,Sunday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.39
+2025-03-10,Monday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.39
+2025-03-11,Tuesday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.39
+2025-03-12,Wednesday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.39
+2025-03-13,Thursday,Potato,Thathakapatti(Uzhavar Sandhai ),50.2,0.39

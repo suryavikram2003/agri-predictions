@@ -1,0 +1,64 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.85,-0.3
+2025-03-08,Saturday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.85,-0.31
+2025-03-09,Sunday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.84,-0.31
+2025-03-10,Monday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.84,-0.32
+2025-03-11,Tuesday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.84,-0.31
+2025-03-12,Wednesday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.84,-0.31
+2025-03-13,Thursday,Cucumbar(Kheera),Ammapet(Uzhavar Sandhai ),49.84,-0.31
+2025-03-07,Friday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.76,-0.24
+2025-03-08,Saturday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.76,-0.24
+2025-03-09,Sunday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.76,-0.24
+2025-03-10,Monday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.75,-0.25
+2025-03-11,Tuesday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.76,-0.24
+2025-03-12,Wednesday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.76,-0.24
+2025-03-13,Thursday,Cucumbar(Kheera),Hasthampatti(Uzhavar Sandhai ),99.76,-0.24
+2025-03-07,Friday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-08,Saturday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-09,Sunday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-10,Monday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-11,Tuesday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-12,Wednesday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-13,Thursday,Cucumbar(Kheera),Sooramangalam(Uzhavar Sandhai ),99.64,-0.36
+2025-03-07,Friday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5,1.24
+2025-03-08,Saturday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.49,1.23
+2025-03-09,Sunday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.49,1.24
+2025-03-10,Monday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.49,1.23
+2025-03-11,Tuesday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.49,1.24
+2025-03-12,Wednesday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5,1.24
+2025-03-13,Thursday,Cucumbar(Kheera),Thathakapatti(Uzhavar Sandhai ),40.5,1.24
+2025-03-07,Friday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-08,Saturday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-09,Sunday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-10,Monday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-11,Tuesday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-12,Wednesday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-13,Thursday,Cucumbar(Kheera),Mettur(Uzhavar Sandhai ),61.35,2.25
+2025-03-07,Friday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.95,2.38
+2025-03-08,Saturday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.95,2.38
+2025-03-09,Sunday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.95,2.37
+2025-03-10,Monday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.94,2.36
+2025-03-11,Tuesday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.95,2.37
+2025-03-12,Wednesday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.95,2.37
+2025-03-13,Thursday,Cucumbar(Kheera),Elampillai(Uzhavar Sandhai ),40.95,2.37
+2025-03-07,Friday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.66,1.11
+2025-03-08,Saturday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.66,1.11
+2025-03-09,Sunday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.67,1.11
+2025-03-10,Monday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.66,1.1
+2025-03-11,Tuesday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.66,1.11
+2025-03-12,Wednesday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.66,1.11
+2025-03-13,Thursday,Cucumbar(Kheera),Thammampatti (Uzhavar Sandhai ),60.66,1.11
+2025-03-07,Friday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-08,Saturday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-09,Sunday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-10,Monday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-11,Tuesday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-12,Wednesday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-13,Thursday,Cucumbar(Kheera),Athur(Uzhavar Sandhai ),60.97,1.62
+2025-03-07,Friday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.59,1.46
+2025-03-08,Saturday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.58,1.46
+2025-03-09,Sunday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.58,1.46
+2025-03-10,Monday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.58,1.46
+2025-03-11,Tuesday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.58,1.46
+2025-03-12,Wednesday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.58,1.46
+2025-03-13,Thursday,Cucumbar(Kheera),Attayampatti(Uzhavar Sandhai ),40.58,1.46

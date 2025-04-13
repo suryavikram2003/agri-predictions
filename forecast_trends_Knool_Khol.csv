@@ -1,0 +1,64 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.1,3.15
+2025-03-08,Saturday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.1,3.14
+2025-03-09,Sunday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.1,3.14
+2025-03-10,Monday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.11,3.16
+2025-03-11,Tuesday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.11,3.16
+2025-03-12,Wednesday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.1,3.15
+2025-03-13,Thursday,Knool Khol,Ammapet(Uzhavar Sandhai ),36.1,3.14
+2025-03-07,Friday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,2.0
+2025-03-08,Saturday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,2.0
+2025-03-09,Sunday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,2.0
+2025-03-10,Monday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,1.99
+2025-03-11,Tuesday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,1.99
+2025-03-12,Wednesday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,1.99
+2025-03-13,Thursday,Knool Khol,Athur(Uzhavar Sandhai ),36.72,1.99
+2025-03-07,Friday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.85,7.51
+2025-03-08,Saturday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.85,7.51
+2025-03-09,Sunday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.85,7.5
+2025-03-10,Monday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.86,7.52
+2025-03-11,Tuesday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.86,7.52
+2025-03-12,Wednesday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.85,7.5
+2025-03-13,Thursday,Knool Khol,Attayampatti(Uzhavar Sandhai ),40.85,7.5
+2025-03-07,Friday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.06
+2025-03-08,Saturday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.06
+2025-03-09,Sunday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.06
+2025-03-10,Monday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.04
+2025-03-11,Tuesday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.05
+2025-03-12,Wednesday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.06
+2025-03-13,Thursday,Knool Khol,Elampillai(Uzhavar Sandhai ),41.22,3.05
+2025-03-07,Friday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.73,2.04
+2025-03-08,Saturday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.73,2.03
+2025-03-09,Sunday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.73,2.03
+2025-03-10,Monday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.74,2.05
+2025-03-11,Tuesday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.74,2.06
+2025-03-12,Wednesday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.73,2.03
+2025-03-13,Thursday,Knool Khol,Hasthampatti(Uzhavar Sandhai ),36.73,2.03
+2025-03-07,Friday,Knool Khol,Mettur(Uzhavar Sandhai ),41.51,3.76
+2025-03-08,Saturday,Knool Khol,Mettur(Uzhavar Sandhai ),41.51,3.77
+2025-03-09,Sunday,Knool Khol,Mettur(Uzhavar Sandhai ),41.51,3.76
+2025-03-10,Monday,Knool Khol,Mettur(Uzhavar Sandhai ),41.5,3.76
+2025-03-11,Tuesday,Knool Khol,Mettur(Uzhavar Sandhai ),41.51,3.76
+2025-03-12,Wednesday,Knool Khol,Mettur(Uzhavar Sandhai ),41.51,3.77
+2025-03-13,Thursday,Knool Khol,Mettur(Uzhavar Sandhai ),41.5,3.76
+2025-03-07,Friday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.96,2.67
+2025-03-08,Saturday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.96,2.67
+2025-03-09,Sunday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.96,2.66
+2025-03-10,Monday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.97,2.69
+2025-03-11,Tuesday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.97,2.68
+2025-03-12,Wednesday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.96,2.67
+2025-03-13,Thursday,Knool Khol,Sooramangalam(Uzhavar Sandhai ),36.96,2.67
+2025-03-07,Friday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.39,3.65
+2025-03-08,Saturday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.39,3.65
+2025-03-09,Sunday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.39,3.65
+2025-03-10,Monday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.37,3.62
+2025-03-11,Tuesday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.38,3.64
+2025-03-12,Wednesday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.38,3.64
+2025-03-13,Thursday,Knool Khol,Thammampatti (Uzhavar Sandhai ),39.38,3.64
+2025-03-07,Friday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.68
+2025-03-08,Saturday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.68
+2025-03-09,Sunday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.67
+2025-03-10,Monday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.67
+2025-03-11,Tuesday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.67
+2025-03-12,Wednesday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.67
+2025-03-13,Thursday,Knool Khol,Thathakapatti(Uzhavar Sandhai ),36.96,2.67

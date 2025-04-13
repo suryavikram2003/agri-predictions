@@ -1,0 +1,57 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-08,Saturday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.11,0.18
+2025-03-09,Sunday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-10,Monday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.1,0.17
+2025-03-11,Tuesday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.11,0.18
+2025-03-12,Wednesday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-13,Thursday,Yam (Ratalu),Ammapet(Uzhavar Sandhai ),60.11,0.19
+2025-03-07,Friday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.43,0.71
+2025-03-08,Saturday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.43,0.71
+2025-03-09,Sunday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.43,0.71
+2025-03-10,Monday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.42,0.7
+2025-03-11,Tuesday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.43,0.71
+2025-03-12,Wednesday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.43,0.71
+2025-03-13,Thursday,Yam (Ratalu),Athur(Uzhavar Sandhai ),60.43,0.71
+2025-03-07,Friday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.8,-0.27
+2025-03-08,Saturday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.79,-0.27
+2025-03-09,Sunday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.8,-0.27
+2025-03-10,Monday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.79,-0.28
+2025-03-11,Tuesday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.79,-0.27
+2025-03-12,Wednesday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.8,-0.27
+2025-03-13,Thursday,Yam (Ratalu),Hasthampatti(Uzhavar Sandhai ),74.79,-0.27
+2025-03-07,Friday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.45
+2025-03-08,Saturday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.45
+2025-03-09,Sunday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.45
+2025-03-10,Monday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.46
+2025-03-11,Tuesday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.45
+2025-03-12,Wednesday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.45
+2025-03-13,Thursday,Yam (Ratalu),Sooramangalam(Uzhavar Sandhai ),74.66,-0.45
+2025-03-07,Friday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.43,1.08
+2025-03-08,Saturday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.43,1.07
+2025-03-09,Sunday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.43,1.08
+2025-03-10,Monday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.42,1.05
+2025-03-11,Tuesday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.42,1.06
+2025-03-12,Wednesday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.43,1.08
+2025-03-13,Thursday,Yam (Ratalu),Thammampatti (Uzhavar Sandhai ),40.43,1.08
+2025-03-07,Friday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.18,-1.1
+2025-03-08,Saturday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.17,-1.1
+2025-03-09,Sunday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.17,-1.1
+2025-03-10,Monday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.17,-1.1
+2025-03-11,Tuesday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.17,-1.11
+2025-03-12,Wednesday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.17,-1.1
+2025-03-13,Thursday,Yam (Ratalu),Thathakapatti(Uzhavar Sandhai ),74.17,-1.11
+2025-03-07,Friday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.33,0.47
+2025-03-08,Saturday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.32,0.45
+2025-03-09,Sunday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.33,0.47
+2025-03-10,Monday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.32,0.46
+2025-03-11,Tuesday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.32,0.46
+2025-03-12,Wednesday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.33,0.47
+2025-03-13,Thursday,Yam (Ratalu),Elampillai(Uzhavar Sandhai ),70.33,0.47
+2025-03-07,Friday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.21,0.31
+2025-03-08,Saturday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.21,0.3
+2025-03-09,Sunday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.21,0.31
+2025-03-10,Monday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.2,0.29
+2025-03-11,Tuesday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.21,0.3
+2025-03-12,Wednesday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.21,0.3
+2025-03-13,Thursday,Yam (Ratalu),Attayampatti(Uzhavar Sandhai ),70.21,0.31

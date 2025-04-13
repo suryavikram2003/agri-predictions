@@ -1,0 +1,25 @@
+Season,Commodity,Market,Avg_Predicted_Price
+Spring,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Spring,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Spring,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Spring,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Spring,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Spring,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Summer,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Summer,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Summer,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Summer,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Summer,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Summer,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Monsoon,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Monsoon,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Monsoon,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Monsoon,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Monsoon,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Monsoon,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83
+Winter,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01
+Winter,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99
+Winter,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55
+Winter,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.23
+Winter,Rose(Local),Athur(Uzhavar Sandhai ),80.91
+Winter,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.83

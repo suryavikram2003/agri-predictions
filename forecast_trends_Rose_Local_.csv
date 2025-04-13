@@ -1,0 +1,43 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01,0.01
+2025-03-08,Saturday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01,0.01
+2025-03-09,Sunday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01,0.01
+2025-03-10,Monday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.0,0.0
+2025-03-11,Tuesday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.0,0.0
+2025-03-12,Wednesday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01,0.01
+2025-03-13,Thursday,Rose(Local),Sooramangalam(Uzhavar Sandhai ),100.01,0.01
+2025-03-07,Friday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99,-0.01
+2025-03-08,Saturday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99,-0.01
+2025-03-09,Sunday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99,-0.01
+2025-03-10,Monday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.98,-0.02
+2025-03-11,Tuesday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99,-0.01
+2025-03-12,Wednesday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99,-0.01
+2025-03-13,Thursday,Rose(Local),Elampillai(Uzhavar Sandhai ),99.99,-0.01
+2025-03-07,Friday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-08,Saturday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-09,Sunday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-10,Monday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-11,Tuesday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-12,Wednesday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-13,Thursday,Rose(Local),Ammapet(Uzhavar Sandhai ),80.55,0.69
+2025-03-07,Friday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.3
+2025-03-08,Saturday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.3
+2025-03-09,Sunday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.3
+2025-03-10,Monday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.29
+2025-03-11,Tuesday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.3
+2025-03-12,Wednesday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.29
+2025-03-13,Thursday,Rose(Local),Thathakapatti(Uzhavar Sandhai ),80.24,0.29
+2025-03-07,Friday,Rose(Local),Athur(Uzhavar Sandhai ),80.92,1.15
+2025-03-08,Saturday,Rose(Local),Athur(Uzhavar Sandhai ),80.92,1.15
+2025-03-09,Sunday,Rose(Local),Athur(Uzhavar Sandhai ),80.92,1.15
+2025-03-10,Monday,Rose(Local),Athur(Uzhavar Sandhai ),80.92,1.14
+2025-03-11,Tuesday,Rose(Local),Athur(Uzhavar Sandhai ),80.92,1.14
+2025-03-12,Wednesday,Rose(Local),Athur(Uzhavar Sandhai ),80.91,1.14
+2025-03-13,Thursday,Rose(Local),Athur(Uzhavar Sandhai ),80.91,1.14
+2025-03-07,Friday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.05
+2025-03-08,Saturday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.05
+2025-03-09,Sunday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.05
+2025-03-10,Monday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.04
+2025-03-11,Tuesday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.05
+2025-03-12,Wednesday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.05
+2025-03-13,Thursday,Rose(Local),Thammampatti (Uzhavar Sandhai ),80.84,1.05

@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.08,19.24
+2025-03-08,Saturday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.08,19.23
+2025-03-09,Sunday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.08,19.22
+2025-03-10,Monday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.07,19.2
+2025-03-11,Tuesday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.07,19.21
+2025-03-12,Wednesday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.08,19.22
+2025-03-13,Thursday,Ashgourd,Ammapet(Uzhavar Sandhai ),19.07,19.2
+2025-03-07,Friday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.71
+2025-03-08,Saturday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.69
+2025-03-09,Sunday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.69
+2025-03-10,Monday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.67
+2025-03-11,Tuesday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.68
+2025-03-12,Wednesday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.68
+2025-03-13,Thursday,Ashgourd,Athur(Uzhavar Sandhai ),19.63,22.69
+2025-03-07,Friday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.42,21.35
+2025-03-08,Saturday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.42,21.35
+2025-03-09,Sunday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.41,21.34
+2025-03-10,Monday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.41,21.31
+2025-03-11,Tuesday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.41,21.32
+2025-03-12,Wednesday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.41,21.34
+2025-03-13,Thursday,Ashgourd,Attayampatti(Uzhavar Sandhai ),19.42,21.34
+2025-03-07,Friday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.47,21.7
+2025-03-08,Saturday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.47,21.69
+2025-03-09,Sunday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.47,21.69
+2025-03-10,Monday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.46,21.65
+2025-03-11,Tuesday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.47,21.68
+2025-03-12,Wednesday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.47,21.7
+2025-03-13,Thursday,Ashgourd,Edapadi (Uzhavar Sandhai ),19.47,21.71
+2025-03-07,Friday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.14,41.41
+2025-03-08,Saturday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.13,41.33
+2025-03-09,Sunday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.12,41.19
+2025-03-10,Monday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.11,41.08
+2025-03-11,Tuesday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.11,41.13
+2025-03-12,Wednesday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.11,41.15
+2025-03-13,Thursday,Ashgourd,Elampillai(Uzhavar Sandhai ),14.11,41.15
+2025-03-07,Friday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.15
+2025-03-08,Saturday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.14
+2025-03-09,Sunday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.14
+2025-03-10,Monday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.13
+2025-03-11,Tuesday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.14
+2025-03-12,Wednesday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.14
+2025-03-13,Thursday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),22.43,12.13
+2025-03-07,Friday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.32,20.74
+2025-03-08,Saturday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.32,20.74
+2025-03-09,Sunday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.32,20.74
+2025-03-10,Monday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.31,20.68
+2025-03-11,Tuesday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.31,20.72
+2025-03-12,Wednesday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.32,20.73
+2025-03-13,Thursday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),19.32,20.73
+2025-03-07,Friday,Ashgourd,Mettur(Uzhavar Sandhai ),18.65,24.35
+2025-03-08,Saturday,Ashgourd,Mettur(Uzhavar Sandhai ),18.65,24.32
+2025-03-09,Sunday,Ashgourd,Mettur(Uzhavar Sandhai ),18.65,24.33
+2025-03-10,Monday,Ashgourd,Mettur(Uzhavar Sandhai ),18.65,24.31
+2025-03-11,Tuesday,Ashgourd,Mettur(Uzhavar Sandhai ),18.65,24.33
+2025-03-12,Wednesday,Ashgourd,Mettur(Uzhavar Sandhai ),18.65,24.32
+2025-03-13,Thursday,Ashgourd,Mettur(Uzhavar Sandhai ),18.64,24.28
+2025-03-07,Friday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,13.03
+2025-03-08,Saturday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,13.02
+2025-03-09,Sunday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,13.01
+2025-03-10,Monday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,13.0
+2025-03-11,Tuesday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,13.01
+2025-03-12,Wednesday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,13.01
+2025-03-13,Thursday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),20.34,12.99
+2025-03-07,Friday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.18,21.2
+2025-03-08,Saturday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.18,21.19
+2025-03-09,Sunday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.18,21.19
+2025-03-10,Monday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.17,21.14
+2025-03-11,Tuesday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.18,21.17
+2025-03-12,Wednesday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.18,21.18
+2025-03-13,Thursday,Ashgourd,Thammampatti (Uzhavar Sandhai ),18.18,21.17
+2025-03-07,Friday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.17,19.84
+2025-03-08,Saturday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.17,19.82
+2025-03-09,Sunday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.17,19.82
+2025-03-10,Monday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.17,19.8
+2025-03-11,Tuesday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.17,19.81
+2025-03-12,Wednesday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.17,19.81
+2025-03-13,Thursday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),19.16,19.78

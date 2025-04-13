@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.75
+2025-03-08,Saturday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.75
+2025-03-09,Sunday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.75
+2025-03-10,Monday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.74
+2025-03-11,Tuesday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.75
+2025-03-12,Wednesday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.75
+2025-03-13,Thursday,Banana,Ammapet(Uzhavar Sandhai ),90.67,0.75
+2025-03-07,Friday,Banana,Athur(Uzhavar Sandhai ),50.63,1.25
+2025-03-08,Saturday,Banana,Athur(Uzhavar Sandhai ),50.62,1.25
+2025-03-09,Sunday,Banana,Athur(Uzhavar Sandhai ),50.62,1.25
+2025-03-10,Monday,Banana,Athur(Uzhavar Sandhai ),50.62,1.25
+2025-03-11,Tuesday,Banana,Athur(Uzhavar Sandhai ),50.62,1.25
+2025-03-12,Wednesday,Banana,Athur(Uzhavar Sandhai ),50.62,1.24
+2025-03-13,Thursday,Banana,Athur(Uzhavar Sandhai ),50.62,1.24
+2025-03-07,Friday,Banana,Attayampatti(Uzhavar Sandhai ),50.28,0.55
+2025-03-08,Saturday,Banana,Attayampatti(Uzhavar Sandhai ),50.27,0.55
+2025-03-09,Sunday,Banana,Attayampatti(Uzhavar Sandhai ),50.27,0.55
+2025-03-10,Monday,Banana,Attayampatti(Uzhavar Sandhai ),50.27,0.55
+2025-03-11,Tuesday,Banana,Attayampatti(Uzhavar Sandhai ),50.28,0.55
+2025-03-12,Wednesday,Banana,Attayampatti(Uzhavar Sandhai ),50.27,0.55
+2025-03-13,Thursday,Banana,Attayampatti(Uzhavar Sandhai ),50.27,0.54
+2025-03-07,Friday,Banana,Edapadi (Uzhavar Sandhai ),60.51,0.85
+2025-03-08,Saturday,Banana,Edapadi (Uzhavar Sandhai ),60.51,0.85
+2025-03-09,Sunday,Banana,Edapadi (Uzhavar Sandhai ),60.51,0.85
+2025-03-10,Monday,Banana,Edapadi (Uzhavar Sandhai ),60.5,0.84
+2025-03-11,Tuesday,Banana,Edapadi (Uzhavar Sandhai ),60.51,0.85
+2025-03-12,Wednesday,Banana,Edapadi (Uzhavar Sandhai ),60.51,0.85
+2025-03-13,Thursday,Banana,Edapadi (Uzhavar Sandhai ),60.51,0.85
+2025-03-07,Friday,Banana,Elampillai(Uzhavar Sandhai ),91.11,1.23
+2025-03-08,Saturday,Banana,Elampillai(Uzhavar Sandhai ),91.11,1.23
+2025-03-09,Sunday,Banana,Elampillai(Uzhavar Sandhai ),91.11,1.23
+2025-03-10,Monday,Banana,Elampillai(Uzhavar Sandhai ),91.1,1.23
+2025-03-11,Tuesday,Banana,Elampillai(Uzhavar Sandhai ),91.11,1.23
+2025-03-12,Wednesday,Banana,Elampillai(Uzhavar Sandhai ),91.11,1.23
+2025-03-13,Thursday,Banana,Elampillai(Uzhavar Sandhai ),91.11,1.23
+2025-03-07,Friday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-08,Saturday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-09,Sunday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-10,Monday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-11,Tuesday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-12,Wednesday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-13,Thursday,Banana,Hasthampatti(Uzhavar Sandhai ),100.27,0.27
+2025-03-07,Friday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.01,0.02
+2025-03-08,Saturday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.01,0.02
+2025-03-09,Sunday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.01,0.02
+2025-03-10,Monday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.0,0.01
+2025-03-11,Tuesday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.01,0.02
+2025-03-12,Wednesday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.01,0.01
+2025-03-13,Thursday,Banana,Jalagandapuram(Uzhavar Sandhai ),50.01,0.01
+2025-03-07,Friday,Banana,Mettur(Uzhavar Sandhai ),80.63,0.78
+2025-03-08,Saturday,Banana,Mettur(Uzhavar Sandhai ),80.62,0.78
+2025-03-09,Sunday,Banana,Mettur(Uzhavar Sandhai ),80.62,0.78
+2025-03-10,Monday,Banana,Mettur(Uzhavar Sandhai ),80.62,0.78
+2025-03-11,Tuesday,Banana,Mettur(Uzhavar Sandhai ),80.63,0.78
+2025-03-12,Wednesday,Banana,Mettur(Uzhavar Sandhai ),80.63,0.78
+2025-03-13,Thursday,Banana,Mettur(Uzhavar Sandhai ),80.63,0.78
+2025-03-07,Friday,Banana,Sooramangalam(Uzhavar Sandhai ),89.89,-0.13
+2025-03-08,Saturday,Banana,Sooramangalam(Uzhavar Sandhai ),89.89,-0.13
+2025-03-09,Sunday,Banana,Sooramangalam(Uzhavar Sandhai ),89.88,-0.13
+2025-03-10,Monday,Banana,Sooramangalam(Uzhavar Sandhai ),89.88,-0.13
+2025-03-11,Tuesday,Banana,Sooramangalam(Uzhavar Sandhai ),89.88,-0.13
+2025-03-12,Wednesday,Banana,Sooramangalam(Uzhavar Sandhai ),89.88,-0.13
+2025-03-13,Thursday,Banana,Sooramangalam(Uzhavar Sandhai ),89.88,-0.13
+2025-03-07,Friday,Banana,Thammampatti (Uzhavar Sandhai ),45.63,1.4
+2025-03-08,Saturday,Banana,Thammampatti (Uzhavar Sandhai ),45.63,1.39
+2025-03-09,Sunday,Banana,Thammampatti (Uzhavar Sandhai ),45.63,1.39
+2025-03-10,Monday,Banana,Thammampatti (Uzhavar Sandhai ),45.62,1.39
+2025-03-11,Tuesday,Banana,Thammampatti (Uzhavar Sandhai ),45.63,1.4
+2025-03-12,Wednesday,Banana,Thammampatti (Uzhavar Sandhai ),45.63,1.39
+2025-03-13,Thursday,Banana,Thammampatti (Uzhavar Sandhai ),45.63,1.39
+2025-03-07,Friday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69
+2025-03-08,Saturday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69
+2025-03-09,Sunday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69
+2025-03-10,Monday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69
+2025-03-11,Tuesday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69
+2025-03-12,Wednesday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69
+2025-03-13,Thursday,Banana,Thathakapatti(Uzhavar Sandhai ),90.62,0.69

@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.05,3.0
+2025-03-08,Saturday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.05,2.99
+2025-03-09,Sunday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.05,2.99
+2025-03-10,Monday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.04,2.97
+2025-03-11,Tuesday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.04,2.98
+2025-03-12,Wednesday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.05,2.99
+2025-03-13,Thursday,Sweet Potato,Ammapet(Uzhavar Sandhai ),36.04,2.98
+2025-03-07,Friday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.18,2.95
+2025-03-08,Saturday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.18,2.95
+2025-03-09,Sunday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.18,2.95
+2025-03-10,Monday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.17,2.93
+2025-03-11,Tuesday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.18,2.94
+2025-03-12,Wednesday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.18,2.94
+2025-03-13,Thursday,Sweet Potato,Hasthampatti(Uzhavar Sandhai ),41.17,2.93
+2025-03-07,Friday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.29,3.69
+2025-03-08,Saturday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.29,3.69
+2025-03-09,Sunday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.29,3.68
+2025-03-10,Monday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.28,3.65
+2025-03-11,Tuesday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.28,3.66
+2025-03-12,Wednesday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.29,3.67
+2025-03-13,Thursday,Sweet Potato,Jalagandapuram(Uzhavar Sandhai ),36.29,3.67
+2025-03-07,Friday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.18,3.36
+2025-03-08,Saturday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.17,3.36
+2025-03-09,Sunday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.17,3.35
+2025-03-10,Monday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.17,3.35
+2025-03-11,Tuesday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.17,3.35
+2025-03-12,Wednesday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.17,3.35
+2025-03-13,Thursday,Sweet Potato,Sooramangalam(Uzhavar Sandhai ),36.17,3.35
+2025-03-07,Friday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.26,3.61
+2025-03-08,Saturday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.27,3.62
+2025-03-09,Sunday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.26,3.61
+2025-03-10,Monday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.25,3.58
+2025-03-11,Tuesday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.26,3.59
+2025-03-12,Wednesday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.26,3.61
+2025-03-13,Thursday,Sweet Potato,Thammampatti (Uzhavar Sandhai ),36.26,3.61
+2025-03-07,Friday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.04,2.6
+2025-03-08,Saturday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.04,2.6
+2025-03-09,Sunday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.04,2.6
+2025-03-10,Monday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.03,2.59
+2025-03-11,Tuesday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.04,2.59
+2025-03-12,Wednesday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.04,2.59
+2025-03-13,Thursday,Sweet Potato,Thathakapatti(Uzhavar Sandhai ),41.03,2.59
+2025-03-07,Friday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.48,4.22
+2025-03-08,Saturday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.48,4.22
+2025-03-09,Sunday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.47,4.21
+2025-03-10,Monday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.47,4.19
+2025-03-11,Tuesday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.47,4.2
+2025-03-12,Wednesday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.47,4.21
+2025-03-13,Thursday,Sweet Potato,Mettur(Uzhavar Sandhai ),36.47,4.2
+2025-03-07,Friday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.1,2.75
+2025-03-08,Saturday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.1,2.75
+2025-03-09,Sunday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.1,2.75
+2025-03-10,Monday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.09,2.73
+2025-03-11,Tuesday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.1,2.74
+2025-03-12,Wednesday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.1,2.75
+2025-03-13,Thursday,Sweet Potato,Edapadi (Uzhavar Sandhai ),41.1,2.75
+2025-03-07,Friday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.99,2.48
+2025-03-08,Saturday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.99,2.48
+2025-03-09,Sunday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.99,2.48
+2025-03-10,Monday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.98,2.45
+2025-03-11,Tuesday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.99,2.47
+2025-03-12,Wednesday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.99,2.47
+2025-03-13,Thursday,Sweet Potato,Elampillai(Uzhavar Sandhai ),40.99,2.47
+2025-03-07,Friday,Sweet Potato,Athur(Uzhavar Sandhai ),36.31,3.75
+2025-03-08,Saturday,Sweet Potato,Athur(Uzhavar Sandhai ),36.31,3.75
+2025-03-09,Sunday,Sweet Potato,Athur(Uzhavar Sandhai ),36.31,3.75
+2025-03-10,Monday,Sweet Potato,Athur(Uzhavar Sandhai ),36.3,3.73
+2025-03-11,Tuesday,Sweet Potato,Athur(Uzhavar Sandhai ),36.31,3.74
+2025-03-12,Wednesday,Sweet Potato,Athur(Uzhavar Sandhai ),36.31,3.74
+2025-03-13,Thursday,Sweet Potato,Athur(Uzhavar Sandhai ),36.31,3.74
+2025-03-07,Friday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.36,4.52
+2025-03-08,Saturday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.35,4.51
+2025-03-09,Sunday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.35,4.51
+2025-03-10,Monday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.34,4.48
+2025-03-11,Tuesday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.35,4.49
+2025-03-12,Wednesday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.35,4.51
+2025-03-13,Thursday,Sweet Potato,Attayampatti(Uzhavar Sandhai ),31.36,4.52
