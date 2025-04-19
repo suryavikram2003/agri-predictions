@@ -1,0 +1,71 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),16.51,-69.98
+2025-03-08,Saturday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),14.29,-74.03
+2025-03-09,Sunday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),14.3,-74.0
+2025-03-10,Monday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),14.31,-73.99
+2025-03-11,Tuesday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),14.3,-73.99
+2025-03-12,Wednesday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),14.32,-73.97
+2025-03-13,Thursday,Indian Beans (Seam),Ammapet(Uzhavar Sandhai ),14.31,-73.98
+2025-03-07,Friday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),18.95,-68.42
+2025-03-08,Saturday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),16.85,-71.92
+2025-03-09,Sunday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),16.48,-72.53
+2025-03-10,Monday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),16.48,-72.53
+2025-03-11,Tuesday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),16.48,-72.53
+2025-03-12,Wednesday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),16.49,-72.51
+2025-03-13,Thursday,Indian Beans (Seam),Hasthampatti(Uzhavar Sandhai ),16.49,-72.52
+2025-03-07,Friday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),18.37,-63.26
+2025-03-08,Saturday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),15.41,-69.18
+2025-03-09,Sunday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),15.44,-69.11
+2025-03-10,Monday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),15.44,-69.11
+2025-03-11,Tuesday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),15.44,-69.11
+2025-03-12,Wednesday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),15.46,-69.09
+2025-03-13,Thursday,Indian Beans (Seam),Jalagandapuram(Uzhavar Sandhai ),15.45,-69.1
+2025-03-07,Friday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),23.85,-56.64
+2025-03-08,Saturday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),22.43,-59.22
+2025-03-09,Sunday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),22.35,-59.37
+2025-03-10,Monday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),22.34,-59.38
+2025-03-11,Tuesday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),22.1,-59.82
+2025-03-12,Wednesday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),22.12,-59.78
+2025-03-13,Thursday,Indian Beans (Seam),Mettur(Uzhavar Sandhai ),22.12,-59.78
+2025-03-07,Friday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),13.07,-70.96
+2025-03-08,Saturday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),9.88,-78.05
+2025-03-09,Sunday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),9.88,-78.04
+2025-03-10,Monday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),9.95,-77.9
+2025-03-11,Tuesday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),9.99,-77.79
+2025-03-12,Wednesday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),10.01,-77.76
+2025-03-13,Thursday,Indian Beans (Seam),Sooramangalam(Uzhavar Sandhai ),10.02,-77.74
+2025-03-07,Friday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),22.43,-62.61
+2025-03-08,Saturday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),20.68,-65.54
+2025-03-09,Sunday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),20.27,-66.22
+2025-03-10,Monday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),20.27,-66.21
+2025-03-11,Tuesday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),20.27,-66.21
+2025-03-12,Wednesday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),20.28,-66.2
+2025-03-13,Thursday,Indian Beans (Seam),Thathakapatti(Uzhavar Sandhai ),20.28,-66.2
+2025-03-07,Friday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),12.98,-71.15
+2025-03-08,Saturday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),10.86,-75.86
+2025-03-09,Sunday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),10.87,-75.85
+2025-03-10,Monday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),10.86,-75.86
+2025-03-11,Tuesday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),10.91,-75.75
+2025-03-12,Wednesday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),10.92,-75.73
+2025-03-13,Thursday,Indian Beans (Seam),Attayampatti(Uzhavar Sandhai ),10.92,-75.73
+2025-03-07,Friday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),12.73,-71.7
+2025-03-08,Saturday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),10.27,-77.18
+2025-03-09,Sunday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),10.27,-77.17
+2025-03-10,Monday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),10.27,-77.19
+2025-03-11,Tuesday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),10.31,-77.08
+2025-03-12,Wednesday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),10.33,-77.05
+2025-03-13,Thursday,Indian Beans (Seam),Elampillai(Uzhavar Sandhai ),10.34,-77.03
+2025-03-07,Friday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),18.07,-63.86
+2025-03-08,Saturday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),15.85,-68.29
+2025-03-09,Sunday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),15.88,-68.23
+2025-03-10,Monday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),15.88,-68.23
+2025-03-11,Tuesday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),15.88,-68.23
+2025-03-12,Wednesday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),15.89,-68.22
+2025-03-13,Thursday,Indian Beans (Seam),Edapadi (Uzhavar Sandhai ),15.89,-68.22
+2025-03-07,Friday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),12.86,-71.43
+2025-03-08,Saturday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),9.6,-78.67
+2025-03-09,Sunday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),9.6,-78.66
+2025-03-10,Monday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),9.67,-78.51
+2025-03-11,Tuesday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),9.72,-78.4
+2025-03-12,Wednesday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),9.73,-78.38
+2025-03-13,Thursday,Indian Beans (Seam),Athur(Uzhavar Sandhai ),9.74,-78.36

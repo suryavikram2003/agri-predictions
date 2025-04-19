@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Chow Chow,Ammapet(Uzhavar Sandhai ),12.33,-58.91
+2025-03-08,Saturday,Chow Chow,Ammapet(Uzhavar Sandhai ),10.07,-66.45
+2025-03-09,Sunday,Chow Chow,Ammapet(Uzhavar Sandhai ),10.07,-66.45
+2025-03-10,Monday,Chow Chow,Ammapet(Uzhavar Sandhai ),10.13,-66.23
+2025-03-11,Tuesday,Chow Chow,Ammapet(Uzhavar Sandhai ),10.18,-66.07
+2025-03-12,Wednesday,Chow Chow,Ammapet(Uzhavar Sandhai ),10.19,-66.04
+2025-03-13,Thursday,Chow Chow,Ammapet(Uzhavar Sandhai ),10.18,-66.06
+2025-03-07,Friday,Chow Chow,Athur(Uzhavar Sandhai ),11.86,-52.58
+2025-03-08,Saturday,Chow Chow,Athur(Uzhavar Sandhai ),9.73,-61.07
+2025-03-09,Sunday,Chow Chow,Athur(Uzhavar Sandhai ),9.73,-61.08
+2025-03-10,Monday,Chow Chow,Athur(Uzhavar Sandhai ),9.79,-60.85
+2025-03-11,Tuesday,Chow Chow,Athur(Uzhavar Sandhai ),9.84,-60.66
+2025-03-12,Wednesday,Chow Chow,Athur(Uzhavar Sandhai ),9.84,-60.62
+2025-03-13,Thursday,Chow Chow,Athur(Uzhavar Sandhai ),9.85,-60.58
+2025-03-07,Friday,Chow Chow,Attayampatti(Uzhavar Sandhai ),12.62,-64.93
+2025-03-08,Saturday,Chow Chow,Attayampatti(Uzhavar Sandhai ),10.9,-69.73
+2025-03-09,Sunday,Chow Chow,Attayampatti(Uzhavar Sandhai ),10.9,-69.74
+2025-03-10,Monday,Chow Chow,Attayampatti(Uzhavar Sandhai ),10.89,-69.74
+2025-03-11,Tuesday,Chow Chow,Attayampatti(Uzhavar Sandhai ),10.94,-69.6
+2025-03-12,Wednesday,Chow Chow,Attayampatti(Uzhavar Sandhai ),10.95,-69.58
+2025-03-13,Thursday,Chow Chow,Attayampatti(Uzhavar Sandhai ),10.94,-69.61
+2025-03-07,Friday,Chow Chow,Edapadi (Uzhavar Sandhai ),12.26,-59.14
+2025-03-08,Saturday,Chow Chow,Edapadi (Uzhavar Sandhai ),10.32,-65.61
+2025-03-09,Sunday,Chow Chow,Edapadi (Uzhavar Sandhai ),10.32,-65.61
+2025-03-10,Monday,Chow Chow,Edapadi (Uzhavar Sandhai ),10.39,-65.36
+2025-03-11,Tuesday,Chow Chow,Edapadi (Uzhavar Sandhai ),10.44,-65.2
+2025-03-12,Wednesday,Chow Chow,Edapadi (Uzhavar Sandhai ),10.45,-65.17
+2025-03-13,Thursday,Chow Chow,Edapadi (Uzhavar Sandhai ),10.44,-65.2
+2025-03-07,Friday,Chow Chow,Elampillai(Uzhavar Sandhai ),12.15,-59.49
+2025-03-08,Saturday,Chow Chow,Elampillai(Uzhavar Sandhai ),10.36,-65.45
+2025-03-09,Sunday,Chow Chow,Elampillai(Uzhavar Sandhai ),10.36,-65.45
+2025-03-10,Monday,Chow Chow,Elampillai(Uzhavar Sandhai ),10.36,-65.48
+2025-03-11,Tuesday,Chow Chow,Elampillai(Uzhavar Sandhai ),10.4,-65.32
+2025-03-12,Wednesday,Chow Chow,Elampillai(Uzhavar Sandhai ),10.41,-65.3
+2025-03-13,Thursday,Chow Chow,Elampillai(Uzhavar Sandhai ),10.4,-65.33
+2025-03-07,Friday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),12.34,-58.86
+2025-03-08,Saturday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),10.01,-66.63
+2025-03-09,Sunday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),10.01,-66.63
+2025-03-10,Monday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),10.07,-66.44
+2025-03-11,Tuesday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),10.12,-66.28
+2025-03-12,Wednesday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),10.12,-66.25
+2025-03-13,Thursday,Chow Chow,Hasthampatti(Uzhavar Sandhai ),10.13,-66.22
+2025-03-07,Friday,Chow Chow,Mettur(Uzhavar Sandhai ),12.32,-58.92
+2025-03-08,Saturday,Chow Chow,Mettur(Uzhavar Sandhai ),9.93,-66.88
+2025-03-09,Sunday,Chow Chow,Mettur(Uzhavar Sandhai ),9.94,-66.87
+2025-03-10,Monday,Chow Chow,Mettur(Uzhavar Sandhai ),10.0,-66.67
+2025-03-11,Tuesday,Chow Chow,Mettur(Uzhavar Sandhai ),10.05,-66.51
+2025-03-12,Wednesday,Chow Chow,Mettur(Uzhavar Sandhai ),10.06,-66.48
+2025-03-13,Thursday,Chow Chow,Mettur(Uzhavar Sandhai ),10.07,-66.45
+2025-03-07,Friday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),12.34,-58.85
+2025-03-08,Saturday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),9.97,-66.78
+2025-03-09,Sunday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),9.97,-66.78
+2025-03-10,Monday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),10.02,-66.6
+2025-03-11,Tuesday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),10.07,-66.43
+2025-03-12,Wednesday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),10.08,-66.4
+2025-03-13,Thursday,Chow Chow,Sooramangalam(Uzhavar Sandhai ),10.09,-66.37
+2025-03-07,Friday,Chow Chow,Thammampatti (Uzhavar Sandhai ),11.9,-52.38
+2025-03-08,Saturday,Chow Chow,Thammampatti (Uzhavar Sandhai ),10.95,-56.18
+2025-03-09,Sunday,Chow Chow,Thammampatti (Uzhavar Sandhai ),10.95,-56.18
+2025-03-10,Monday,Chow Chow,Thammampatti (Uzhavar Sandhai ),10.95,-56.2
+2025-03-11,Tuesday,Chow Chow,Thammampatti (Uzhavar Sandhai ),11.0,-56.0
+2025-03-12,Wednesday,Chow Chow,Thammampatti (Uzhavar Sandhai ),11.01,-55.97
+2025-03-13,Thursday,Chow Chow,Thammampatti (Uzhavar Sandhai ),11.0,-56.01
+2025-03-07,Friday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),12.34,-58.88
+2025-03-08,Saturday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),10.01,-66.65
+2025-03-09,Sunday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),10.01,-66.64
+2025-03-10,Monday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),10.06,-66.45
+2025-03-11,Tuesday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),10.11,-66.29
+2025-03-12,Wednesday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),10.12,-66.26
+2025-03-13,Thursday,Chow Chow,Thathakapatti(Uzhavar Sandhai ),10.13,-66.23
+2025-03-07,Friday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),12.23,-59.22
+2025-03-08,Saturday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),9.7,-67.66
+2025-03-09,Sunday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),9.7,-67.66
+2025-03-10,Monday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),9.77,-67.43
+2025-03-11,Tuesday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),9.82,-67.27
+2025-03-12,Wednesday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),9.83,-67.24
+2025-03-13,Thursday,Chow Chow,Jalagandapuram(Uzhavar Sandhai ),9.84,-67.21

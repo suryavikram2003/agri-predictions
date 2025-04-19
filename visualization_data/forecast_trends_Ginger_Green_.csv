@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Ginger(Green),Ammapet(Uzhavar Sandhai ),26.25,-56.24
+2025-03-08,Saturday,Ginger(Green),Ammapet(Uzhavar Sandhai ),24.8,-58.66
+2025-03-09,Sunday,Ginger(Green),Ammapet(Uzhavar Sandhai ),24.51,-59.14
+2025-03-10,Monday,Ginger(Green),Ammapet(Uzhavar Sandhai ),24.45,-59.25
+2025-03-11,Tuesday,Ginger(Green),Ammapet(Uzhavar Sandhai ),24.44,-59.26
+2025-03-12,Wednesday,Ginger(Green),Ammapet(Uzhavar Sandhai ),24.45,-59.25
+2025-03-13,Thursday,Ginger(Green),Ammapet(Uzhavar Sandhai ),24.45,-59.26
+2025-03-07,Friday,Ginger(Green),Athur(Uzhavar Sandhai ),37.13,-38.11
+2025-03-08,Saturday,Ginger(Green),Athur(Uzhavar Sandhai ),34.62,-42.3
+2025-03-09,Sunday,Ginger(Green),Athur(Uzhavar Sandhai ),34.12,-43.13
+2025-03-10,Monday,Ginger(Green),Athur(Uzhavar Sandhai ),33.88,-43.53
+2025-03-11,Tuesday,Ginger(Green),Athur(Uzhavar Sandhai ),33.88,-43.53
+2025-03-12,Wednesday,Ginger(Green),Athur(Uzhavar Sandhai ),33.88,-43.53
+2025-03-13,Thursday,Ginger(Green),Athur(Uzhavar Sandhai ),33.88,-43.53
+2025-03-07,Friday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),43.6,-27.33
+2025-03-08,Saturday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),41.76,-30.41
+2025-03-09,Sunday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),41.64,-30.59
+2025-03-10,Monday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),41.64,-30.6
+2025-03-11,Tuesday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),41.64,-30.6
+2025-03-12,Wednesday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),41.64,-30.59
+2025-03-13,Thursday,Ginger(Green),Attayampatti(Uzhavar Sandhai ),41.64,-30.6
+2025-03-07,Friday,Ginger(Green),Edapadi (Uzhavar Sandhai ),39.27,-34.55
+2025-03-08,Saturday,Ginger(Green),Edapadi (Uzhavar Sandhai ),37.48,-37.54
+2025-03-09,Sunday,Ginger(Green),Edapadi (Uzhavar Sandhai ),37.06,-38.23
+2025-03-10,Monday,Ginger(Green),Edapadi (Uzhavar Sandhai ),36.88,-38.53
+2025-03-11,Tuesday,Ginger(Green),Edapadi (Uzhavar Sandhai ),36.88,-38.53
+2025-03-12,Wednesday,Ginger(Green),Edapadi (Uzhavar Sandhai ),36.89,-38.52
+2025-03-13,Thursday,Ginger(Green),Edapadi (Uzhavar Sandhai ),36.89,-38.52
+2025-03-07,Friday,Ginger(Green),Elampillai(Uzhavar Sandhai ),37.21,-37.98
+2025-03-08,Saturday,Ginger(Green),Elampillai(Uzhavar Sandhai ),34.82,-41.96
+2025-03-09,Sunday,Ginger(Green),Elampillai(Uzhavar Sandhai ),34.21,-42.99
+2025-03-10,Monday,Ginger(Green),Elampillai(Uzhavar Sandhai ),34.18,-43.03
+2025-03-11,Tuesday,Ginger(Green),Elampillai(Uzhavar Sandhai ),33.97,-43.39
+2025-03-12,Wednesday,Ginger(Green),Elampillai(Uzhavar Sandhai ),33.97,-43.38
+2025-03-13,Thursday,Ginger(Green),Elampillai(Uzhavar Sandhai ),33.97,-43.39
+2025-03-07,Friday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),19.22,-67.96
+2025-03-08,Saturday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),16.91,-71.82
+2025-03-09,Sunday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),16.72,-72.14
+2025-03-10,Monday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),16.72,-72.13
+2025-03-11,Tuesday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),16.72,-72.13
+2025-03-12,Wednesday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),16.73,-72.12
+2025-03-13,Thursday,Ginger(Green),Hasthampatti(Uzhavar Sandhai ),16.72,-72.13
+2025-03-07,Friday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),43.59,-27.35
+2025-03-08,Saturday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),41.75,-30.41
+2025-03-09,Sunday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),41.64,-30.6
+2025-03-10,Monday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),41.63,-30.61
+2025-03-11,Tuesday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),41.64,-30.61
+2025-03-12,Wednesday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),41.64,-30.6
+2025-03-13,Thursday,Ginger(Green),Jalagandapuram(Uzhavar Sandhai ),41.64,-30.6
+2025-03-07,Friday,Ginger(Green),Mettur(Uzhavar Sandhai ),44.95,-30.84
+2025-03-08,Saturday,Ginger(Green),Mettur(Uzhavar Sandhai ),43.74,-32.71
+2025-03-09,Sunday,Ginger(Green),Mettur(Uzhavar Sandhai ),43.72,-32.74
+2025-03-10,Monday,Ginger(Green),Mettur(Uzhavar Sandhai ),43.72,-32.74
+2025-03-11,Tuesday,Ginger(Green),Mettur(Uzhavar Sandhai ),43.72,-32.74
+2025-03-12,Wednesday,Ginger(Green),Mettur(Uzhavar Sandhai ),43.72,-32.73
+2025-03-13,Thursday,Ginger(Green),Mettur(Uzhavar Sandhai ),43.72,-32.74
+2025-03-07,Friday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),20.07,-66.54
+2025-03-08,Saturday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),17.64,-70.59
+2025-03-09,Sunday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),16.97,-71.71
+2025-03-10,Monday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),16.98,-71.7
+2025-03-11,Tuesday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),16.98,-71.7
+2025-03-12,Wednesday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),16.99,-71.69
+2025-03-13,Thursday,Ginger(Green),Sooramangalam(Uzhavar Sandhai ),16.97,-71.72
+2025-03-07,Friday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),39.29,-34.51
+2025-03-08,Saturday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),37.53,-37.45
+2025-03-09,Sunday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),37.16,-38.07
+2025-03-10,Monday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),36.99,-38.35
+2025-03-11,Tuesday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),36.98,-38.36
+2025-03-12,Wednesday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),36.99,-38.35
+2025-03-13,Thursday,Ginger(Green),Thammampatti (Uzhavar Sandhai ),36.99,-38.36
+2025-03-07,Friday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),22.7,-62.16
+2025-03-08,Saturday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),20.78,-65.37
+2025-03-09,Sunday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),20.49,-65.85
+2025-03-10,Monday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),20.5,-65.84
+2025-03-11,Tuesday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),20.5,-65.84
+2025-03-12,Wednesday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),20.5,-65.83
+2025-03-13,Thursday,Ginger(Green),Thathakapatti(Uzhavar Sandhai ),20.5,-65.84

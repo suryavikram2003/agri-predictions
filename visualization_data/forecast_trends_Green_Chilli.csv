@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Green Chilli,Ammapet(Uzhavar Sandhai ),12.76,-64.56
+2025-03-08,Saturday,Green Chilli,Ammapet(Uzhavar Sandhai ),10.52,-70.76
+2025-03-09,Sunday,Green Chilli,Ammapet(Uzhavar Sandhai ),10.52,-70.77
+2025-03-10,Monday,Green Chilli,Ammapet(Uzhavar Sandhai ),10.58,-70.6
+2025-03-11,Tuesday,Green Chilli,Ammapet(Uzhavar Sandhai ),10.63,-70.47
+2025-03-12,Wednesday,Green Chilli,Ammapet(Uzhavar Sandhai ),10.64,-70.44
+2025-03-13,Thursday,Green Chilli,Ammapet(Uzhavar Sandhai ),10.65,-70.41
+2025-03-07,Friday,Green Chilli,Athur(Uzhavar Sandhai ),12.57,-64.08
+2025-03-08,Saturday,Green Chilli,Athur(Uzhavar Sandhai ),10.23,-70.77
+2025-03-09,Sunday,Green Chilli,Athur(Uzhavar Sandhai ),10.23,-70.78
+2025-03-10,Monday,Green Chilli,Athur(Uzhavar Sandhai ),10.28,-70.63
+2025-03-11,Tuesday,Green Chilli,Athur(Uzhavar Sandhai ),10.33,-70.49
+2025-03-12,Wednesday,Green Chilli,Athur(Uzhavar Sandhai ),10.34,-70.46
+2025-03-13,Thursday,Green Chilli,Athur(Uzhavar Sandhai ),10.35,-70.44
+2025-03-07,Friday,Green Chilli,Attayampatti(Uzhavar Sandhai ),12.68,-64.77
+2025-03-08,Saturday,Green Chilli,Attayampatti(Uzhavar Sandhai ),11.37,-68.41
+2025-03-09,Sunday,Green Chilli,Attayampatti(Uzhavar Sandhai ),11.37,-68.42
+2025-03-10,Monday,Green Chilli,Attayampatti(Uzhavar Sandhai ),11.36,-68.44
+2025-03-11,Tuesday,Green Chilli,Attayampatti(Uzhavar Sandhai ),11.41,-68.3
+2025-03-12,Wednesday,Green Chilli,Attayampatti(Uzhavar Sandhai ),11.42,-68.27
+2025-03-13,Thursday,Green Chilli,Attayampatti(Uzhavar Sandhai ),11.43,-68.26
+2025-03-07,Friday,Green Chilli,Edapadi (Uzhavar Sandhai ),12.65,-64.86
+2025-03-08,Saturday,Green Chilli,Edapadi (Uzhavar Sandhai ),10.68,-70.34
+2025-03-09,Sunday,Green Chilli,Edapadi (Uzhavar Sandhai ),10.67,-70.35
+2025-03-10,Monday,Green Chilli,Edapadi (Uzhavar Sandhai ),10.74,-70.16
+2025-03-11,Tuesday,Green Chilli,Edapadi (Uzhavar Sandhai ),10.79,-70.02
+2025-03-12,Wednesday,Green Chilli,Edapadi (Uzhavar Sandhai ),10.8,-69.99
+2025-03-13,Thursday,Green Chilli,Edapadi (Uzhavar Sandhai ),10.81,-69.97
+2025-03-07,Friday,Green Chilli,Elampillai(Uzhavar Sandhai ),12.56,-64.12
+2025-03-08,Saturday,Green Chilli,Elampillai(Uzhavar Sandhai ),10.85,-69.0
+2025-03-09,Sunday,Green Chilli,Elampillai(Uzhavar Sandhai ),10.85,-69.0
+2025-03-10,Monday,Green Chilli,Elampillai(Uzhavar Sandhai ),10.84,-69.04
+2025-03-11,Tuesday,Green Chilli,Elampillai(Uzhavar Sandhai ),10.88,-68.9
+2025-03-12,Wednesday,Green Chilli,Elampillai(Uzhavar Sandhai ),10.9,-68.87
+2025-03-13,Thursday,Green Chilli,Elampillai(Uzhavar Sandhai ),10.9,-68.85
+2025-03-07,Friday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),12.89,-66.07
+2025-03-08,Saturday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),10.45,-72.5
+2025-03-09,Sunday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),10.45,-72.49
+2025-03-10,Monday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),10.5,-72.36
+2025-03-11,Tuesday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),10.55,-72.23
+2025-03-12,Wednesday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),10.56,-72.2
+2025-03-13,Thursday,Green Chilli,Hasthampatti(Uzhavar Sandhai ),10.57,-72.18
+2025-03-07,Friday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),12.62,-63.93
+2025-03-08,Saturday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),10.22,-70.81
+2025-03-09,Sunday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),10.22,-70.81
+2025-03-10,Monday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),10.28,-70.63
+2025-03-11,Tuesday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),10.33,-70.49
+2025-03-12,Wednesday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),10.34,-70.46
+2025-03-13,Thursday,Green Chilli,Jalagandapuram(Uzhavar Sandhai ),10.35,-70.43
+2025-03-07,Friday,Green Chilli,Mettur(Uzhavar Sandhai ),12.71,-63.67
+2025-03-08,Saturday,Green Chilli,Mettur(Uzhavar Sandhai ),10.38,-70.36
+2025-03-09,Sunday,Green Chilli,Mettur(Uzhavar Sandhai ),10.38,-70.34
+2025-03-10,Monday,Green Chilli,Mettur(Uzhavar Sandhai ),10.43,-70.19
+2025-03-11,Tuesday,Green Chilli,Mettur(Uzhavar Sandhai ),10.48,-70.04
+2025-03-12,Wednesday,Green Chilli,Mettur(Uzhavar Sandhai ),10.5,-70.01
+2025-03-13,Thursday,Green Chilli,Mettur(Uzhavar Sandhai ),10.51,-69.98
+2025-03-07,Friday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),12.78,-64.5
+2025-03-08,Saturday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),10.38,-71.17
+2025-03-09,Sunday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),10.38,-71.16
+2025-03-10,Monday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),10.43,-71.02
+2025-03-11,Tuesday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),10.48,-70.88
+2025-03-12,Wednesday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),10.49,-70.85
+2025-03-13,Thursday,Green Chilli,Sooramangalam(Uzhavar Sandhai ),10.5,-70.82
+2025-03-07,Friday,Green Chilli,Thammampatti (Uzhavar Sandhai ),12.85,-67.87
+2025-03-08,Saturday,Green Chilli,Thammampatti (Uzhavar Sandhai ),11.41,-71.48
+2025-03-09,Sunday,Green Chilli,Thammampatti (Uzhavar Sandhai ),11.4,-71.49
+2025-03-10,Monday,Green Chilli,Thammampatti (Uzhavar Sandhai ),11.4,-71.51
+2025-03-11,Tuesday,Green Chilli,Thammampatti (Uzhavar Sandhai ),11.45,-71.39
+2025-03-12,Wednesday,Green Chilli,Thammampatti (Uzhavar Sandhai ),11.46,-71.36
+2025-03-13,Thursday,Green Chilli,Thammampatti (Uzhavar Sandhai ),11.46,-71.35
+2025-03-07,Friday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),12.75,-64.59
+2025-03-08,Saturday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),10.4,-71.11
+2025-03-09,Sunday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),10.4,-71.11
+2025-03-10,Monday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),10.45,-70.96
+2025-03-11,Tuesday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),10.5,-70.83
+2025-03-12,Wednesday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),10.51,-70.79
+2025-03-13,Thursday,Green Chilli,Thathakapatti(Uzhavar Sandhai ),10.52,-70.77

@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Lime,Ammapet(Uzhavar Sandhai ),12.69,-57.7
+2025-03-08,Saturday,Lime,Ammapet(Uzhavar Sandhai ),10.41,-65.29
+2025-03-09,Sunday,Lime,Ammapet(Uzhavar Sandhai ),10.41,-65.29
+2025-03-10,Monday,Lime,Ammapet(Uzhavar Sandhai ),10.48,-65.05
+2025-03-11,Tuesday,Lime,Ammapet(Uzhavar Sandhai ),10.54,-64.85
+2025-03-12,Wednesday,Lime,Ammapet(Uzhavar Sandhai ),10.55,-64.82
+2025-03-13,Thursday,Lime,Ammapet(Uzhavar Sandhai ),10.55,-64.85
+2025-03-07,Friday,Lime,Athur(Uzhavar Sandhai ),12.56,-58.12
+2025-03-08,Saturday,Lime,Athur(Uzhavar Sandhai ),10.08,-66.4
+2025-03-09,Sunday,Lime,Athur(Uzhavar Sandhai ),10.08,-66.39
+2025-03-10,Monday,Lime,Athur(Uzhavar Sandhai ),10.14,-66.19
+2025-03-11,Tuesday,Lime,Athur(Uzhavar Sandhai ),10.2,-65.99
+2025-03-12,Wednesday,Lime,Athur(Uzhavar Sandhai ),10.21,-65.96
+2025-03-13,Thursday,Lime,Athur(Uzhavar Sandhai ),10.22,-65.94
+2025-03-07,Friday,Lime,Attayampatti(Uzhavar Sandhai ),12.66,-57.81
+2025-03-08,Saturday,Lime,Attayampatti(Uzhavar Sandhai ),11.34,-62.21
+2025-03-09,Sunday,Lime,Attayampatti(Uzhavar Sandhai ),11.34,-62.21
+2025-03-10,Monday,Lime,Attayampatti(Uzhavar Sandhai ),11.34,-62.21
+2025-03-11,Tuesday,Lime,Attayampatti(Uzhavar Sandhai ),11.4,-62.02
+2025-03-12,Wednesday,Lime,Attayampatti(Uzhavar Sandhai ),11.4,-61.99
+2025-03-13,Thursday,Lime,Attayampatti(Uzhavar Sandhai ),11.39,-62.03
+2025-03-07,Friday,Lime,Edapadi (Uzhavar Sandhai ),12.64,-57.86
+2025-03-08,Saturday,Lime,Edapadi (Uzhavar Sandhai ),10.63,-64.57
+2025-03-09,Sunday,Lime,Edapadi (Uzhavar Sandhai ),10.63,-64.57
+2025-03-10,Monday,Lime,Edapadi (Uzhavar Sandhai ),10.7,-64.32
+2025-03-11,Tuesday,Lime,Edapadi (Uzhavar Sandhai ),10.76,-64.12
+2025-03-12,Wednesday,Lime,Edapadi (Uzhavar Sandhai ),10.78,-64.08
+2025-03-13,Thursday,Lime,Edapadi (Uzhavar Sandhai ),10.77,-64.11
+2025-03-07,Friday,Lime,Jalagandapuram(Uzhavar Sandhai ),12.69,-57.71
+2025-03-08,Saturday,Lime,Jalagandapuram(Uzhavar Sandhai ),10.2,-65.99
+2025-03-09,Sunday,Lime,Jalagandapuram(Uzhavar Sandhai ),10.2,-65.99
+2025-03-10,Monday,Lime,Jalagandapuram(Uzhavar Sandhai ),10.28,-65.75
+2025-03-11,Tuesday,Lime,Jalagandapuram(Uzhavar Sandhai ),10.34,-65.55
+2025-03-12,Wednesday,Lime,Jalagandapuram(Uzhavar Sandhai ),10.34,-65.52
+2025-03-13,Thursday,Lime,Jalagandapuram(Uzhavar Sandhai ),10.35,-65.49
+2025-03-07,Friday,Lime,Mettur(Uzhavar Sandhai ),12.63,-57.89
+2025-03-08,Saturday,Lime,Mettur(Uzhavar Sandhai ),10.23,-65.89
+2025-03-09,Sunday,Lime,Mettur(Uzhavar Sandhai ),10.24,-65.88
+2025-03-10,Monday,Lime,Mettur(Uzhavar Sandhai ),10.3,-65.67
+2025-03-11,Tuesday,Lime,Mettur(Uzhavar Sandhai ),10.36,-65.47
+2025-03-12,Wednesday,Lime,Mettur(Uzhavar Sandhai ),10.37,-65.44
+2025-03-13,Thursday,Lime,Mettur(Uzhavar Sandhai ),10.38,-65.42
+2025-03-07,Friday,Lime,Sooramangalam(Uzhavar Sandhai ),12.62,-57.95
+2025-03-08,Saturday,Lime,Sooramangalam(Uzhavar Sandhai ),10.17,-66.09
+2025-03-09,Sunday,Lime,Sooramangalam(Uzhavar Sandhai ),10.18,-66.08
+2025-03-10,Monday,Lime,Sooramangalam(Uzhavar Sandhai ),10.24,-65.87
+2025-03-11,Tuesday,Lime,Sooramangalam(Uzhavar Sandhai ),10.3,-65.67
+2025-03-12,Wednesday,Lime,Sooramangalam(Uzhavar Sandhai ),10.31,-65.64
+2025-03-13,Thursday,Lime,Sooramangalam(Uzhavar Sandhai ),10.32,-65.61
+2025-03-07,Friday,Lime,Thathakapatti(Uzhavar Sandhai ),13.11,-67.23
+2025-03-08,Saturday,Lime,Thathakapatti(Uzhavar Sandhai ),10.21,-74.47
+2025-03-09,Sunday,Lime,Thathakapatti(Uzhavar Sandhai ),10.22,-74.46
+2025-03-10,Monday,Lime,Thathakapatti(Uzhavar Sandhai ),10.28,-74.3
+2025-03-11,Tuesday,Lime,Thathakapatti(Uzhavar Sandhai ),10.34,-74.16
+2025-03-12,Wednesday,Lime,Thathakapatti(Uzhavar Sandhai ),10.35,-74.13
+2025-03-13,Thursday,Lime,Thathakapatti(Uzhavar Sandhai ),10.35,-74.11
+2025-03-07,Friday,Lime,Hasthampatti(Uzhavar Sandhai ),12.71,-63.67
+2025-03-08,Saturday,Lime,Hasthampatti(Uzhavar Sandhai ),10.16,-70.96
+2025-03-09,Sunday,Lime,Hasthampatti(Uzhavar Sandhai ),10.17,-70.95
+2025-03-10,Monday,Lime,Hasthampatti(Uzhavar Sandhai ),10.23,-70.78
+2025-03-11,Tuesday,Lime,Hasthampatti(Uzhavar Sandhai ),10.28,-70.61
+2025-03-12,Wednesday,Lime,Hasthampatti(Uzhavar Sandhai ),10.3,-70.57
+2025-03-13,Thursday,Lime,Hasthampatti(Uzhavar Sandhai ),10.31,-70.55
+2025-03-07,Friday,Lime,Elampillai(Uzhavar Sandhai ),12.39,-58.68
+2025-03-08,Saturday,Lime,Elampillai(Uzhavar Sandhai ),10.65,-64.49
+2025-03-09,Sunday,Lime,Elampillai(Uzhavar Sandhai ),10.65,-64.49
+2025-03-10,Monday,Lime,Elampillai(Uzhavar Sandhai ),10.64,-64.53
+2025-03-11,Tuesday,Lime,Elampillai(Uzhavar Sandhai ),10.7,-64.33
+2025-03-12,Wednesday,Lime,Elampillai(Uzhavar Sandhai ),10.72,-64.28
+2025-03-13,Thursday,Lime,Elampillai(Uzhavar Sandhai ),10.71,-64.31
+2025-03-07,Friday,Lime,Thammampatti (Uzhavar Sandhai ),12.7,-57.66
+2025-03-08,Saturday,Lime,Thammampatti (Uzhavar Sandhai ),11.38,-62.06
+2025-03-09,Sunday,Lime,Thammampatti (Uzhavar Sandhai ),11.38,-62.05
+2025-03-10,Monday,Lime,Thammampatti (Uzhavar Sandhai ),11.38,-62.06
+2025-03-11,Tuesday,Lime,Thammampatti (Uzhavar Sandhai ),11.44,-61.87
+2025-03-12,Wednesday,Lime,Thammampatti (Uzhavar Sandhai ),11.45,-61.84
+2025-03-13,Thursday,Lime,Thammampatti (Uzhavar Sandhai ),11.44,-61.87

@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Raddish,Ammapet(Uzhavar Sandhai ),10.34,-42.58
+2025-03-08,Saturday,Raddish,Ammapet(Uzhavar Sandhai ),10.51,-41.59
+2025-03-09,Sunday,Raddish,Ammapet(Uzhavar Sandhai ),10.51,-41.6
+2025-03-10,Monday,Raddish,Ammapet(Uzhavar Sandhai ),10.57,-41.28
+2025-03-11,Tuesday,Raddish,Ammapet(Uzhavar Sandhai ),10.62,-41.01
+2025-03-12,Wednesday,Raddish,Ammapet(Uzhavar Sandhai ),10.63,-40.96
+2025-03-13,Thursday,Raddish,Ammapet(Uzhavar Sandhai ),10.64,-40.91
+2025-03-07,Friday,Raddish,Athur(Uzhavar Sandhai ),10.18,-27.28
+2025-03-08,Saturday,Raddish,Athur(Uzhavar Sandhai ),10.19,-27.24
+2025-03-09,Sunday,Raddish,Athur(Uzhavar Sandhai ),10.18,-27.29
+2025-03-10,Monday,Raddish,Athur(Uzhavar Sandhai ),10.22,-27.0
+2025-03-11,Tuesday,Raddish,Athur(Uzhavar Sandhai ),10.27,-26.65
+2025-03-12,Wednesday,Raddish,Athur(Uzhavar Sandhai ),10.27,-26.61
+2025-03-13,Thursday,Raddish,Athur(Uzhavar Sandhai ),10.29,-26.53
+2025-03-07,Friday,Raddish,Attayampatti(Uzhavar Sandhai ),11.3,-37.2
+2025-03-08,Saturday,Raddish,Attayampatti(Uzhavar Sandhai ),11.37,-36.85
+2025-03-09,Sunday,Raddish,Attayampatti(Uzhavar Sandhai ),11.36,-36.87
+2025-03-10,Monday,Raddish,Attayampatti(Uzhavar Sandhai ),11.35,-36.96
+2025-03-11,Tuesday,Raddish,Attayampatti(Uzhavar Sandhai ),11.4,-36.68
+2025-03-12,Wednesday,Raddish,Attayampatti(Uzhavar Sandhai ),11.4,-36.65
+2025-03-13,Thursday,Raddish,Attayampatti(Uzhavar Sandhai ),11.41,-36.61
+2025-03-07,Friday,Raddish,Edapadi (Uzhavar Sandhai ),10.55,-41.41
+2025-03-08,Saturday,Raddish,Edapadi (Uzhavar Sandhai ),10.68,-40.68
+2025-03-09,Sunday,Raddish,Edapadi (Uzhavar Sandhai ),10.67,-40.7
+2025-03-10,Monday,Raddish,Edapadi (Uzhavar Sandhai ),10.73,-40.38
+2025-03-11,Tuesday,Raddish,Edapadi (Uzhavar Sandhai ),10.78,-40.11
+2025-03-12,Wednesday,Raddish,Edapadi (Uzhavar Sandhai ),10.79,-40.06
+2025-03-13,Thursday,Raddish,Edapadi (Uzhavar Sandhai ),10.8,-40.02
+2025-03-07,Friday,Raddish,Elampillai(Uzhavar Sandhai ),10.94,-45.29
+2025-03-08,Saturday,Raddish,Elampillai(Uzhavar Sandhai ),10.83,-45.86
+2025-03-09,Sunday,Raddish,Elampillai(Uzhavar Sandhai ),10.82,-45.88
+2025-03-10,Monday,Raddish,Elampillai(Uzhavar Sandhai ),10.81,-45.97
+2025-03-11,Tuesday,Raddish,Elampillai(Uzhavar Sandhai ),10.85,-45.73
+2025-03-12,Wednesday,Raddish,Elampillai(Uzhavar Sandhai ),10.86,-45.69
+2025-03-13,Thursday,Raddish,Elampillai(Uzhavar Sandhai ),10.87,-45.65
+2025-03-07,Friday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.21,-43.29
+2025-03-08,Saturday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.39,-42.26
+2025-03-09,Sunday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.39,-42.28
+2025-03-10,Monday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.44,-42.0
+2025-03-11,Tuesday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.49,-41.73
+2025-03-12,Wednesday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.5,-41.69
+2025-03-13,Thursday,Raddish,Hasthampatti(Uzhavar Sandhai ),10.51,-41.63
+2025-03-07,Friday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.01,-44.41
+2025-03-08,Saturday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.2,-43.35
+2025-03-09,Sunday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.19,-43.37
+2025-03-10,Monday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.25,-43.08
+2025-03-11,Tuesday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.29,-42.81
+2025-03-12,Wednesday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.3,-42.77
+2025-03-13,Thursday,Raddish,Jalagandapuram(Uzhavar Sandhai ),10.31,-42.71
+2025-03-07,Friday,Raddish,Mettur(Uzhavar Sandhai ),10.15,-43.63
+2025-03-08,Saturday,Raddish,Mettur(Uzhavar Sandhai ),10.35,-42.5
+2025-03-09,Sunday,Raddish,Mettur(Uzhavar Sandhai ),10.35,-42.48
+2025-03-10,Monday,Raddish,Mettur(Uzhavar Sandhai ),10.41,-42.17
+2025-03-11,Tuesday,Raddish,Mettur(Uzhavar Sandhai ),10.46,-41.9
+2025-03-12,Wednesday,Raddish,Mettur(Uzhavar Sandhai ),10.47,-41.86
+2025-03-13,Thursday,Raddish,Mettur(Uzhavar Sandhai ),10.47,-41.81
+2025-03-07,Friday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.12,-43.78
+2025-03-08,Saturday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.32,-42.69
+2025-03-09,Sunday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.32,-42.69
+2025-03-10,Monday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.37,-42.41
+2025-03-11,Tuesday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.41,-42.14
+2025-03-12,Wednesday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.42,-42.1
+2025-03-13,Thursday,Raddish,Sooramangalam(Uzhavar Sandhai ),10.43,-42.04
+2025-03-07,Friday,Raddish,Thammampatti (Uzhavar Sandhai ),11.36,-36.89
+2025-03-08,Saturday,Raddish,Thammampatti (Uzhavar Sandhai ),11.4,-36.69
+2025-03-09,Sunday,Raddish,Thammampatti (Uzhavar Sandhai ),11.39,-36.71
+2025-03-10,Monday,Raddish,Thammampatti (Uzhavar Sandhai ),11.37,-36.82
+2025-03-11,Tuesday,Raddish,Thammampatti (Uzhavar Sandhai ),11.42,-36.54
+2025-03-12,Wednesday,Raddish,Thammampatti (Uzhavar Sandhai ),11.43,-36.51
+2025-03-13,Thursday,Raddish,Thammampatti (Uzhavar Sandhai ),11.43,-36.47
+2025-03-07,Friday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.15,-43.59
+2025-03-08,Saturday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.34,-42.54
+2025-03-09,Sunday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.34,-42.55
+2025-03-10,Monday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.39,-42.26
+2025-03-11,Tuesday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.44,-42.0
+2025-03-12,Wednesday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.45,-41.95
+2025-03-13,Thursday,Raddish,Thathakapatti(Uzhavar Sandhai ),10.46,-41.9

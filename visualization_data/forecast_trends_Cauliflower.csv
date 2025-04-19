@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Cauliflower,Ammapet(Uzhavar Sandhai ),12.15,-51.38
+2025-03-08,Saturday,Cauliflower,Ammapet(Uzhavar Sandhai ),9.96,-60.18
+2025-03-09,Sunday,Cauliflower,Ammapet(Uzhavar Sandhai ),9.96,-60.18
+2025-03-10,Monday,Cauliflower,Ammapet(Uzhavar Sandhai ),10.02,-59.9
+2025-03-11,Tuesday,Cauliflower,Ammapet(Uzhavar Sandhai ),10.08,-59.69
+2025-03-12,Wednesday,Cauliflower,Ammapet(Uzhavar Sandhai ),10.09,-59.66
+2025-03-13,Thursday,Cauliflower,Ammapet(Uzhavar Sandhai ),10.09,-59.62
+2025-03-07,Friday,Cauliflower,Athur(Uzhavar Sandhai ),12.07,-51.73
+2025-03-08,Saturday,Cauliflower,Athur(Uzhavar Sandhai ),9.64,-61.44
+2025-03-09,Sunday,Cauliflower,Athur(Uzhavar Sandhai ),9.64,-61.44
+2025-03-10,Monday,Cauliflower,Athur(Uzhavar Sandhai ),9.7,-61.19
+2025-03-11,Tuesday,Cauliflower,Athur(Uzhavar Sandhai ),9.76,-60.98
+2025-03-12,Wednesday,Cauliflower,Athur(Uzhavar Sandhai ),9.76,-60.96
+2025-03-13,Thursday,Cauliflower,Athur(Uzhavar Sandhai ),9.77,-60.92
+2025-03-07,Friday,Cauliflower,Elampillai(Uzhavar Sandhai ),13.02,-67.44
+2025-03-08,Saturday,Cauliflower,Elampillai(Uzhavar Sandhai ),10.25,-74.37
+2025-03-09,Sunday,Cauliflower,Elampillai(Uzhavar Sandhai ),10.25,-74.37
+2025-03-10,Monday,Cauliflower,Elampillai(Uzhavar Sandhai ),10.24,-74.39
+2025-03-11,Tuesday,Cauliflower,Elampillai(Uzhavar Sandhai ),10.3,-74.25
+2025-03-12,Wednesday,Cauliflower,Elampillai(Uzhavar Sandhai ),10.3,-74.24
+2025-03-13,Thursday,Cauliflower,Elampillai(Uzhavar Sandhai ),10.31,-74.22
+2025-03-07,Friday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),12.23,-51.07
+2025-03-08,Saturday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),9.88,-60.46
+2025-03-09,Sunday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),9.89,-60.45
+2025-03-10,Monday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),9.95,-60.21
+2025-03-11,Tuesday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),10.0,-59.99
+2025-03-12,Wednesday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),10.01,-59.97
+2025-03-13,Thursday,Cauliflower,Hasthampatti(Uzhavar Sandhai ),10.02,-59.93
+2025-03-07,Friday,Cauliflower,Mettur(Uzhavar Sandhai ),12.56,-58.15
+2025-03-08,Saturday,Cauliflower,Mettur(Uzhavar Sandhai ),9.78,-67.4
+2025-03-09,Sunday,Cauliflower,Mettur(Uzhavar Sandhai ),9.78,-67.39
+2025-03-10,Monday,Cauliflower,Mettur(Uzhavar Sandhai ),9.85,-67.18
+2025-03-11,Tuesday,Cauliflower,Mettur(Uzhavar Sandhai ),9.9,-67.0
+2025-03-12,Wednesday,Cauliflower,Mettur(Uzhavar Sandhai ),9.91,-66.98
+2025-03-13,Thursday,Cauliflower,Mettur(Uzhavar Sandhai ),9.92,-66.94
+2025-03-07,Friday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),12.25,-51.0
+2025-03-08,Saturday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),9.87,-60.52
+2025-03-09,Sunday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),9.87,-60.51
+2025-03-10,Monday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),9.93,-60.27
+2025-03-11,Tuesday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),9.99,-60.05
+2025-03-12,Wednesday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),9.99,-60.03
+2025-03-13,Thursday,Cauliflower,Sooramangalam(Uzhavar Sandhai ),10.0,-59.99
+2025-03-07,Friday,Cauliflower,Thammampatti (Uzhavar Sandhai ),12.12,-51.51
+2025-03-08,Saturday,Cauliflower,Thammampatti (Uzhavar Sandhai ),10.89,-56.43
+2025-03-09,Sunday,Cauliflower,Thammampatti (Uzhavar Sandhai ),10.89,-56.43
+2025-03-10,Monday,Cauliflower,Thammampatti (Uzhavar Sandhai ),10.89,-56.46
+2025-03-11,Tuesday,Cauliflower,Thammampatti (Uzhavar Sandhai ),10.94,-56.24
+2025-03-12,Wednesday,Cauliflower,Thammampatti (Uzhavar Sandhai ),10.95,-56.21
+2025-03-13,Thursday,Cauliflower,Thammampatti (Uzhavar Sandhai ),10.95,-56.19
+2025-03-07,Friday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),12.25,-50.98
+2025-03-08,Saturday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),9.9,-60.38
+2025-03-09,Sunday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),9.91,-60.38
+2025-03-10,Monday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),9.96,-60.14
+2025-03-11,Tuesday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),10.02,-59.92
+2025-03-12,Wednesday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),10.03,-59.9
+2025-03-13,Thursday,Cauliflower,Thathakapatti(Uzhavar Sandhai ),10.04,-59.86
+2025-03-07,Friday,Cauliflower,Attayampatti(Uzhavar Sandhai ),12.14,-51.45
+2025-03-08,Saturday,Cauliflower,Attayampatti(Uzhavar Sandhai ),10.85,-56.59
+2025-03-09,Sunday,Cauliflower,Attayampatti(Uzhavar Sandhai ),10.85,-56.59
+2025-03-10,Monday,Cauliflower,Attayampatti(Uzhavar Sandhai ),10.85,-56.61
+2025-03-11,Tuesday,Cauliflower,Attayampatti(Uzhavar Sandhai ),10.9,-56.39
+2025-03-12,Wednesday,Cauliflower,Attayampatti(Uzhavar Sandhai ),10.91,-56.37
+2025-03-13,Thursday,Cauliflower,Attayampatti(Uzhavar Sandhai ),10.91,-56.35
+2025-03-07,Friday,Cauliflower,Edapadi (Uzhavar Sandhai ),12.3,-56.07
+2025-03-08,Saturday,Cauliflower,Edapadi (Uzhavar Sandhai ),10.19,-63.61
+2025-03-09,Sunday,Cauliflower,Edapadi (Uzhavar Sandhai ),10.19,-63.61
+2025-03-10,Monday,Cauliflower,Edapadi (Uzhavar Sandhai ),10.26,-63.35
+2025-03-11,Tuesday,Cauliflower,Edapadi (Uzhavar Sandhai ),10.32,-63.15
+2025-03-12,Wednesday,Cauliflower,Edapadi (Uzhavar Sandhai ),10.33,-63.12
+2025-03-13,Thursday,Cauliflower,Edapadi (Uzhavar Sandhai ),10.33,-63.09
+2025-03-07,Friday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),12.13,-51.5
+2025-03-08,Saturday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),9.65,-61.42
+2025-03-09,Sunday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),9.65,-61.42
+2025-03-10,Monday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),9.71,-61.14
+2025-03-11,Tuesday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),9.77,-60.93
+2025-03-12,Wednesday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),9.78,-60.9
+2025-03-13,Thursday,Cauliflower,Jalagandapuram(Uzhavar Sandhai ),9.78,-60.86

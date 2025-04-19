@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Bitter gourd,Ammapet(Uzhavar Sandhai ),12.34,-58.87
+2025-03-08,Saturday,Bitter gourd,Ammapet(Uzhavar Sandhai ),10.39,-65.38
+2025-03-09,Sunday,Bitter gourd,Ammapet(Uzhavar Sandhai ),10.39,-65.37
+2025-03-10,Monday,Bitter gourd,Ammapet(Uzhavar Sandhai ),10.45,-65.16
+2025-03-11,Tuesday,Bitter gourd,Ammapet(Uzhavar Sandhai ),10.5,-65.0
+2025-03-12,Wednesday,Bitter gourd,Ammapet(Uzhavar Sandhai ),10.51,-64.97
+2025-03-13,Thursday,Bitter gourd,Ammapet(Uzhavar Sandhai ),10.5,-64.99
+2025-03-07,Friday,Bitter gourd,Athur(Uzhavar Sandhai ),11.86,-52.56
+2025-03-08,Saturday,Bitter gourd,Athur(Uzhavar Sandhai ),10.04,-59.84
+2025-03-09,Sunday,Bitter gourd,Athur(Uzhavar Sandhai ),10.04,-59.84
+2025-03-10,Monday,Bitter gourd,Athur(Uzhavar Sandhai ),10.09,-59.65
+2025-03-11,Tuesday,Bitter gourd,Athur(Uzhavar Sandhai ),10.14,-59.46
+2025-03-12,Wednesday,Bitter gourd,Athur(Uzhavar Sandhai ),10.14,-59.42
+2025-03-13,Thursday,Bitter gourd,Athur(Uzhavar Sandhai ),10.15,-59.38
+2025-03-07,Friday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),12.03,-57.04
+2025-03-08,Saturday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),11.16,-60.14
+2025-03-09,Sunday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),11.16,-60.14
+2025-03-10,Monday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),11.15,-60.17
+2025-03-11,Tuesday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),11.2,-59.99
+2025-03-12,Wednesday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),11.21,-59.97
+2025-03-13,Thursday,Bitter gourd,Attayampatti(Uzhavar Sandhai ),11.2,-60.0
+2025-03-07,Friday,Bitter gourd,Edapadi (Uzhavar Sandhai ),12.05,-56.96
+2025-03-08,Saturday,Bitter gourd,Edapadi (Uzhavar Sandhai ),10.54,-62.35
+2025-03-09,Sunday,Bitter gourd,Edapadi (Uzhavar Sandhai ),10.54,-62.35
+2025-03-10,Monday,Bitter gourd,Edapadi (Uzhavar Sandhai ),10.61,-62.11
+2025-03-11,Tuesday,Bitter gourd,Edapadi (Uzhavar Sandhai ),10.66,-61.93
+2025-03-12,Wednesday,Bitter gourd,Edapadi (Uzhavar Sandhai ),10.67,-61.9
+2025-03-13,Thursday,Bitter gourd,Edapadi (Uzhavar Sandhai ),10.66,-61.93
+2025-03-07,Friday,Bitter gourd,Elampillai(Uzhavar Sandhai ),12.38,-64.64
+2025-03-08,Saturday,Bitter gourd,Elampillai(Uzhavar Sandhai ),10.7,-69.44
+2025-03-09,Sunday,Bitter gourd,Elampillai(Uzhavar Sandhai ),10.7,-69.44
+2025-03-10,Monday,Bitter gourd,Elampillai(Uzhavar Sandhai ),10.69,-69.46
+2025-03-11,Tuesday,Bitter gourd,Elampillai(Uzhavar Sandhai ),10.74,-69.33
+2025-03-12,Wednesday,Bitter gourd,Elampillai(Uzhavar Sandhai ),10.75,-69.3
+2025-03-13,Thursday,Bitter gourd,Elampillai(Uzhavar Sandhai ),10.74,-69.32
+2025-03-07,Friday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),12.49,-60.96
+2025-03-08,Saturday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),10.32,-67.74
+2025-03-09,Sunday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),10.32,-67.74
+2025-03-10,Monday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),10.38,-67.56
+2025-03-11,Tuesday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),10.43,-67.41
+2025-03-12,Wednesday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),10.44,-67.38
+2025-03-13,Thursday,Bitter gourd,Hasthampatti(Uzhavar Sandhai ),10.45,-67.35
+2025-03-07,Friday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),12.24,-59.21
+2025-03-08,Saturday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),10.04,-66.54
+2025-03-09,Sunday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),10.04,-66.53
+2025-03-10,Monday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),10.1,-66.34
+2025-03-11,Tuesday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),10.15,-66.18
+2025-03-12,Wednesday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),10.16,-66.14
+2025-03-13,Thursday,Bitter gourd,Jalagandapuram(Uzhavar Sandhai ),10.17,-66.11
+2025-03-07,Friday,Bitter gourd,Mettur(Uzhavar Sandhai ),12.56,-64.12
+2025-03-08,Saturday,Bitter gourd,Mettur(Uzhavar Sandhai ),10.23,-70.78
+2025-03-09,Sunday,Bitter gourd,Mettur(Uzhavar Sandhai ),10.23,-70.77
+2025-03-10,Monday,Bitter gourd,Mettur(Uzhavar Sandhai ),10.29,-70.6
+2025-03-11,Tuesday,Bitter gourd,Mettur(Uzhavar Sandhai ),10.34,-70.46
+2025-03-12,Wednesday,Bitter gourd,Mettur(Uzhavar Sandhai ),10.35,-70.43
+2025-03-13,Thursday,Bitter gourd,Mettur(Uzhavar Sandhai ),10.36,-70.4
+2025-03-07,Friday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),12.39,-58.72
+2025-03-08,Saturday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),10.25,-65.84
+2025-03-09,Sunday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),10.25,-65.84
+2025-03-10,Monday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),10.31,-65.65
+2025-03-11,Tuesday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),10.35,-65.49
+2025-03-12,Wednesday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),10.36,-65.45
+2025-03-13,Thursday,Bitter gourd,Sooramangalam(Uzhavar Sandhai ),10.37,-65.42
+2025-03-07,Friday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),12.4,-61.24
+2025-03-08,Saturday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),11.21,-64.98
+2025-03-09,Sunday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),11.21,-64.98
+2025-03-10,Monday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),11.2,-65.01
+2025-03-11,Tuesday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),11.24,-64.86
+2025-03-12,Wednesday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),11.25,-64.83
+2025-03-13,Thursday,Bitter gourd,Thammampatti (Uzhavar Sandhai ),11.24,-64.86
+2025-03-07,Friday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),12.33,-58.91
+2025-03-08,Saturday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),10.26,-65.81
+2025-03-09,Sunday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),10.26,-65.8
+2025-03-10,Monday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),10.32,-65.6
+2025-03-11,Tuesday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),10.37,-65.44
+2025-03-12,Wednesday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),10.38,-65.4
+2025-03-13,Thursday,Bitter gourd,Thathakapatti(Uzhavar Sandhai ),10.39,-65.37

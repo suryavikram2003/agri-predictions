@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Drumstick,Attayampatti(Uzhavar Sandhai ),103.02,3.02
+2025-03-08,Saturday,Drumstick,Attayampatti(Uzhavar Sandhai ),102.93,2.93
+2025-03-09,Sunday,Drumstick,Attayampatti(Uzhavar Sandhai ),102.93,2.93
+2025-03-10,Monday,Drumstick,Attayampatti(Uzhavar Sandhai ),102.92,2.92
+2025-03-11,Tuesday,Drumstick,Attayampatti(Uzhavar Sandhai ),102.93,2.93
+2025-03-12,Wednesday,Drumstick,Attayampatti(Uzhavar Sandhai ),102.93,2.93
+2025-03-13,Thursday,Drumstick,Attayampatti(Uzhavar Sandhai ),102.93,2.93
+2025-03-07,Friday,Drumstick,Ammapet(Uzhavar Sandhai ),101.05,1.05
+2025-03-08,Saturday,Drumstick,Ammapet(Uzhavar Sandhai ),100.95,0.95
+2025-03-09,Sunday,Drumstick,Ammapet(Uzhavar Sandhai ),100.95,0.95
+2025-03-10,Monday,Drumstick,Ammapet(Uzhavar Sandhai ),100.94,0.94
+2025-03-11,Tuesday,Drumstick,Ammapet(Uzhavar Sandhai ),100.95,0.95
+2025-03-12,Wednesday,Drumstick,Ammapet(Uzhavar Sandhai ),100.95,0.95
+2025-03-13,Thursday,Drumstick,Ammapet(Uzhavar Sandhai ),100.95,0.95
+2025-03-07,Friday,Drumstick,Athur(Uzhavar Sandhai ),78.81,-1.49
+2025-03-08,Saturday,Drumstick,Athur(Uzhavar Sandhai ),78.84,-1.46
+2025-03-09,Sunday,Drumstick,Athur(Uzhavar Sandhai ),78.83,-1.46
+2025-03-10,Monday,Drumstick,Athur(Uzhavar Sandhai ),78.82,-1.47
+2025-03-11,Tuesday,Drumstick,Athur(Uzhavar Sandhai ),78.83,-1.47
+2025-03-12,Wednesday,Drumstick,Athur(Uzhavar Sandhai ),78.84,-1.45
+2025-03-13,Thursday,Drumstick,Athur(Uzhavar Sandhai ),78.84,-1.45
+2025-03-07,Friday,Drumstick,Edapadi (Uzhavar Sandhai ),103.05,3.05
+2025-03-08,Saturday,Drumstick,Edapadi (Uzhavar Sandhai ),102.96,2.96
+2025-03-09,Sunday,Drumstick,Edapadi (Uzhavar Sandhai ),102.96,2.96
+2025-03-10,Monday,Drumstick,Edapadi (Uzhavar Sandhai ),102.95,2.95
+2025-03-11,Tuesday,Drumstick,Edapadi (Uzhavar Sandhai ),102.95,2.95
+2025-03-12,Wednesday,Drumstick,Edapadi (Uzhavar Sandhai ),102.95,2.95
+2025-03-13,Thursday,Drumstick,Edapadi (Uzhavar Sandhai ),102.95,2.95
+2025-03-07,Friday,Drumstick,Elampillai(Uzhavar Sandhai ),101.06,1.06
+2025-03-08,Saturday,Drumstick,Elampillai(Uzhavar Sandhai ),100.96,0.96
+2025-03-09,Sunday,Drumstick,Elampillai(Uzhavar Sandhai ),100.96,0.96
+2025-03-10,Monday,Drumstick,Elampillai(Uzhavar Sandhai ),100.95,0.95
+2025-03-11,Tuesday,Drumstick,Elampillai(Uzhavar Sandhai ),100.95,0.95
+2025-03-12,Wednesday,Drumstick,Elampillai(Uzhavar Sandhai ),100.95,0.95
+2025-03-13,Thursday,Drumstick,Elampillai(Uzhavar Sandhai ),100.96,0.96
+2025-03-07,Friday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.69,-8.31
+2025-03-08,Saturday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.3,-8.7
+2025-03-09,Sunday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.3,-8.7
+2025-03-10,Monday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.28,-8.72
+2025-03-11,Tuesday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.29,-8.71
+2025-03-12,Wednesday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.3,-8.7
+2025-03-13,Thursday,Drumstick,Hasthampatti(Uzhavar Sandhai ),91.3,-8.7
+2025-03-07,Friday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.46,-3.54
+2025-03-08,Saturday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.48,-3.52
+2025-03-09,Sunday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.54,-3.46
+2025-03-10,Monday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.53,-3.47
+2025-03-11,Tuesday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.54,-3.46
+2025-03-12,Wednesday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.56,-3.44
+2025-03-13,Thursday,Drumstick,Sooramangalam(Uzhavar Sandhai ),96.56,-3.44
+2025-03-07,Friday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.56,-0.44
+2025-03-08,Saturday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.6,-0.4
+2025-03-09,Sunday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.59,-0.41
+2025-03-10,Monday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.58,-0.42
+2025-03-11,Tuesday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.58,-0.42
+2025-03-12,Wednesday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.59,-0.41
+2025-03-13,Thursday,Drumstick,Thathakapatti(Uzhavar Sandhai ),99.59,-0.41
+2025-03-07,Friday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.1,1.1
+2025-03-08,Saturday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.05,1.05
+2025-03-09,Sunday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.05,1.05
+2025-03-10,Monday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.04,1.04
+2025-03-11,Tuesday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.04,1.04
+2025-03-12,Wednesday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.05,1.05
+2025-03-13,Thursday,Drumstick,Jalagandapuram(Uzhavar Sandhai ),101.05,1.05
+2025-03-07,Friday,Drumstick,Mettur(Uzhavar Sandhai ),101.79,1.79
+2025-03-08,Saturday,Drumstick,Mettur(Uzhavar Sandhai ),101.73,1.73
+2025-03-09,Sunday,Drumstick,Mettur(Uzhavar Sandhai ),101.73,1.73
+2025-03-10,Monday,Drumstick,Mettur(Uzhavar Sandhai ),101.72,1.72
+2025-03-11,Tuesday,Drumstick,Mettur(Uzhavar Sandhai ),101.72,1.72
+2025-03-12,Wednesday,Drumstick,Mettur(Uzhavar Sandhai ),101.73,1.73
+2025-03-13,Thursday,Drumstick,Mettur(Uzhavar Sandhai ),101.72,1.72
+2025-03-07,Friday,Drumstick,Thammampatti (Uzhavar Sandhai ),101.09,1.09
+2025-03-08,Saturday,Drumstick,Thammampatti (Uzhavar Sandhai ),100.99,0.99
+2025-03-09,Sunday,Drumstick,Thammampatti (Uzhavar Sandhai ),100.99,0.99
+2025-03-10,Monday,Drumstick,Thammampatti (Uzhavar Sandhai ),100.99,0.99
+2025-03-11,Tuesday,Drumstick,Thammampatti (Uzhavar Sandhai ),100.98,0.98
+2025-03-12,Wednesday,Drumstick,Thammampatti (Uzhavar Sandhai ),100.99,0.99
+2025-03-13,Thursday,Drumstick,Thammampatti (Uzhavar Sandhai ),100.99,0.99

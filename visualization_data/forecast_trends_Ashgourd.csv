@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.45,-34.67
+2025-03-08,Saturday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.48,-34.48
+2025-03-09,Sunday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.49,-34.46
+2025-03-10,Monday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.56,-34.02
+2025-03-11,Tuesday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.62,-33.65
+2025-03-12,Wednesday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.63,-33.59
+2025-03-13,Thursday,Ashgourd,Ammapet(Uzhavar Sandhai ),10.63,-33.56
+2025-03-07,Friday,Ashgourd,Athur(Uzhavar Sandhai ),10.12,-36.73
+2025-03-08,Saturday,Ashgourd,Athur(Uzhavar Sandhai ),10.16,-36.53
+2025-03-09,Sunday,Ashgourd,Athur(Uzhavar Sandhai ),10.16,-36.51
+2025-03-10,Monday,Ashgourd,Athur(Uzhavar Sandhai ),10.21,-36.19
+2025-03-11,Tuesday,Ashgourd,Athur(Uzhavar Sandhai ),10.27,-35.82
+2025-03-12,Wednesday,Ashgourd,Athur(Uzhavar Sandhai ),10.28,-35.77
+2025-03-13,Thursday,Ashgourd,Athur(Uzhavar Sandhai ),10.28,-35.73
+2025-03-07,Friday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.36,-28.99
+2025-03-08,Saturday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.39,-28.82
+2025-03-09,Sunday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.39,-28.81
+2025-03-10,Monday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.38,-28.88
+2025-03-11,Tuesday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.44,-28.51
+2025-03-12,Wednesday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.45,-28.45
+2025-03-13,Thursday,Ashgourd,Attayampatti(Uzhavar Sandhai ),11.45,-28.44
+2025-03-07,Friday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.64,-33.49
+2025-03-08,Saturday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.67,-33.34
+2025-03-09,Sunday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.67,-33.33
+2025-03-10,Monday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.74,-32.9
+2025-03-11,Tuesday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.79,-32.53
+2025-03-12,Wednesday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.81,-32.46
+2025-03-13,Thursday,Ashgourd,Edapadi (Uzhavar Sandhai ),10.81,-32.45
+2025-03-07,Friday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.8,7.97
+2025-03-08,Saturday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.8,7.97
+2025-03-09,Sunday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.8,7.99
+2025-03-10,Monday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.79,7.9
+2025-03-11,Tuesday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.85,8.49
+2025-03-12,Wednesday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.86,8.59
+2025-03-13,Thursday,Ashgourd,Elampillai(Uzhavar Sandhai ),10.86,8.63
+2025-03-07,Friday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.97,-45.13
+2025-03-08,Saturday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.32,-48.39
+2025-03-09,Sunday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.33,-48.37
+2025-03-10,Monday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.39,-48.07
+2025-03-11,Tuesday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.45,-47.77
+2025-03-12,Wednesday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.46,-47.72
+2025-03-13,Thursday,Ashgourd,Hasthampatti(Uzhavar Sandhai ),10.46,-47.7
+2025-03-07,Friday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.2,-36.27
+2025-03-08,Saturday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.23,-36.05
+2025-03-09,Sunday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.23,-36.04
+2025-03-10,Monday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.29,-35.66
+2025-03-11,Tuesday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.35,-35.29
+2025-03-12,Wednesday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.36,-35.22
+2025-03-13,Thursday,Ashgourd,Jalagandapuram(Uzhavar Sandhai ),10.37,-35.18
+2025-03-07,Friday,Ashgourd,Mettur(Uzhavar Sandhai ),10.32,-31.22
+2025-03-08,Saturday,Ashgourd,Mettur(Uzhavar Sandhai ),10.31,-31.24
+2025-03-09,Sunday,Ashgourd,Mettur(Uzhavar Sandhai ),10.32,-31.22
+2025-03-10,Monday,Ashgourd,Mettur(Uzhavar Sandhai ),10.38,-30.8
+2025-03-11,Tuesday,Ashgourd,Mettur(Uzhavar Sandhai ),10.44,-30.41
+2025-03-12,Wednesday,Ashgourd,Mettur(Uzhavar Sandhai ),10.45,-30.34
+2025-03-13,Thursday,Ashgourd,Mettur(Uzhavar Sandhai ),10.46,-30.29
+2025-03-07,Friday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.1,-43.88
+2025-03-08,Saturday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.26,-43.01
+2025-03-09,Sunday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.26,-43.0
+2025-03-10,Monday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.32,-42.65
+2025-03-11,Tuesday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.38,-42.33
+2025-03-12,Wednesday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.39,-42.27
+2025-03-13,Thursday,Ashgourd,Sooramangalam(Uzhavar Sandhai ),10.4,-42.24
+2025-03-07,Friday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.42,-23.9
+2025-03-08,Saturday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.42,-23.88
+2025-03-09,Sunday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.42,-23.87
+2025-03-10,Monday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.41,-23.96
+2025-03-11,Tuesday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.47,-23.56
+2025-03-12,Wednesday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.48,-23.49
+2025-03-13,Thursday,Ashgourd,Thammampatti (Uzhavar Sandhai ),11.48,-23.48
+2025-03-07,Friday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.25,-35.97
+2025-03-08,Saturday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.28,-35.77
+2025-03-09,Sunday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.28,-35.75
+2025-03-10,Monday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.34,-35.36
+2025-03-11,Tuesday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.4,-35.0
+2025-03-12,Wednesday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.41,-34.93
+2025-03-13,Thursday,Ashgourd,Thathakapatti(Uzhavar Sandhai ),10.42,-34.9

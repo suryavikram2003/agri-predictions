@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Brinjal,Ammapet(Uzhavar Sandhai ),10.79,-46.03
+2025-03-08,Saturday,Brinjal,Ammapet(Uzhavar Sandhai ),10.22,-48.92
+2025-03-09,Sunday,Brinjal,Ammapet(Uzhavar Sandhai ),10.22,-48.92
+2025-03-10,Monday,Brinjal,Ammapet(Uzhavar Sandhai ),10.29,-48.55
+2025-03-11,Tuesday,Brinjal,Ammapet(Uzhavar Sandhai ),10.34,-48.31
+2025-03-12,Wednesday,Brinjal,Ammapet(Uzhavar Sandhai ),10.35,-48.26
+2025-03-13,Thursday,Brinjal,Ammapet(Uzhavar Sandhai ),10.34,-48.32
+2025-03-07,Friday,Brinjal,Athur(Uzhavar Sandhai ),10.7,-46.52
+2025-03-08,Saturday,Brinjal,Athur(Uzhavar Sandhai ),9.87,-50.65
+2025-03-09,Sunday,Brinjal,Athur(Uzhavar Sandhai ),9.87,-50.66
+2025-03-10,Monday,Brinjal,Athur(Uzhavar Sandhai ),9.92,-50.38
+2025-03-11,Tuesday,Brinjal,Athur(Uzhavar Sandhai ),9.96,-50.18
+2025-03-12,Wednesday,Brinjal,Athur(Uzhavar Sandhai ),9.97,-50.14
+2025-03-13,Thursday,Brinjal,Athur(Uzhavar Sandhai ),9.98,-50.1
+2025-03-07,Friday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.67,-41.64
+2025-03-08,Saturday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.01,-44.96
+2025-03-09,Sunday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.01,-44.96
+2025-03-10,Monday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.0,-44.98
+2025-03-11,Tuesday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.05,-44.77
+2025-03-12,Wednesday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.05,-44.73
+2025-03-13,Thursday,Brinjal,Attayampatti(Uzhavar Sandhai ),11.04,-44.8
+2025-03-07,Friday,Brinjal,Edapadi (Uzhavar Sandhai ),10.92,-45.41
+2025-03-08,Saturday,Brinjal,Edapadi (Uzhavar Sandhai ),10.39,-48.06
+2025-03-09,Sunday,Brinjal,Edapadi (Uzhavar Sandhai ),10.39,-48.06
+2025-03-10,Monday,Brinjal,Edapadi (Uzhavar Sandhai ),10.47,-47.67
+2025-03-11,Tuesday,Brinjal,Edapadi (Uzhavar Sandhai ),10.51,-47.46
+2025-03-12,Wednesday,Brinjal,Edapadi (Uzhavar Sandhai ),10.52,-47.42
+2025-03-13,Thursday,Brinjal,Edapadi (Uzhavar Sandhai ),10.5,-47.48
+2025-03-07,Friday,Brinjal,Elampillai(Uzhavar Sandhai ),10.9,-45.52
+2025-03-08,Saturday,Brinjal,Elampillai(Uzhavar Sandhai ),10.53,-47.34
+2025-03-09,Sunday,Brinjal,Elampillai(Uzhavar Sandhai ),10.53,-47.34
+2025-03-10,Monday,Brinjal,Elampillai(Uzhavar Sandhai ),10.53,-47.37
+2025-03-11,Tuesday,Brinjal,Elampillai(Uzhavar Sandhai ),10.58,-47.12
+2025-03-12,Wednesday,Brinjal,Elampillai(Uzhavar Sandhai ),10.58,-47.08
+2025-03-13,Thursday,Brinjal,Elampillai(Uzhavar Sandhai ),10.57,-47.13
+2025-03-07,Friday,Brinjal,Hasthampatti(Uzhavar Sandhai ),11.79,-50.87
+2025-03-08,Saturday,Brinjal,Hasthampatti(Uzhavar Sandhai ),10.19,-57.53
+2025-03-09,Sunday,Brinjal,Hasthampatti(Uzhavar Sandhai ),10.19,-57.52
+2025-03-10,Monday,Brinjal,Hasthampatti(Uzhavar Sandhai ),10.26,-57.26
+2025-03-11,Tuesday,Brinjal,Hasthampatti(Uzhavar Sandhai ),10.31,-57.06
+2025-03-12,Wednesday,Brinjal,Hasthampatti(Uzhavar Sandhai ),10.31,-57.02
+2025-03-13,Thursday,Brinjal,Hasthampatti(Uzhavar Sandhai ),10.32,-57.0
+2025-03-07,Friday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),10.73,-46.37
+2025-03-08,Saturday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),9.86,-50.7
+2025-03-09,Sunday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),9.86,-50.69
+2025-03-10,Monday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),9.93,-50.35
+2025-03-11,Tuesday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),9.97,-50.15
+2025-03-12,Wednesday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),9.98,-50.1
+2025-03-13,Thursday,Brinjal,Jalagandapuram(Uzhavar Sandhai ),9.99,-50.07
+2025-03-07,Friday,Brinjal,Mettur(Uzhavar Sandhai ),10.11,-32.61
+2025-03-08,Saturday,Brinjal,Mettur(Uzhavar Sandhai ),10.11,-32.59
+2025-03-09,Sunday,Brinjal,Mettur(Uzhavar Sandhai ),10.12,-32.56
+2025-03-10,Monday,Brinjal,Mettur(Uzhavar Sandhai ),10.18,-32.13
+2025-03-11,Tuesday,Brinjal,Mettur(Uzhavar Sandhai ),10.23,-31.8
+2025-03-12,Wednesday,Brinjal,Mettur(Uzhavar Sandhai ),10.24,-31.74
+2025-03-13,Thursday,Brinjal,Mettur(Uzhavar Sandhai ),10.25,-31.69
+2025-03-07,Friday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.94,-45.32
+2025-03-08,Saturday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.12,-49.39
+2025-03-09,Sunday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.12,-49.39
+2025-03-10,Monday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.18,-49.08
+2025-03-11,Tuesday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.23,-48.83
+2025-03-12,Wednesday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.24,-48.78
+2025-03-13,Thursday,Brinjal,Sooramangalam(Uzhavar Sandhai ),10.25,-48.76
+2025-03-07,Friday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.73,-51.12
+2025-03-08,Saturday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.07,-53.87
+2025-03-09,Sunday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.07,-53.87
+2025-03-10,Monday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.07,-53.89
+2025-03-11,Tuesday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.11,-53.71
+2025-03-12,Wednesday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.12,-53.68
+2025-03-13,Thursday,Brinjal,Thammampatti (Uzhavar Sandhai ),11.1,-53.74
+2025-03-07,Friday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.91,-45.43
+2025-03-08,Saturday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.13,-49.36
+2025-03-09,Sunday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.13,-49.34
+2025-03-10,Monday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.19,-49.03
+2025-03-11,Tuesday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.24,-48.78
+2025-03-12,Wednesday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.25,-48.74
+2025-03-13,Thursday,Brinjal,Thathakapatti(Uzhavar Sandhai ),10.26,-48.71

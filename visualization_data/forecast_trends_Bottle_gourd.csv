@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.44,-25.43
+2025-03-08,Saturday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.45,-25.37
+2025-03-09,Sunday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.45,-25.36
+2025-03-10,Monday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.52,-24.88
+2025-03-11,Tuesday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.57,-24.53
+2025-03-12,Wednesday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.57,-24.47
+2025-03-13,Thursday,Bottle gourd,Ammapet(Uzhavar Sandhai ),10.58,-24.42
+2025-03-07,Friday,Bottle gourd,Athur(Uzhavar Sandhai ),10.1,0.99
+2025-03-08,Saturday,Bottle gourd,Athur(Uzhavar Sandhai ),10.11,1.07
+2025-03-09,Sunday,Bottle gourd,Athur(Uzhavar Sandhai ),10.11,1.09
+2025-03-10,Monday,Bottle gourd,Athur(Uzhavar Sandhai ),10.16,1.62
+2025-03-11,Tuesday,Bottle gourd,Athur(Uzhavar Sandhai ),10.21,2.11
+2025-03-12,Wednesday,Bottle gourd,Athur(Uzhavar Sandhai ),10.22,2.21
+2025-03-13,Thursday,Bottle gourd,Athur(Uzhavar Sandhai ),10.23,2.29
+2025-03-07,Friday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.3,-19.26
+2025-03-08,Saturday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.31,-19.23
+2025-03-09,Sunday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.31,-19.23
+2025-03-10,Monday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.3,-19.27
+2025-03-11,Tuesday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.35,-18.93
+2025-03-12,Wednesday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.36,-18.86
+2025-03-13,Thursday,Bottle gourd,Attayampatti(Uzhavar Sandhai ),11.36,-18.83
+2025-03-07,Friday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.62,-11.52
+2025-03-08,Saturday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.63,-11.45
+2025-03-09,Sunday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.63,-11.45
+2025-03-10,Monday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.7,-10.86
+2025-03-11,Tuesday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.74,-10.46
+2025-03-12,Wednesday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.76,-10.37
+2025-03-13,Thursday,Bottle gourd,Edapadi (Uzhavar Sandhai ),10.76,-10.33
+2025-03-07,Friday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.75,-28.34
+2025-03-08,Saturday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.75,-28.31
+2025-03-09,Sunday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.75,-28.31
+2025-03-10,Monday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.75,-28.36
+2025-03-11,Tuesday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.8,-28.03
+2025-03-12,Wednesday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.8,-27.98
+2025-03-13,Thursday,Bottle gourd,Elampillai(Uzhavar Sandhai ),10.81,-27.94
+2025-03-07,Friday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.31,-26.39
+2025-03-08,Saturday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.32,-26.32
+2025-03-09,Sunday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.32,-26.29
+2025-03-10,Monday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.38,-25.86
+2025-03-11,Tuesday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.43,-25.51
+2025-03-12,Wednesday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.44,-25.46
+2025-03-13,Thursday,Bottle gourd,Hasthampatti(Uzhavar Sandhai ),10.44,-25.4
+2025-03-07,Friday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.12,1.19
+2025-03-08,Saturday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.13,1.28
+2025-03-09,Sunday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.13,1.28
+2025-03-10,Monday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.19,1.93
+2025-03-11,Tuesday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.24,2.43
+2025-03-12,Wednesday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.25,2.5
+2025-03-13,Thursday,Bottle gourd,Jalagandapuram(Uzhavar Sandhai ),10.26,2.58
+2025-03-07,Friday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.27,2.7
+2025-03-08,Saturday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.28,2.79
+2025-03-09,Sunday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.28,2.83
+2025-03-10,Monday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.35,3.47
+2025-03-11,Tuesday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.4,3.97
+2025-03-12,Wednesday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.41,4.05
+2025-03-13,Thursday,Bottle gourd,Mettur(Uzhavar Sandhai ),10.41,4.13
+2025-03-07,Friday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.24,-26.88
+2025-03-08,Saturday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.24,-26.85
+2025-03-09,Sunday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.24,-26.83
+2025-03-10,Monday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.31,-26.39
+2025-03-11,Tuesday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.35,-26.04
+2025-03-12,Wednesday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.36,-25.99
+2025-03-13,Thursday,Bottle gourd,Sooramangalam(Uzhavar Sandhai ),10.37,-25.93
+2025-03-07,Friday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.31,13.14
+2025-03-08,Saturday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.32,13.23
+2025-03-09,Sunday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.32,13.23
+2025-03-10,Monday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.31,13.14
+2025-03-11,Tuesday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.36,13.63
+2025-03-12,Wednesday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.37,13.72
+2025-03-13,Thursday,Bottle gourd,Thammampatti (Uzhavar Sandhai ),11.38,13.76
+2025-03-07,Friday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.28,-26.57
+2025-03-08,Saturday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.29,-26.49
+2025-03-09,Sunday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.29,-26.48
+2025-03-10,Monday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.35,-26.04
+2025-03-11,Tuesday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.4,-25.69
+2025-03-12,Wednesday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.41,-25.64
+2025-03-13,Thursday,Bottle gourd,Thathakapatti(Uzhavar Sandhai ),10.42,-25.59

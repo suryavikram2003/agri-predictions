@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.71,-46.46
+2025-03-08,Saturday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.4,-48.0
+2025-03-09,Sunday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.4,-47.99
+2025-03-10,Monday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.48,-47.62
+2025-03-11,Tuesday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.52,-47.38
+2025-03-12,Wednesday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.53,-47.33
+2025-03-13,Thursday,Snakeguard,Ammapet(Uzhavar Sandhai ),10.54,-47.3
+2025-03-07,Friday,Snakeguard,Athur(Uzhavar Sandhai ),10.05,-33.01
+2025-03-08,Saturday,Snakeguard,Athur(Uzhavar Sandhai ),10.05,-33.01
+2025-03-09,Sunday,Snakeguard,Athur(Uzhavar Sandhai ),10.05,-32.99
+2025-03-10,Monday,Snakeguard,Athur(Uzhavar Sandhai ),10.11,-32.57
+2025-03-11,Tuesday,Snakeguard,Athur(Uzhavar Sandhai ),10.16,-32.24
+2025-03-12,Wednesday,Snakeguard,Athur(Uzhavar Sandhai ),10.18,-32.17
+2025-03-13,Thursday,Snakeguard,Athur(Uzhavar Sandhai ),10.18,-32.12
+2025-03-07,Friday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.67,-41.64
+2025-03-08,Saturday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.32,-43.41
+2025-03-09,Sunday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.32,-43.41
+2025-03-10,Monday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.32,-43.42
+2025-03-11,Tuesday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.37,-43.17
+2025-03-12,Wednesday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.38,-43.12
+2025-03-13,Thursday,Snakeguard,Attayampatti(Uzhavar Sandhai ),11.38,-43.1
+2025-03-07,Friday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.86,-45.71
+2025-03-08,Saturday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.57,-47.15
+2025-03-09,Sunday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.57,-47.15
+2025-03-10,Monday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.65,-46.76
+2025-03-11,Tuesday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.7,-46.51
+2025-03-12,Wednesday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.71,-46.45
+2025-03-13,Thursday,Snakeguard,Edapadi (Uzhavar Sandhai ),10.71,-46.43
+2025-03-07,Friday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.8,-45.98
+2025-03-08,Saturday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.7,-46.5
+2025-03-09,Sunday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.7,-46.49
+2025-03-10,Monday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.7,-46.52
+2025-03-11,Tuesday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.74,-46.28
+2025-03-12,Wednesday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.76,-46.22
+2025-03-13,Thursday,Snakeguard,Elampillai(Uzhavar Sandhai ),10.76,-46.2
+2025-03-07,Friday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),11.64,-51.5
+2025-03-08,Saturday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),10.29,-57.11
+2025-03-09,Sunday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),10.3,-57.1
+2025-03-10,Monday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),10.36,-56.83
+2025-03-11,Tuesday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),10.41,-56.63
+2025-03-12,Wednesday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),10.42,-56.59
+2025-03-13,Thursday,Snakeguard,Hasthampatti(Uzhavar Sandhai ),10.42,-56.57
+2025-03-07,Friday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.71,-46.46
+2025-03-08,Saturday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.17,-49.17
+2025-03-09,Sunday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.17,-49.16
+2025-03-10,Monday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.24,-48.8
+2025-03-11,Tuesday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.29,-48.55
+2025-03-12,Wednesday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.3,-48.49
+2025-03-13,Thursday,Snakeguard,Jalagandapuram(Uzhavar Sandhai ),10.31,-48.46
+2025-03-07,Friday,Snakeguard,Mettur(Uzhavar Sandhai ),10.05,-44.14
+2025-03-08,Saturday,Snakeguard,Mettur(Uzhavar Sandhai ),10.29,-42.85
+2025-03-09,Sunday,Snakeguard,Mettur(Uzhavar Sandhai ),10.29,-42.83
+2025-03-10,Monday,Snakeguard,Mettur(Uzhavar Sandhai ),10.35,-42.48
+2025-03-11,Tuesday,Snakeguard,Mettur(Uzhavar Sandhai ),10.4,-42.2
+2025-03-12,Wednesday,Snakeguard,Mettur(Uzhavar Sandhai ),10.42,-42.13
+2025-03-13,Thursday,Snakeguard,Mettur(Uzhavar Sandhai ),10.42,-42.09
+2025-03-07,Friday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.82,-45.91
+2025-03-08,Saturday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.24,-48.78
+2025-03-09,Sunday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.25,-48.76
+2025-03-10,Monday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.31,-48.45
+2025-03-11,Tuesday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.36,-48.21
+2025-03-12,Wednesday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.37,-48.16
+2025-03-13,Thursday,Snakeguard,Sooramangalam(Uzhavar Sandhai ),10.37,-48.13
+2025-03-07,Friday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.32,-29.26
+2025-03-08,Saturday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.35,-29.08
+2025-03-09,Sunday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.35,-29.07
+2025-03-10,Monday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.35,-29.09
+2025-03-11,Tuesday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.39,-28.79
+2025-03-12,Wednesday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.4,-28.72
+2025-03-13,Thursday,Snakeguard,Thammampatti (Uzhavar Sandhai ),11.41,-28.7
+2025-03-07,Friday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.8,-46.0
+2025-03-08,Saturday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.26,-48.69
+2025-03-09,Sunday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.26,-48.68
+2025-03-10,Monday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.33,-48.36
+2025-03-11,Tuesday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.38,-48.12
+2025-03-12,Wednesday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.39,-48.06
+2025-03-13,Thursday,Snakeguard,Thathakapatti(Uzhavar Sandhai ),10.39,-48.03

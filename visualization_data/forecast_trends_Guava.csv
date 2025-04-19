@@ -1,0 +1,78 @@
+Date,Day,Commodity,Market,Predicted_Price,Price_Change_Pct_From_Last_Actual
+2025-03-07,Friday,Guava,Ammapet(Uzhavar Sandhai ),26.22,-56.3
+2025-03-08,Saturday,Guava,Ammapet(Uzhavar Sandhai ),25.27,-57.89
+2025-03-09,Sunday,Guava,Ammapet(Uzhavar Sandhai ),25.06,-58.23
+2025-03-10,Monday,Guava,Ammapet(Uzhavar Sandhai ),25.0,-58.33
+2025-03-11,Tuesday,Guava,Ammapet(Uzhavar Sandhai ),25.0,-58.33
+2025-03-12,Wednesday,Guava,Ammapet(Uzhavar Sandhai ),25.01,-58.32
+2025-03-13,Thursday,Guava,Ammapet(Uzhavar Sandhai ),25.01,-58.32
+2025-03-07,Friday,Guava,Athur(Uzhavar Sandhai ),15.55,-68.9
+2025-03-08,Saturday,Guava,Athur(Uzhavar Sandhai ),14.08,-71.85
+2025-03-09,Sunday,Guava,Athur(Uzhavar Sandhai ),14.09,-71.82
+2025-03-10,Monday,Guava,Athur(Uzhavar Sandhai ),14.09,-71.81
+2025-03-11,Tuesday,Guava,Athur(Uzhavar Sandhai ),14.09,-71.81
+2025-03-12,Wednesday,Guava,Athur(Uzhavar Sandhai ),14.1,-71.8
+2025-03-13,Thursday,Guava,Athur(Uzhavar Sandhai ),14.1,-71.8
+2025-03-07,Friday,Guava,Attayampatti(Uzhavar Sandhai ),18.84,-62.32
+2025-03-08,Saturday,Guava,Attayampatti(Uzhavar Sandhai ),16.48,-67.04
+2025-03-09,Sunday,Guava,Attayampatti(Uzhavar Sandhai ),16.23,-67.53
+2025-03-10,Monday,Guava,Attayampatti(Uzhavar Sandhai ),16.24,-67.52
+2025-03-11,Tuesday,Guava,Attayampatti(Uzhavar Sandhai ),16.24,-67.51
+2025-03-12,Wednesday,Guava,Attayampatti(Uzhavar Sandhai ),16.25,-67.5
+2025-03-13,Thursday,Guava,Attayampatti(Uzhavar Sandhai ),16.25,-67.51
+2025-03-07,Friday,Guava,Elampillai(Uzhavar Sandhai ),12.16,-59.46
+2025-03-08,Saturday,Guava,Elampillai(Uzhavar Sandhai ),10.49,-65.02
+2025-03-09,Sunday,Guava,Elampillai(Uzhavar Sandhai ),10.49,-65.02
+2025-03-10,Monday,Guava,Elampillai(Uzhavar Sandhai ),10.48,-65.05
+2025-03-11,Tuesday,Guava,Elampillai(Uzhavar Sandhai ),10.54,-64.87
+2025-03-12,Wednesday,Guava,Elampillai(Uzhavar Sandhai ),10.55,-64.82
+2025-03-13,Thursday,Guava,Elampillai(Uzhavar Sandhai ),10.56,-64.78
+2025-03-07,Friday,Guava,Hasthampatti(Uzhavar Sandhai ),13.18,-73.64
+2025-03-08,Saturday,Guava,Hasthampatti(Uzhavar Sandhai ),10.14,-79.71
+2025-03-09,Sunday,Guava,Hasthampatti(Uzhavar Sandhai ),10.15,-79.7
+2025-03-10,Monday,Guava,Hasthampatti(Uzhavar Sandhai ),10.21,-79.58
+2025-03-11,Tuesday,Guava,Hasthampatti(Uzhavar Sandhai ),10.27,-79.47
+2025-03-12,Wednesday,Guava,Hasthampatti(Uzhavar Sandhai ),10.27,-79.45
+2025-03-13,Thursday,Guava,Hasthampatti(Uzhavar Sandhai ),10.28,-79.43
+2025-03-07,Friday,Guava,Sooramangalam(Uzhavar Sandhai ),13.2,-73.6
+2025-03-08,Saturday,Guava,Sooramangalam(Uzhavar Sandhai ),10.09,-79.83
+2025-03-09,Sunday,Guava,Sooramangalam(Uzhavar Sandhai ),10.09,-79.83
+2025-03-10,Monday,Guava,Sooramangalam(Uzhavar Sandhai ),10.14,-79.71
+2025-03-11,Tuesday,Guava,Sooramangalam(Uzhavar Sandhai ),10.2,-79.59
+2025-03-12,Wednesday,Guava,Sooramangalam(Uzhavar Sandhai ),10.21,-79.58
+2025-03-13,Thursday,Guava,Sooramangalam(Uzhavar Sandhai ),10.22,-79.56
+2025-03-07,Friday,Guava,Thammampatti (Uzhavar Sandhai ),13.0,-67.51
+2025-03-08,Saturday,Guava,Thammampatti (Uzhavar Sandhai ),11.25,-71.88
+2025-03-09,Sunday,Guava,Thammampatti (Uzhavar Sandhai ),11.25,-71.87
+2025-03-10,Monday,Guava,Thammampatti (Uzhavar Sandhai ),11.24,-71.9
+2025-03-11,Tuesday,Guava,Thammampatti (Uzhavar Sandhai ),11.3,-71.76
+2025-03-12,Wednesday,Guava,Thammampatti (Uzhavar Sandhai ),11.3,-71.74
+2025-03-13,Thursday,Guava,Thammampatti (Uzhavar Sandhai ),11.31,-71.72
+2025-03-07,Friday,Guava,Thathakapatti(Uzhavar Sandhai ),22.63,-62.28
+2025-03-08,Saturday,Guava,Thathakapatti(Uzhavar Sandhai ),21.28,-64.53
+2025-03-09,Sunday,Guava,Thathakapatti(Uzhavar Sandhai ),21.17,-64.71
+2025-03-10,Monday,Guava,Thathakapatti(Uzhavar Sandhai ),21.18,-64.71
+2025-03-11,Tuesday,Guava,Thathakapatti(Uzhavar Sandhai ),21.18,-64.7
+2025-03-12,Wednesday,Guava,Thathakapatti(Uzhavar Sandhai ),21.18,-64.69
+2025-03-13,Thursday,Guava,Thathakapatti(Uzhavar Sandhai ),21.18,-64.7
+2025-03-07,Friday,Guava,Jalagandapuram(Uzhavar Sandhai ),18.77,-62.46
+2025-03-08,Saturday,Guava,Jalagandapuram(Uzhavar Sandhai ),16.51,-66.98
+2025-03-09,Sunday,Guava,Jalagandapuram(Uzhavar Sandhai ),16.17,-67.67
+2025-03-10,Monday,Guava,Jalagandapuram(Uzhavar Sandhai ),16.17,-67.65
+2025-03-11,Tuesday,Guava,Jalagandapuram(Uzhavar Sandhai ),16.17,-67.65
+2025-03-12,Wednesday,Guava,Jalagandapuram(Uzhavar Sandhai ),16.18,-67.64
+2025-03-13,Thursday,Guava,Jalagandapuram(Uzhavar Sandhai ),16.18,-67.64
+2025-03-07,Friday,Guava,Edapadi (Uzhavar Sandhai ),18.38,-63.25
+2025-03-08,Saturday,Guava,Edapadi (Uzhavar Sandhai ),16.37,-67.26
+2025-03-09,Sunday,Guava,Edapadi (Uzhavar Sandhai ),16.4,-67.2
+2025-03-10,Monday,Guava,Edapadi (Uzhavar Sandhai ),16.4,-67.19
+2025-03-11,Tuesday,Guava,Edapadi (Uzhavar Sandhai ),16.4,-67.19
+2025-03-12,Wednesday,Guava,Edapadi (Uzhavar Sandhai ),16.41,-67.18
+2025-03-13,Thursday,Guava,Edapadi (Uzhavar Sandhai ),16.41,-67.18
+2025-03-07,Friday,Guava,Mettur(Uzhavar Sandhai ),13.96,-72.09
+2025-03-08,Saturday,Guava,Mettur(Uzhavar Sandhai ),12.44,-75.12
+2025-03-09,Sunday,Guava,Mettur(Uzhavar Sandhai ),12.44,-75.13
+2025-03-10,Monday,Guava,Mettur(Uzhavar Sandhai ),12.42,-75.16
+2025-03-11,Tuesday,Guava,Mettur(Uzhavar Sandhai ),12.42,-75.17
+2025-03-12,Wednesday,Guava,Mettur(Uzhavar Sandhai ),12.43,-75.14
+2025-03-13,Thursday,Guava,Mettur(Uzhavar Sandhai ),12.44,-75.12
